@@ -1,0 +1,6087 @@
+{
+  "language": "pt",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.98,
+      "text": " Área 51, escondida no meio do deserto de Nevada, a área 51 está ligada há décadas",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.42,
+          "word": " Área",
+          "probability": 0.7080748975276947
+        },
+        {
+          "start": 0.42,
+          "end": 1.38,
+          "word": " 51,",
+          "probability": 0.989827036857605
+        },
+        {
+          "start": 1.68,
+          "end": 1.96,
+          "word": " escondida",
+          "probability": 0.9401548306147257
+        },
+        {
+          "start": 1.96,
+          "end": 2.18,
+          "word": " no",
+          "probability": 0.992423415184021
+        },
+        {
+          "start": 2.18,
+          "end": 2.36,
+          "word": " meio",
+          "probability": 0.9799546599388123
+        },
+        {
+          "start": 2.36,
+          "end": 2.56,
+          "word": " do",
+          "probability": 0.9956210255622864
+        },
+        {
+          "start": 2.56,
+          "end": 2.92,
+          "word": " deserto",
+          "probability": 0.9437726438045502
+        },
+        {
+          "start": 2.92,
+          "end": 3.1,
+          "word": " de",
+          "probability": 0.9952564835548401
+        },
+        {
+          "start": 3.1,
+          "end": 3.44,
+          "word": " Nevada,",
+          "probability": 0.9205634593963623
+        },
+        {
+          "start": 3.74,
+          "end": 3.76,
+          "word": " a",
+          "probability": 0.8888642191886902
+        },
+        {
+          "start": 3.76,
+          "end": 3.98,
+          "word": " área",
+          "probability": 0.5999873280525208
+        },
+        {
+          "start": 3.98,
+          "end": 4.62,
+          "word": " 51",
+          "probability": 0.992119550704956
+        },
+        {
+          "start": 4.62,
+          "end": 4.88,
+          "word": " está",
+          "probability": 0.9733494520187378
+        },
+        {
+          "start": 4.88,
+          "end": 5.28,
+          "word": " ligada",
+          "probability": 0.9973085820674896
+        },
+        {
+          "start": 5.28,
+          "end": 5.54,
+          "word": " há",
+          "probability": 0.9306949973106384
+        },
+        {
+          "start": 5.54,
+          "end": 5.98,
+          "word": " décadas",
+          "probability": 0.9954879879951477
+        }
+      ]
+    },
+    {
+      "start": 5.98,
+      "end": 9.82,
+      "text": " a rumores sobre alienígenas, ovnis e experimentos secretos.",
+      "words": [
+        {
+          "start": 5.98,
+          "end": 6.16,
+          "word": " a",
+          "probability": 0.9547957181930542
+        },
+        {
+          "start": 6.16,
+          "end": 6.52,
+          "word": " rumores",
+          "probability": 0.9974675178527832
+        },
+        {
+          "start": 6.52,
+          "end": 6.8,
+          "word": " sobre",
+          "probability": 0.9914519786834717
+        },
+        {
+          "start": 6.8,
+          "end": 7.64,
+          "word": " alienígenas,",
+          "probability": 0.9903377095858256
+        },
+        {
+          "start": 7.84,
+          "end": 8.2,
+          "word": " ovnis",
+          "probability": 0.6792706102132797
+        },
+        {
+          "start": 8.2,
+          "end": 8.48,
+          "word": " e",
+          "probability": 0.9718621969223022
+        },
+        {
+          "start": 8.48,
+          "end": 9.12,
+          "word": " experimentos",
+          "probability": 0.9953045845031738
+        },
+        {
+          "start": 9.12,
+          "end": 9.82,
+          "word": " secretos.",
+          "probability": 0.9745959043502808
+        }
+      ]
+    },
+    {
+      "start": 9.9,
+      "end": 14.72,
+      "text": " Como a base militar permaneceu sem reconhecimento oficial por muito tempo, muita gente passou",
+      "words": [
+        {
+          "start": 9.9,
+          "end": 10.08,
+          "word": " Como",
+          "probability": 0.9811620712280273
+        },
+        {
+          "start": 10.08,
+          "end": 10.22,
+          "word": " a",
+          "probability": 0.9955347776412964
+        },
+        {
+          "start": 10.22,
+          "end": 10.38,
+          "word": " base",
+          "probability": 0.9424184560775757
+        },
+        {
+          "start": 10.38,
+          "end": 10.76,
+          "word": " militar",
+          "probability": 0.9988319277763367
+        },
+        {
+          "start": 10.76,
+          "end": 11.36,
+          "word": " permaneceu",
+          "probability": 0.9970885117848715
+        },
+        {
+          "start": 11.36,
+          "end": 11.6,
+          "word": " sem",
+          "probability": 0.9969274401664734
+        },
+        {
+          "start": 11.6,
+          "end": 12.2,
+          "word": " reconhecimento",
+          "probability": 0.9973416328430176
+        },
+        {
+          "start": 12.2,
+          "end": 12.64,
+          "word": " oficial",
+          "probability": 0.9989022016525269
+        },
+        {
+          "start": 12.64,
+          "end": 12.94,
+          "word": " por",
+          "probability": 0.9895660877227783
+        },
+        {
+          "start": 12.94,
+          "end": 13.26,
+          "word": " muito",
+          "probability": 0.9962300658226013
+        },
+        {
+          "start": 13.26,
+          "end": 13.74,
+          "word": " tempo,",
+          "probability": 0.9992055296897888
+        },
+        {
+          "start": 14.08,
+          "end": 14.16,
+          "word": " muita",
+          "probability": 0.9812007546424866
+        },
+        {
+          "start": 14.16,
+          "end": 14.48,
+          "word": " gente",
+          "probability": 0.9974306225776672
+        },
+        {
+          "start": 14.48,
+          "end": 14.72,
+          "word": " passou",
+          "probability": 0.9969152212142944
+        }
+      ]
+    },
+    {
+      "start": 14.72,
+      "end": 18.3,
+      "text": " a acreditar que o governo americano escondia algo extraordinário ali.",
+      "words": [
+        {
+          "start": 14.72,
+          "end": 14.88,
+          "word": " a",
+          "probability": 0.9943128824234009
+        },
+        {
+          "start": 14.88,
+          "end": 15.28,
+          "word": " acreditar",
+          "probability": 0.9975687563419342
+        },
+        {
+          "start": 15.28,
+          "end": 15.4,
+          "word": " que",
+          "probability": 0.9973489046096802
+        },
+        {
+          "start": 15.4,
+          "end": 15.5,
+          "word": " o",
+          "probability": 0.9987334609031677
+        },
+        {
+          "start": 15.5,
+          "end": 15.74,
+          "word": " governo",
+          "probability": 0.9762867093086243
+        },
+        {
+          "start": 15.74,
+          "end": 16.22,
+          "word": " americano",
+          "probability": 0.9770025908946991
+        },
+        {
+          "start": 16.22,
+          "end": 16.76,
+          "word": " escondia",
+          "probability": 0.9920786817868551
+        },
+        {
+          "start": 16.76,
+          "end": 17.2,
+          "word": " algo",
+          "probability": 0.9987784028053284
+        },
+        {
+          "start": 17.2,
+          "end": 18.08,
+          "word": " extraordinário",
+          "probability": 0.9940995573997498
+        },
+        {
+          "start": 18.08,
+          "end": 18.3,
+          "word": " ali.",
+          "probability": 0.9780284762382507
+        }
+      ]
+    },
+    {
+      "start": 18.56,
+      "end": 22.24,
+      "text": " A teoria ganhou força durante a Guerra Fria, depois que testemunhas relataram",
+      "words": [
+        {
+          "start": 18.56,
+          "end": 18.7,
+          "word": " A",
+          "probability": 0.9922814965248108
+        },
+        {
+          "start": 18.7,
+          "end": 19.0,
+          "word": " teoria",
+          "probability": 0.9857228696346283
+        },
+        {
+          "start": 19.0,
+          "end": 19.28,
+          "word": " ganhou",
+          "probability": 0.998286783695221
+        },
+        {
+          "start": 19.28,
+          "end": 19.6,
+          "word": " força",
+          "probability": 0.9956113696098328
+        },
+        {
+          "start": 19.6,
+          "end": 19.9,
+          "word": " durante",
+          "probability": 0.9958630800247192
+        },
+        {
+          "start": 19.9,
+          "end": 20.02,
+          "word": " a",
+          "probability": 0.9978142976760864
+        },
+        {
+          "start": 20.02,
+          "end": 20.24,
+          "word": " Guerra",
+          "probability": 0.6218498945236206
+        },
+        {
+          "start": 20.24,
+          "end": 20.56,
+          "word": " Fria,",
+          "probability": 0.9756300747394562
+        },
+        {
+          "start": 20.88,
+          "end": 20.98,
+          "word": " depois",
+          "probability": 0.996174693107605
+        },
+        {
+          "start": 20.98,
+          "end": 21.2,
+          "word": " que",
+          "probability": 0.9932827949523926
+        },
+        {
+          "start": 21.2,
+          "end": 21.72,
+          "word": " testemunhas",
+          "probability": 0.9920824766159058
+        },
+        {
+          "start": 21.72,
+          "end": 22.24,
+          "word": " relataram",
+          "probability": 0.9402700265248617
+        }
+      ]
+    },
+    {
+      "start": 22.24,
+      "end": 26.96,
+      "text": " aeronaves estranhas e objetos inexplicáveis cruzando o céu em velocidades fora do",
+      "words": [
+        {
+          "start": 22.24,
+          "end": 22.76,
+          "word": " aeronaves",
+          "probability": 0.9592728018760681
+        },
+        {
+          "start": 22.76,
+          "end": 23.38,
+          "word": " estranhas",
+          "probability": 0.9941421449184418
+        },
+        {
+          "start": 23.38,
+          "end": 23.58,
+          "word": " e",
+          "probability": 0.9890469908714294
+        },
+        {
+          "start": 23.58,
+          "end": 24.0,
+          "word": " objetos",
+          "probability": 0.9960920214653015
+        },
+        {
+          "start": 24.0,
+          "end": 24.86,
+          "word": " inexplicáveis",
+          "probability": 0.9940966169039408
+        },
+        {
+          "start": 24.86,
+          "end": 25.38,
+          "word": " cruzando",
+          "probability": 0.972887376944224
+        },
+        {
+          "start": 25.38,
+          "end": 25.52,
+          "word": " o",
+          "probability": 0.9642789959907532
+        },
+        {
+          "start": 25.52,
+          "end": 25.64,
+          "word": " céu",
+          "probability": 0.9879267811775208
+        },
+        {
+          "start": 25.64,
+          "end": 25.78,
+          "word": " em",
+          "probability": 0.9901110529899597
+        },
+        {
+          "start": 25.78,
+          "end": 26.44,
+          "word": " velocidades",
+          "probability": 0.9965522289276123
+        },
+        {
+          "start": 26.44,
+          "end": 26.74,
+          "word": " fora",
+          "probability": 0.9973742961883545
+        },
+        {
+          "start": 26.74,
+          "end": 26.96,
+          "word": " do",
+          "probability": 0.9927546381950378
+        }
+      ]
+    },
+    {
+      "start": 26.96,
+      "end": 27.12,
+      "text": " comum.",
+      "words": [
+        {
+          "start": 26.96,
+          "end": 27.12,
+          "word": " comum.",
+          "probability": 0.9913546442985535
+        }
+      ]
+    },
+    {
+      "start": 27.12,
+      "end": 32.8,
+      "text": " Com o tempo, surgiu a crença de que os militares estudavam tecnologia extraterrestre ou guardavam",
+      "words": [
+        {
+          "start": 27.12,
+          "end": 27.6,
+          "word": " Com",
+          "probability": 0.6028293371200562
+        },
+        {
+          "start": 27.6,
+          "end": 27.74,
+          "word": " o",
+          "probability": 0.9980301260948181
+        },
+        {
+          "start": 27.74,
+          "end": 28.1,
+          "word": " tempo,",
+          "probability": 0.9992426633834839
+        },
+        {
+          "start": 28.4,
+          "end": 28.64,
+          "word": " surgiu",
+          "probability": 0.9978927075862885
+        },
+        {
+          "start": 28.64,
+          "end": 28.78,
+          "word": " a",
+          "probability": 0.9974616765975952
+        },
+        {
+          "start": 28.78,
+          "end": 29.02,
+          "word": " crença",
+          "probability": 0.9963529904683431
+        },
+        {
+          "start": 29.02,
+          "end": 29.14,
+          "word": " de",
+          "probability": 0.9919542670249939
+        },
+        {
+          "start": 29.14,
+          "end": 29.24,
+          "word": " que",
+          "probability": 0.999187171459198
+        },
+        {
+          "start": 29.24,
+          "end": 29.44,
+          "word": " os",
+          "probability": 0.9949297308921814
+        },
+        {
+          "start": 29.44,
+          "end": 29.88,
+          "word": " militares",
+          "probability": 0.9961710770924886
+        },
+        {
+          "start": 29.88,
+          "end": 30.36,
+          "word": " estudavam",
+          "probability": 0.9938284158706665
+        },
+        {
+          "start": 30.36,
+          "end": 31.12,
+          "word": " tecnologia",
+          "probability": 0.9798513054847717
+        },
+        {
+          "start": 31.12,
+          "end": 32.02,
+          "word": " extraterrestre",
+          "probability": 0.9900346597035726
+        },
+        {
+          "start": 32.02,
+          "end": 32.3,
+          "word": " ou",
+          "probability": 0.9539948105812073
+        },
+        {
+          "start": 32.3,
+          "end": 32.8,
+          "word": " guardavam",
+          "probability": 0.9954306185245514
+        }
+      ]
+    },
+    {
+      "start": 32.8,
+      "end": 35.36,
+      "text": " naves alienígenas acidentadas dentro da base.",
+      "words": [
+        {
+          "start": 32.8,
+          "end": 33.16,
+          "word": " naves",
+          "probability": 0.9713875651359558
+        },
+        {
+          "start": 33.16,
+          "end": 33.88,
+          "word": " alienígenas",
+          "probability": 0.9957051674524943
+        },
+        {
+          "start": 33.88,
+          "end": 34.58,
+          "word": " acidentadas",
+          "probability": 0.9745435118675232
+        },
+        {
+          "start": 34.58,
+          "end": 34.86,
+          "word": " dentro",
+          "probability": 0.9925885200500488
+        },
+        {
+          "start": 34.86,
+          "end": 35.08,
+          "word": " da",
+          "probability": 0.9945064187049866
+        },
+        {
+          "start": 35.08,
+          "end": 35.36,
+          "word": " base.",
+          "probability": 0.9762076735496521
+        }
+      ]
+    },
+    {
+      "start": 35.68,
+      "end": 42.46,
+      "text": " Nas décadas de 1980 e 1990, a cobertura da mídia e a popularização da internet transformaram",
+      "words": [
+        {
+          "start": 35.68,
+          "end": 35.8,
+          "word": " Nas",
+          "probability": 0.9664857387542725
+        },
+        {
+          "start": 35.8,
+          "end": 36.18,
+          "word": " décadas",
+          "probability": 0.9982173144817352
+        },
+        {
+          "start": 36.18,
+          "end": 36.38,
+          "word": " de",
+          "probability": 0.9963713884353638
+        },
+        {
+          "start": 36.38,
+          "end": 37.38,
+          "word": " 1980",
+          "probability": 0.9923802614212036
+        },
+        {
+          "start": 37.38,
+          "end": 37.7,
+          "word": " e",
+          "probability": 0.9835246801376343
+        },
+        {
+          "start": 37.7,
+          "end": 38.78,
+          "word": " 1990,",
+          "probability": 0.9963920712471008
+        },
+        {
+          "start": 39.1,
+          "end": 39.2,
+          "word": " a",
+          "probability": 0.9950083494186401
+        },
+        {
+          "start": 39.2,
+          "end": 39.62,
+          "word": " cobertura",
+          "probability": 0.9995428522427877
+        },
+        {
+          "start": 39.62,
+          "end": 39.82,
+          "word": " da",
+          "probability": 0.995487630367279
+        },
+        {
+          "start": 39.82,
+          "end": 40.08,
+          "word": " mídia",
+          "probability": 0.9984654386838278
+        },
+        {
+          "start": 40.08,
+          "end": 40.26,
+          "word": " e",
+          "probability": 0.9961650371551514
+        },
+        {
+          "start": 40.26,
+          "end": 40.44,
+          "word": " a",
+          "probability": 0.9616056084632874
+        },
+        {
+          "start": 40.44,
+          "end": 41.04,
+          "word": " popularização",
+          "probability": 0.9975994527339935
+        },
+        {
+          "start": 41.04,
+          "end": 41.28,
+          "word": " da",
+          "probability": 0.9964403510093689
+        },
+        {
+          "start": 41.28,
+          "end": 41.66,
+          "word": " internet",
+          "probability": 0.8566240072250366
+        },
+        {
+          "start": 41.66,
+          "end": 42.46,
+          "word": " transformaram",
+          "probability": 0.8835980892181396
+        }
+      ]
+    },
+    {
+      "start": 42.46,
+      "end": 46.18,
+      "text": " a Área 51 em um dos maiores símbolos de sigilo governamental.",
+      "words": [
+        {
+          "start": 42.46,
+          "end": 42.58,
+          "word": " a",
+          "probability": 0.9922544956207275
+        },
+        {
+          "start": 42.58,
+          "end": 42.74,
+          "word": " Área",
+          "probability": 0.8779346942901611
+        },
+        {
+          "start": 42.74,
+          "end": 43.3,
+          "word": " 51",
+          "probability": 0.9879167079925537
+        },
+        {
+          "start": 43.3,
+          "end": 43.7,
+          "word": " em",
+          "probability": 0.986786425113678
+        },
+        {
+          "start": 43.7,
+          "end": 43.8,
+          "word": " um",
+          "probability": 0.9940667152404785
+        },
+        {
+          "start": 43.8,
+          "end": 44.04,
+          "word": " dos",
+          "probability": 0.995686411857605
+        },
+        {
+          "start": 44.04,
+          "end": 44.5,
+          "word": " maiores",
+          "probability": 0.9983945190906525
+        },
+        {
+          "start": 44.5,
+          "end": 44.94,
+          "word": " símbolos",
+          "probability": 0.998435894648234
+        },
+        {
+          "start": 44.94,
+          "end": 45.14,
+          "word": " de",
+          "probability": 0.9970189332962036
+        },
+        {
+          "start": 45.14,
+          "end": 45.5,
+          "word": " sigilo",
+          "probability": 0.9945325553417206
+        },
+        {
+          "start": 45.5,
+          "end": 46.18,
+          "word": " governamental.",
+          "probability": 0.9958052039146423
+        }
+      ]
+    },
+    {
+      "start": 46.52,
+      "end": 51.04,
+      "text": " Ex-funcionários e supostas testemunhas fizeram afirmações dramáticas sobre autópsias",
+      "words": [
+        {
+          "start": 46.52,
+          "end": 46.68,
+          "word": " Ex",
+          "probability": 0.9836114048957825
+        },
+        {
+          "start": 46.68,
+          "end": 47.32,
+          "word": "-funcionários",
+          "probability": 0.9745627790689468
+        },
+        {
+          "start": 47.32,
+          "end": 47.56,
+          "word": " e",
+          "probability": 0.9934784173965454
+        },
+        {
+          "start": 47.56,
+          "end": 48.04,
+          "word": " supostas",
+          "probability": 0.9978781938552856
+        },
+        {
+          "start": 48.04,
+          "end": 48.6,
+          "word": " testemunhas",
+          "probability": 0.9905690997838974
+        },
+        {
+          "start": 48.6,
+          "end": 48.98,
+          "word": " fizeram",
+          "probability": 0.9926822483539581
+        },
+        {
+          "start": 48.98,
+          "end": 49.56,
+          "word": " afirmações",
+          "probability": 0.9964694529771805
+        },
+        {
+          "start": 49.56,
+          "end": 50.22,
+          "word": " dramáticas",
+          "probability": 0.9799202978610992
+        },
+        {
+          "start": 50.22,
+          "end": 50.54,
+          "word": " sobre",
+          "probability": 0.9977089166641235
+        },
+        {
+          "start": 50.54,
+          "end": 51.04,
+          "word": " autópsias",
+          "probability": 0.9722547829151154
+        }
+      ]
+    },
+    {
+      "start": 51.04,
+      "end": 53.38,
+      "text": " de alienígenas e laboratórios subterrâneos.",
+      "words": [
+        {
+          "start": 51.04,
+          "end": 51.2,
+          "word": " de",
+          "probability": 0.9895708560943604
+        },
+        {
+          "start": 51.2,
+          "end": 51.82,
+          "word": " alienígenas",
+          "probability": 0.9977994958559672
+        },
+        {
+          "start": 51.82,
+          "end": 52.04,
+          "word": " e",
+          "probability": 0.9937161803245544
+        },
+        {
+          "start": 52.04,
+          "end": 52.54,
+          "word": " laboratórios",
+          "probability": 0.991763100028038
+        },
+        {
+          "start": 52.54,
+          "end": 53.38,
+          "word": " subterrâneos.",
+          "probability": 0.9949707786242167
+        }
+      ]
+    },
+    {
+      "start": 53.38,
+      "end": 58.14,
+      "text": " O interesse voltou a crescer quando o Pentágono liberou novos arquivos sobre fenômenos aéreos",
+      "words": [
+        {
+          "start": 53.38,
+          "end": 53.64,
+          "word": " O",
+          "probability": 0.5685263276100159
+        },
+        {
+          "start": 53.64,
+          "end": 54.0,
+          "word": " interesse",
+          "probability": 0.9791104793548584
+        },
+        {
+          "start": 54.0,
+          "end": 54.4,
+          "word": " voltou",
+          "probability": 0.9887595176696777
+        },
+        {
+          "start": 54.4,
+          "end": 54.54,
+          "word": " a",
+          "probability": 0.9948021173477173
+        },
+        {
+          "start": 54.54,
+          "end": 54.9,
+          "word": " crescer",
+          "probability": 0.9919097125530243
+        },
+        {
+          "start": 54.9,
+          "end": 55.08,
+          "word": " quando",
+          "probability": 0.9788121581077576
+        },
+        {
+          "start": 55.08,
+          "end": 55.34,
+          "word": " o",
+          "probability": 0.9387516975402832
+        },
+        {
+          "start": 55.34,
+          "end": 55.66,
+          "word": " Pentágono",
+          "probability": 0.9039963483810425
+        },
+        {
+          "start": 55.66,
+          "end": 56.12,
+          "word": " liberou",
+          "probability": 0.9975014626979828
+        },
+        {
+          "start": 56.12,
+          "end": 56.56,
+          "word": " novos",
+          "probability": 0.9883674681186676
+        },
+        {
+          "start": 56.56,
+          "end": 56.94,
+          "word": " arquivos",
+          "probability": 0.9959410727024078
+        },
+        {
+          "start": 56.94,
+          "end": 57.22,
+          "word": " sobre",
+          "probability": 0.9885616302490234
+        },
+        {
+          "start": 57.22,
+          "end": 57.78,
+          "word": " fenômenos",
+          "probability": 0.9890031218528748
+        },
+        {
+          "start": 57.78,
+          "end": 58.14,
+          "word": " aéreos",
+          "probability": 0.9854094684123993
+        }
+      ]
+    },
+    {
+      "start": 58.14,
+      "end": 59.18,
+      "text": " não identificados.",
+      "words": [
+        {
+          "start": 58.14,
+          "end": 58.42,
+          "word": " não",
+          "probability": 0.9898461103439331
+        },
+        {
+          "start": 58.42,
+          "end": 59.18,
+          "word": " identificados.",
+          "probability": 0.9867420494556427
+        }
+      ]
+    },
+    {
+      "start": 59.58,
+      "end": 66.36,
+      "text": " Em maio de 2026, o governo lançou a iniciativa Pursue e tornou públicos mais de 160 arquivos",
+      "words": [
+        {
+          "start": 59.58,
+          "end": 59.66,
+          "word": " Em",
+          "probability": 0.9831891059875488
+        },
+        {
+          "start": 59.66,
+          "end": 59.94,
+          "word": " maio",
+          "probability": 0.9278556108474731
+        },
+        {
+          "start": 59.94,
+          "end": 60.1,
+          "word": " de",
+          "probability": 0.9986891150474548
+        },
+        {
+          "start": 60.1,
+          "end": 61.0,
+          "word": " 2026,",
+          "probability": 0.964903712272644
+        },
+        {
+          "start": 61.28,
+          "end": 61.36,
+          "word": " o",
+          "probability": 0.9935073852539062
+        },
+        {
+          "start": 61.36,
+          "end": 61.64,
+          "word": " governo",
+          "probability": 0.9694850444793701
+        },
+        {
+          "start": 61.64,
+          "end": 62.04,
+          "word": " lançou",
+          "probability": 0.9982199668884277
+        },
+        {
+          "start": 62.04,
+          "end": 62.2,
+          "word": " a",
+          "probability": 0.9928457140922546
+        },
+        {
+          "start": 62.2,
+          "end": 62.8,
+          "word": " iniciativa",
+          "probability": 0.9819441239039103
+        },
+        {
+          "start": 62.8,
+          "end": 63.34,
+          "word": " Pursue",
+          "probability": 0.8166903058687845
+        },
+        {
+          "start": 63.34,
+          "end": 63.68,
+          "word": " e",
+          "probability": 0.6243951916694641
+        },
+        {
+          "start": 63.68,
+          "end": 64.04,
+          "word": " tornou",
+          "probability": 0.9931987226009369
+        },
+        {
+          "start": 64.04,
+          "end": 64.52,
+          "word": " públicos",
+          "probability": 0.9918189644813538
+        },
+        {
+          "start": 64.52,
+          "end": 64.76,
+          "word": " mais",
+          "probability": 0.9824432134628296
+        },
+        {
+          "start": 64.76,
+          "end": 65.06,
+          "word": " de",
+          "probability": 0.9950776696205139
+        },
+        {
+          "start": 65.06,
+          "end": 65.76,
+          "word": " 160",
+          "probability": 0.990575909614563
+        },
+        {
+          "start": 65.76,
+          "end": 66.36,
+          "word": " arquivos",
+          "probability": 0.9980567395687103
+        }
+      ]
+    },
+    {
+      "start": 66.36,
+      "end": 67.68,
+      "text": " antes confidenciais.",
+      "words": [
+        {
+          "start": 66.36,
+          "end": 66.74,
+          "word": " antes",
+          "probability": 0.7389417886734009
+        },
+        {
+          "start": 66.74,
+          "end": 67.68,
+          "word": " confidenciais.",
+          "probability": 0.9587001800537109
+        }
+      ]
+    },
+    {
+      "start": 67.9,
+      "end": 72.66,
+      "text": " Alguns relatos descrevem objetos com movimentos incomuns, e documentos das missões Apollo",
+      "words": [
+        {
+          "start": 67.9,
+          "end": 68.24,
+          "word": " Alguns",
+          "probability": 0.9926104843616486
+        },
+        {
+          "start": 68.24,
+          "end": 68.64,
+          "word": " relatos",
+          "probability": 0.9994913041591644
+        },
+        {
+          "start": 68.64,
+          "end": 69.08,
+          "word": " descrevem",
+          "probability": 0.9710755546887716
+        },
+        {
+          "start": 69.08,
+          "end": 69.5,
+          "word": " objetos",
+          "probability": 0.9952110648155212
+        },
+        {
+          "start": 69.5,
+          "end": 69.78,
+          "word": " com",
+          "probability": 0.9952594637870789
+        },
+        {
+          "start": 69.78,
+          "end": 70.3,
+          "word": " movimentos",
+          "probability": 0.9925109446048737
+        },
+        {
+          "start": 70.3,
+          "end": 70.92,
+          "word": " incomuns,",
+          "probability": 0.951166182756424
+        },
+        {
+          "start": 71.2,
+          "end": 71.36,
+          "word": " e",
+          "probability": 0.9844908118247986
+        },
+        {
+          "start": 71.36,
+          "end": 71.74,
+          "word": " documentos",
+          "probability": 0.9974230229854584
+        },
+        {
+          "start": 71.74,
+          "end": 71.94,
+          "word": " das",
+          "probability": 0.9816803932189941
+        },
+        {
+          "start": 71.94,
+          "end": 72.24,
+          "word": " missões",
+          "probability": 0.872996062040329
+        },
+        {
+          "start": 72.24,
+          "end": 72.66,
+          "word": " Apollo",
+          "probability": 0.9313002824783325
+        }
+      ]
+    },
+    {
+      "start": 72.66,
+      "end": 76.64,
+      "text": " trouxeram imagens inéditas de objetos não identificados perto da lua.",
+      "words": [
+        {
+          "start": 72.66,
+          "end": 73.18,
+          "word": " trouxeram",
+          "probability": 0.9929030239582062
+        },
+        {
+          "start": 73.18,
+          "end": 73.6,
+          "word": " imagens",
+          "probability": 0.9935908615589142
+        },
+        {
+          "start": 73.6,
+          "end": 74.16,
+          "word": " inéditas",
+          "probability": 0.994471530119578
+        },
+        {
+          "start": 74.16,
+          "end": 74.36,
+          "word": " de",
+          "probability": 0.9943292737007141
+        },
+        {
+          "start": 74.36,
+          "end": 74.76,
+          "word": " objetos",
+          "probability": 0.997495174407959
+        },
+        {
+          "start": 74.76,
+          "end": 75.1,
+          "word": " não",
+          "probability": 0.9953749775886536
+        },
+        {
+          "start": 75.1,
+          "end": 75.78,
+          "word": " identificados",
+          "probability": 0.9933581054210663
+        },
+        {
+          "start": 75.78,
+          "end": 76.02,
+          "word": " perto",
+          "probability": 0.9881288409233093
+        },
+        {
+          "start": 76.02,
+          "end": 76.28,
+          "word": " da",
+          "probability": 0.9964321851730347
+        },
+        {
+          "start": 76.28,
+          "end": 76.64,
+          "word": " lua.",
+          "probability": 0.6868403404951096
+        }
+      ]
+    },
+    {
+      "start": 76.82,
+      "end": 81.04,
+      "text": " Ainda assim, as autoridades afirmam que não existe nenhuma evidência confirmada",
+      "words": [
+        {
+          "start": 76.82,
+          "end": 77.06,
+          "word": " Ainda",
+          "probability": 0.9972522258758545
+        },
+        {
+          "start": 77.06,
+          "end": 77.36,
+          "word": " assim,",
+          "probability": 0.995276927947998
+        },
+        {
+          "start": 77.68,
+          "end": 77.78,
+          "word": " as",
+          "probability": 0.995701253414154
+        },
+        {
+          "start": 77.78,
+          "end": 78.28,
+          "word": " autoridades",
+          "probability": 0.9993962645530701
+        },
+        {
+          "start": 78.28,
+          "end": 78.72,
+          "word": " afirmam",
+          "probability": 0.9975852370262146
+        },
+        {
+          "start": 78.72,
+          "end": 78.94,
+          "word": " que",
+          "probability": 0.998143196105957
+        },
+        {
+          "start": 78.94,
+          "end": 79.18,
+          "word": " não",
+          "probability": 0.9840686917304993
+        },
+        {
+          "start": 79.18,
+          "end": 79.5,
+          "word": " existe",
+          "probability": 0.9969688057899475
+        },
+        {
+          "start": 79.5,
+          "end": 79.94,
+          "word": " nenhuma",
+          "probability": 0.9975146055221558
+        },
+        {
+          "start": 79.94,
+          "end": 80.44,
+          "word": " evidência",
+          "probability": 0.9942882458368937
+        },
+        {
+          "start": 80.44,
+          "end": 81.04,
+          "word": " confirmada",
+          "probability": 0.9970495402812958
+        }
+      ]
+    },
+    {
+      "start": 81.04,
+      "end": 82.38,
+      "text": " de vida extraterrestre.",
+      "words": [
+        {
+          "start": 81.04,
+          "end": 81.28,
+          "word": " de",
+          "probability": 0.9920194745063782
+        },
+        {
+          "start": 81.28,
+          "end": 81.46,
+          "word": " vida",
+          "probability": 0.9943234920501709
+        },
+        {
+          "start": 81.46,
+          "end": 82.38,
+          "word": " extraterrestre.",
+          "probability": 0.9910682042439779
+        }
+      ]
+    },
+    {
+      "start": 82.38,
+      "end": 86.8,
+      "text": " Boa parte do mistério continua ligada ao sigilo militar, e não a alienígenas.",
+      "words": [
+        {
+          "start": 82.38,
+          "end": 82.78,
+          "word": " Boa",
+          "probability": 0.924562931060791
+        },
+        {
+          "start": 82.78,
+          "end": 83.0,
+          "word": " parte",
+          "probability": 0.9984488487243652
+        },
+        {
+          "start": 83.0,
+          "end": 83.14,
+          "word": " do",
+          "probability": 0.9971684813499451
+        },
+        {
+          "start": 83.14,
+          "end": 83.56,
+          "word": " mistério",
+          "probability": 0.970156729221344
+        },
+        {
+          "start": 83.56,
+          "end": 83.96,
+          "word": " continua",
+          "probability": 0.9489908814430237
+        },
+        {
+          "start": 83.96,
+          "end": 84.34,
+          "word": " ligada",
+          "probability": 0.9526154100894928
+        },
+        {
+          "start": 84.34,
+          "end": 84.52,
+          "word": " ao",
+          "probability": 0.993582546710968
+        },
+        {
+          "start": 84.52,
+          "end": 84.88,
+          "word": " sigilo",
+          "probability": 0.9937743246555328
+        },
+        {
+          "start": 84.88,
+          "end": 85.34,
+          "word": " militar,",
+          "probability": 0.9981918931007385
+        },
+        {
+          "start": 85.44,
+          "end": 85.72,
+          "word": " e",
+          "probability": 0.9827996492385864
+        },
+        {
+          "start": 85.72,
+          "end": 85.88,
+          "word": " não",
+          "probability": 0.9963157773017883
+        },
+        {
+          "start": 85.88,
+          "end": 86.04,
+          "word": " a",
+          "probability": 0.7322665452957153
+        },
+        {
+          "start": 86.04,
+          "end": 86.8,
+          "word": " alienígenas.",
+          "probability": 0.9937676787376404
+        }
+      ]
+    },
+    {
+      "start": 87.02,
+      "end": 92.1,
+      "text": " A base foi usada para testar aeronaves altamente secretas durante a Guerra Fria, o que significa",
+      "words": [
+        {
+          "start": 87.02,
+          "end": 87.04,
+          "word": " A",
+          "probability": 0.9849334359169006
+        },
+        {
+          "start": 87.04,
+          "end": 87.3,
+          "word": " base",
+          "probability": 0.9786533117294312
+        },
+        {
+          "start": 87.3,
+          "end": 87.52,
+          "word": " foi",
+          "probability": 0.9989380240440369
+        },
+        {
+          "start": 87.52,
+          "end": 87.82,
+          "word": " usada",
+          "probability": 0.9944379031658173
+        },
+        {
+          "start": 87.82,
+          "end": 88.04,
+          "word": " para",
+          "probability": 0.9895510077476501
+        },
+        {
+          "start": 88.04,
+          "end": 88.46,
+          "word": " testar",
+          "probability": 0.9972419142723083
+        },
+        {
+          "start": 88.46,
+          "end": 89.02,
+          "word": " aeronaves",
+          "probability": 0.9841505289077759
+        },
+        {
+          "start": 89.02,
+          "end": 89.74,
+          "word": " altamente",
+          "probability": 0.9980016052722931
+        },
+        {
+          "start": 89.74,
+          "end": 90.22,
+          "word": " secretas",
+          "probability": 0.9890018105506897
+        },
+        {
+          "start": 90.22,
+          "end": 90.48,
+          "word": " durante",
+          "probability": 0.9933273792266846
+        },
+        {
+          "start": 90.48,
+          "end": 90.62,
+          "word": " a",
+          "probability": 0.9971189498901367
+        },
+        {
+          "start": 90.62,
+          "end": 90.88,
+          "word": " Guerra",
+          "probability": 0.8483278155326843
+        },
+        {
+          "start": 90.88,
+          "end": 91.12,
+          "word": " Fria,",
+          "probability": 0.9864759147167206
+        },
+        {
+          "start": 91.44,
+          "end": 91.54,
+          "word": " o",
+          "probability": 0.972599446773529
+        },
+        {
+          "start": 91.54,
+          "end": 91.74,
+          "word": " que",
+          "probability": 0.9991652965545654
+        },
+        {
+          "start": 91.74,
+          "end": 92.1,
+          "word": " significa",
+          "probability": 0.998254120349884
+        }
+      ]
+    },
+    {
+      "start": 92.1,
+      "end": 97.32,
+      "text": " que muitos avistamentos provavelmente eram tecnologia experimental que o público simplesmente",
+      "words": [
+        {
+          "start": 92.1,
+          "end": 92.36,
+          "word": " que",
+          "probability": 0.996778666973114
+        },
+        {
+          "start": 92.36,
+          "end": 92.68,
+          "word": " muitos",
+          "probability": 0.9962413311004639
+        },
+        {
+          "start": 92.68,
+          "end": 93.42,
+          "word": " avistamentos",
+          "probability": 0.9971921046574911
+        },
+        {
+          "start": 93.42,
+          "end": 94.24,
+          "word": " provavelmente",
+          "probability": 0.9672757983207703
+        },
+        {
+          "start": 94.24,
+          "end": 94.48,
+          "word": " eram",
+          "probability": 0.9297776222229004
+        },
+        {
+          "start": 94.48,
+          "end": 95.14,
+          "word": " tecnologia",
+          "probability": 0.975978434085846
+        },
+        {
+          "start": 95.14,
+          "end": 95.76,
+          "word": " experimental",
+          "probability": 0.9499881267547607
+        },
+        {
+          "start": 95.76,
+          "end": 96.18,
+          "word": " que",
+          "probability": 0.933296263217926
+        },
+        {
+          "start": 96.18,
+          "end": 96.32,
+          "word": " o",
+          "probability": 0.9993608593940735
+        },
+        {
+          "start": 96.32,
+          "end": 96.58,
+          "word": " público",
+          "probability": 0.9931267499923706
+        },
+        {
+          "start": 96.58,
+          "end": 97.32,
+          "word": " simplesmente",
+          "probability": 0.9988805651664734
+        }
+      ]
+    },
+    {
+      "start": 97.32,
+      "end": 98.02,
+      "text": " desconhecia.",
+      "words": [
+        {
+          "start": 97.32,
+          "end": 98.02,
+          "word": " desconhecia.",
+          "probability": 0.997260053952535
+        }
+      ]
+    },
+    {
+      "start": 98.38,
+      "end": 99.66,
+      "text": " A chegada à Lua",
+      "words": [
+        {
+          "start": 98.38,
+          "end": 98.38,
+          "word": " A",
+          "probability": 0.21834439039230347
+        },
+        {
+          "start": 98.38,
+          "end": 99.04,
+          "word": " chegada",
+          "probability": 0.9183208048343658
+        },
+        {
+          "start": 99.04,
+          "end": 99.22,
+          "word": " à",
+          "probability": 0.9733951091766357
+        },
+        {
+          "start": 99.22,
+          "end": 99.66,
+          "word": " Lua",
+          "probability": 0.8216574490070343
+        }
+      ]
+    },
+    {
+      "start": 99.66,
+      "end": 105.6,
+      "text": " Segundo essa teoria, a missão Apollo 11, em 1969, foi uma encenação do Governo",
+      "words": [
+        {
+          "start": 99.66,
+          "end": 100.14,
+          "word": " Segundo",
+          "probability": 0.8023540377616882
+        },
+        {
+          "start": 100.14,
+          "end": 100.32,
+          "word": " essa",
+          "probability": 0.9661117196083069
+        },
+        {
+          "start": 100.32,
+          "end": 100.78,
+          "word": " teoria,",
+          "probability": 0.9986031949520111
+        },
+        {
+          "start": 100.98,
+          "end": 101.08,
+          "word": " a",
+          "probability": 0.9940721392631531
+        },
+        {
+          "start": 101.08,
+          "end": 101.32,
+          "word": " missão",
+          "probability": 0.9566886723041534
+        },
+        {
+          "start": 101.32,
+          "end": 101.66,
+          "word": " Apollo",
+          "probability": 0.8164953589439392
+        },
+        {
+          "start": 101.66,
+          "end": 102.02,
+          "word": " 11,",
+          "probability": 0.9920589923858643
+        },
+        {
+          "start": 102.18,
+          "end": 102.34,
+          "word": " em",
+          "probability": 0.993618369102478
+        },
+        {
+          "start": 102.34,
+          "end": 103.6,
+          "word": " 1969,",
+          "probability": 0.9922025203704834
+        },
+        {
+          "start": 104.12,
+          "end": 104.2,
+          "word": " foi",
+          "probability": 0.9971184730529785
+        },
+        {
+          "start": 104.2,
+          "end": 104.42,
+          "word": " uma",
+          "probability": 0.9972276091575623
+        },
+        {
+          "start": 104.42,
+          "end": 105.02,
+          "word": " encenação",
+          "probability": 0.9210666020711263
+        },
+        {
+          "start": 105.02,
+          "end": 105.16,
+          "word": " do",
+          "probability": 0.9948163628578186
+        },
+        {
+          "start": 105.16,
+          "end": 105.6,
+          "word": " Governo",
+          "probability": 0.5655977874994278
+        }
+      ]
+    },
+    {
+      "start": 105.6,
+      "end": 106.54,
+      "text": " dos Estados Unidos.",
+      "words": [
+        {
+          "start": 105.6,
+          "end": 105.86,
+          "word": " dos",
+          "probability": 0.9936107993125916
+        },
+        {
+          "start": 105.86,
+          "end": 106.16,
+          "word": " Estados",
+          "probability": 0.9432128667831421
+        },
+        {
+          "start": 106.16,
+          "end": 106.54,
+          "word": " Unidos.",
+          "probability": 0.9979733824729919
+        }
+      ]
+    },
+    {
+      "start": 106.8,
+      "end": 112.36,
+      "text": " Os defensores dessa ideia afirmam que a NASA filmou o pouso aqui na Terra e o",
+      "words": [
+        {
+          "start": 106.8,
+          "end": 107.02,
+          "word": " Os",
+          "probability": 0.9874020218849182
+        },
+        {
+          "start": 107.02,
+          "end": 107.48,
+          "word": " defensores",
+          "probability": 0.9902214705944061
+        },
+        {
+          "start": 107.48,
+          "end": 107.7,
+          "word": " dessa",
+          "probability": 0.9609163999557495
+        },
+        {
+          "start": 107.7,
+          "end": 108.06,
+          "word": " ideia",
+          "probability": 0.971389651298523
+        },
+        {
+          "start": 108.06,
+          "end": 108.54,
+          "word": " afirmam",
+          "probability": 0.9884370962778727
+        },
+        {
+          "start": 108.54,
+          "end": 108.7,
+          "word": " que",
+          "probability": 0.9983975291252136
+        },
+        {
+          "start": 108.7,
+          "end": 108.84,
+          "word": " a",
+          "probability": 0.994462788105011
+        },
+        {
+          "start": 108.84,
+          "end": 109.04,
+          "word": " NASA",
+          "probability": 0.6972692012786865
+        },
+        {
+          "start": 109.04,
+          "end": 109.5,
+          "word": " filmou",
+          "probability": 0.9925020933151245
+        },
+        {
+          "start": 109.5,
+          "end": 109.72,
+          "word": " o",
+          "probability": 0.9945626854896545
+        },
+        {
+          "start": 109.72,
+          "end": 109.9,
+          "word": " pouso",
+          "probability": 0.9826599359512329
+        },
+        {
+          "start": 109.9,
+          "end": 110.08,
+          "word": " aqui",
+          "probability": 0.9934148788452148
+        },
+        {
+          "start": 110.08,
+          "end": 110.32,
+          "word": " na",
+          "probability": 0.9952438473701477
+        },
+        {
+          "start": 110.32,
+          "end": 110.56,
+          "word": " Terra",
+          "probability": 0.8736826181411743
+        },
+        {
+          "start": 110.56,
+          "end": 110.88,
+          "word": " e",
+          "probability": 0.9230517148971558
+        },
+        {
+          "start": 110.88,
+          "end": 112.36,
+          "word": " o",
+          "probability": 0.9917535781860352
+        }
+      ]
+    },
+    {
+      "start": 112.36,
+      "end": 116.16,
+      "text": " vencer a corrida espacial contra a União Soviética em plena Guerra Fria.",
+      "words": [
+        {
+          "start": 112.36,
+          "end": 112.7,
+          "word": " vencer",
+          "probability": 0.5403936505317688
+        },
+        {
+          "start": 112.7,
+          "end": 112.86,
+          "word": " a",
+          "probability": 0.9927324652671814
+        },
+        {
+          "start": 112.86,
+          "end": 113.14,
+          "word": " corrida",
+          "probability": 0.994316577911377
+        },
+        {
+          "start": 113.14,
+          "end": 113.64,
+          "word": " espacial",
+          "probability": 0.9915125072002411
+        },
+        {
+          "start": 113.64,
+          "end": 113.94,
+          "word": " contra",
+          "probability": 0.9927092790603638
+        },
+        {
+          "start": 113.94,
+          "end": 114.04,
+          "word": " a",
+          "probability": 0.9916176199913025
+        },
+        {
+          "start": 114.04,
+          "end": 114.32,
+          "word": " União",
+          "probability": 0.8601594865322113
+        },
+        {
+          "start": 114.32,
+          "end": 114.92,
+          "word": " Soviética",
+          "probability": 0.9701697528362274
+        },
+        {
+          "start": 114.92,
+          "end": 115.28,
+          "word": " em",
+          "probability": 0.8448293209075928
+        },
+        {
+          "start": 115.28,
+          "end": 115.54,
+          "word": " plena",
+          "probability": 0.9960783123970032
+        },
+        {
+          "start": 115.54,
+          "end": 115.84,
+          "word": " Guerra",
+          "probability": 0.8214465379714966
+        },
+        {
+          "start": 115.84,
+          "end": 116.16,
+          "word": " Fria.",
+          "probability": 0.9855266809463501
+        }
+      ]
+    },
+    {
+      "start": 116.44,
+      "end": 121.5,
+      "text": " A desconfiança começou a ganhar atenção na década de 1970, conforme as imagens da",
+      "words": [
+        {
+          "start": 116.44,
+          "end": 116.6,
+          "word": " A",
+          "probability": 0.9851043820381165
+        },
+        {
+          "start": 116.6,
+          "end": 117.14,
+          "word": " desconfiança",
+          "probability": 0.9943279772996902
+        },
+        {
+          "start": 117.14,
+          "end": 117.48,
+          "word": " começou",
+          "probability": 0.9952951073646545
+        },
+        {
+          "start": 117.48,
+          "end": 117.6,
+          "word": " a",
+          "probability": 0.9960411787033081
+        },
+        {
+          "start": 117.6,
+          "end": 117.78,
+          "word": " ganhar",
+          "probability": 0.9933876991271973
+        },
+        {
+          "start": 117.78,
+          "end": 118.22,
+          "word": " atenção",
+          "probability": 0.9555456042289734
+        },
+        {
+          "start": 118.22,
+          "end": 118.38,
+          "word": " na",
+          "probability": 0.9905016422271729
+        },
+        {
+          "start": 118.38,
+          "end": 118.72,
+          "word": " década",
+          "probability": 0.9961768984794617
+        },
+        {
+          "start": 118.72,
+          "end": 118.96,
+          "word": " de",
+          "probability": 0.9989495873451233
+        },
+        {
+          "start": 118.96,
+          "end": 120.14,
+          "word": " 1970,",
+          "probability": 0.9800368547439575
+        },
+        {
+          "start": 120.54,
+          "end": 120.8,
+          "word": " conforme",
+          "probability": 0.998497873544693
+        },
+        {
+          "start": 120.8,
+          "end": 121.02,
+          "word": " as",
+          "probability": 0.9872902035713196
+        },
+        {
+          "start": 121.02,
+          "end": 121.32,
+          "word": " imagens",
+          "probability": 0.9975572228431702
+        },
+        {
+          "start": 121.32,
+          "end": 121.5,
+          "word": " da",
+          "probability": 0.9943637847900391
+        }
+      ]
+    },
+    {
+      "start": 121.5,
+      "end": 123.28,
+      "text": " missão passaram a ser questionadas.",
+      "words": [
+        {
+          "start": 121.5,
+          "end": 121.82,
+          "word": " missão",
+          "probability": 0.987342894077301
+        },
+        {
+          "start": 121.82,
+          "end": 122.24,
+          "word": " passaram",
+          "probability": 0.993851363658905
+        },
+        {
+          "start": 122.24,
+          "end": 122.4,
+          "word": " a",
+          "probability": 0.9934247732162476
+        },
+        {
+          "start": 122.4,
+          "end": 122.56,
+          "word": " ser",
+          "probability": 0.9965824484825134
+        },
+        {
+          "start": 122.56,
+          "end": 123.28,
+          "word": " questionadas.",
+          "probability": 0.9968022704124451
+        }
+      ]
+    },
+    {
+      "start": 123.62,
+      "end": 127.78,
+      "text": " Alguns detalhes viraram supostas provas de que tudo havia sido gravado em estúdio.",
+      "words": [
+        {
+          "start": 123.62,
+          "end": 123.92,
+          "word": " Alguns",
+          "probability": 0.9944091141223907
+        },
+        {
+          "start": 123.92,
+          "end": 124.3,
+          "word": " detalhes",
+          "probability": 0.9984958171844482
+        },
+        {
+          "start": 124.3,
+          "end": 124.66,
+          "word": " viraram",
+          "probability": 0.9886789321899414
+        },
+        {
+          "start": 124.66,
+          "end": 125.38,
+          "word": " supostas",
+          "probability": 0.9987743298212687
+        },
+        {
+          "start": 125.38,
+          "end": 125.7,
+          "word": " provas",
+          "probability": 0.996398389339447
+        },
+        {
+          "start": 125.7,
+          "end": 125.84,
+          "word": " de",
+          "probability": 0.9859409928321838
+        },
+        {
+          "start": 125.84,
+          "end": 126.04,
+          "word": " que",
+          "probability": 0.9925723671913147
+        },
+        {
+          "start": 126.04,
+          "end": 126.28,
+          "word": " tudo",
+          "probability": 0.994340181350708
+        },
+        {
+          "start": 126.28,
+          "end": 126.5,
+          "word": " havia",
+          "probability": 0.995452880859375
+        },
+        {
+          "start": 126.5,
+          "end": 126.82,
+          "word": " sido",
+          "probability": 0.9990679621696472
+        },
+        {
+          "start": 126.82,
+          "end": 127.16,
+          "word": " gravado",
+          "probability": 0.9981933832168579
+        },
+        {
+          "start": 127.16,
+          "end": 127.38,
+          "word": " em",
+          "probability": 0.9920058846473694
+        },
+        {
+          "start": 127.38,
+          "end": 127.78,
+          "word": " estúdio.",
+          "probability": 0.9907325108846029
+        }
+      ]
+    },
+    {
+      "start": 127.98,
+      "end": 132.48,
+      "text": " A bandeira americana que parecia se mexer, a ausência de estrelas nas fotos do espaço",
+      "words": [
+        {
+          "start": 127.98,
+          "end": 128.06,
+          "word": " A",
+          "probability": 0.9603827595710754
+        },
+        {
+          "start": 128.06,
+          "end": 128.44,
+          "word": " bandeira",
+          "probability": 0.9781488478183746
+        },
+        {
+          "start": 128.44,
+          "end": 128.84,
+          "word": " americana",
+          "probability": 0.9816934168338776
+        },
+        {
+          "start": 128.84,
+          "end": 129.1,
+          "word": " que",
+          "probability": 0.8644368648529053
+        },
+        {
+          "start": 129.1,
+          "end": 129.42,
+          "word": " parecia",
+          "probability": 0.9985553920269012
+        },
+        {
+          "start": 129.42,
+          "end": 129.58,
+          "word": " se",
+          "probability": 0.9906071424484253
+        },
+        {
+          "start": 129.58,
+          "end": 130.2,
+          "word": " mexer,",
+          "probability": 0.9979910552501678
+        },
+        {
+          "start": 130.46,
+          "end": 130.48,
+          "word": " a",
+          "probability": 0.9734992384910583
+        },
+        {
+          "start": 130.48,
+          "end": 130.84,
+          "word": " ausência",
+          "probability": 0.9969885349273682
+        },
+        {
+          "start": 130.84,
+          "end": 131.16,
+          "word": " de",
+          "probability": 0.9942554831504822
+        },
+        {
+          "start": 131.16,
+          "end": 131.44,
+          "word": " estrelas",
+          "probability": 0.9992083112398783
+        },
+        {
+          "start": 131.44,
+          "end": 131.62,
+          "word": " nas",
+          "probability": 0.9949771761894226
+        },
+        {
+          "start": 131.62,
+          "end": 131.9,
+          "word": " fotos",
+          "probability": 0.9973547458648682
+        },
+        {
+          "start": 131.9,
+          "end": 132.12,
+          "word": " do",
+          "probability": 0.9910945892333984
+        },
+        {
+          "start": 132.12,
+          "end": 132.48,
+          "word": " espaço",
+          "probability": 0.9974485039710999
+        }
+      ]
+    },
+    {
+      "start": 132.48,
+      "end": 134.94,
+      "text": " e as sombras estranhas na superfície lunar.",
+      "words": [
+        {
+          "start": 132.48,
+          "end": 132.86,
+          "word": " e",
+          "probability": 0.7876773476600647
+        },
+        {
+          "start": 132.86,
+          "end": 133.08,
+          "word": " as",
+          "probability": 0.9869085550308228
+        },
+        {
+          "start": 133.08,
+          "end": 133.4,
+          "word": " sombras",
+          "probability": 0.9928480684757233
+        },
+        {
+          "start": 133.4,
+          "end": 133.96,
+          "word": " estranhas",
+          "probability": 0.9973656237125397
+        },
+        {
+          "start": 133.96,
+          "end": 134.14,
+          "word": " na",
+          "probability": 0.985309898853302
+        },
+        {
+          "start": 134.14,
+          "end": 134.62,
+          "word": " superfície",
+          "probability": 0.9962579607963562
+        },
+        {
+          "start": 134.62,
+          "end": 134.94,
+          "word": " lunar.",
+          "probability": 0.9986910223960876
+        }
+      ]
+    },
+    {
+      "start": 135.2,
+      "end": 139.32,
+      "text": " Com a expansão da mídia e, mais tarde, da internet, novas alegações foram",
+      "words": [
+        {
+          "start": 135.2,
+          "end": 135.38,
+          "word": " Com",
+          "probability": 0.9929628968238831
+        },
+        {
+          "start": 135.38,
+          "end": 135.5,
+          "word": " a",
+          "probability": 0.9928977489471436
+        },
+        {
+          "start": 135.5,
+          "end": 135.88,
+          "word": " expansão",
+          "probability": 0.99811851978302
+        },
+        {
+          "start": 135.88,
+          "end": 136.08,
+          "word": " da",
+          "probability": 0.9967089891433716
+        },
+        {
+          "start": 136.08,
+          "end": 136.4,
+          "word": " mídia",
+          "probability": 0.9984592795372009
+        },
+        {
+          "start": 136.4,
+          "end": 136.66,
+          "word": " e,",
+          "probability": 0.7311558127403259
+        },
+        {
+          "start": 136.98,
+          "end": 136.98,
+          "word": " mais",
+          "probability": 0.9967905879020691
+        },
+        {
+          "start": 136.98,
+          "end": 137.2,
+          "word": " tarde,",
+          "probability": 0.9992128610610962
+        },
+        {
+          "start": 137.28,
+          "end": 137.44,
+          "word": " da",
+          "probability": 0.9934012293815613
+        },
+        {
+          "start": 137.44,
+          "end": 137.9,
+          "word": " internet,",
+          "probability": 0.911102294921875
+        },
+        {
+          "start": 138.44,
+          "end": 138.58,
+          "word": " novas",
+          "probability": 0.9964384734630585
+        },
+        {
+          "start": 138.58,
+          "end": 139.1,
+          "word": " alegações",
+          "probability": 0.9597604274749756
+        },
+        {
+          "start": 139.1,
+          "end": 139.32,
+          "word": " foram",
+          "probability": 0.998492956161499
+        }
+      ]
+    },
+    {
+      "start": 139.32,
+      "end": 140.0,
+      "text": " surgindo.",
+      "words": [
+        {
+          "start": 139.32,
+          "end": 140.0,
+          "word": " surgindo.",
+          "probability": 0.9989914000034332
+        }
+      ]
+    },
+    {
+      "start": 140.0,
+      "end": 144.6,
+      "text": " Alguns acreditavam que a tecnologia da época não era avançado bastante para levar humanos",
+      "words": [
+        {
+          "start": 140.0,
+          "end": 140.54,
+          "word": " Alguns",
+          "probability": 0.9513619840145111
+        },
+        {
+          "start": 140.54,
+          "end": 141.1,
+          "word": " acreditavam",
+          "probability": 0.992005467414856
+        },
+        {
+          "start": 141.1,
+          "end": 141.26,
+          "word": " que",
+          "probability": 0.9954550266265869
+        },
+        {
+          "start": 141.26,
+          "end": 141.42,
+          "word": " a",
+          "probability": 0.9958779811859131
+        },
+        {
+          "start": 141.42,
+          "end": 141.82,
+          "word": " tecnologia",
+          "probability": 0.9955071210861206
+        },
+        {
+          "start": 141.82,
+          "end": 142.04,
+          "word": " da",
+          "probability": 0.9956068396568298
+        },
+        {
+          "start": 142.04,
+          "end": 142.36,
+          "word": " época",
+          "probability": 0.9987061023712158
+        },
+        {
+          "start": 142.36,
+          "end": 142.66,
+          "word": " não",
+          "probability": 0.9763596653938293
+        },
+        {
+          "start": 142.66,
+          "end": 142.86,
+          "word": " era",
+          "probability": 0.99367755651474
+        },
+        {
+          "start": 142.86,
+          "end": 143.32,
+          "word": " avançado",
+          "probability": 0.95518825451533
+        },
+        {
+          "start": 143.32,
+          "end": 143.76,
+          "word": " bastante",
+          "probability": 0.6975356936454773
+        },
+        {
+          "start": 143.76,
+          "end": 144.0,
+          "word": " para",
+          "probability": 0.9630857706069946
+        },
+        {
+          "start": 144.0,
+          "end": 144.28,
+          "word": " levar",
+          "probability": 0.9950897097587585
+        },
+        {
+          "start": 144.28,
+          "end": 144.6,
+          "word": " humanos",
+          "probability": 0.9917914867401123
+        }
+      ]
+    },
+    {
+      "start": 144.6,
+      "end": 146.88,
+      "text": " à Lua e trazê-los de volta com segurança.",
+      "words": [
+        {
+          "start": 144.6,
+          "end": 144.8,
+          "word": " à",
+          "probability": 0.8739858269691467
+        },
+        {
+          "start": 144.8,
+          "end": 145.1,
+          "word": " Lua",
+          "probability": 0.7891861200332642
+        },
+        {
+          "start": 145.1,
+          "end": 145.42,
+          "word": " e",
+          "probability": 0.9370915293693542
+        },
+        {
+          "start": 145.42,
+          "end": 145.68,
+          "word": " trazê",
+          "probability": 0.9842641949653625
+        },
+        {
+          "start": 145.68,
+          "end": 145.74,
+          "word": "-los",
+          "probability": 0.9938179552555084
+        },
+        {
+          "start": 145.74,
+          "end": 145.96,
+          "word": " de",
+          "probability": 0.9982781410217285
+        },
+        {
+          "start": 145.96,
+          "end": 146.14,
+          "word": " volta",
+          "probability": 0.9989808201789856
+        },
+        {
+          "start": 146.14,
+          "end": 146.38,
+          "word": " com",
+          "probability": 0.9895506501197815
+        },
+        {
+          "start": 146.38,
+          "end": 146.88,
+          "word": " segurança.",
+          "probability": 0.9972654581069946
+        }
+      ]
+    },
+    {
+      "start": 147.3,
+      "end": 152.1,
+      "text": " Outros diziam que a NASA e diversas autoridades teriam participado de um acobertamento que",
+      "words": [
+        {
+          "start": 147.3,
+          "end": 147.56,
+          "word": " Outros",
+          "probability": 0.992028146982193
+        },
+        {
+          "start": 147.56,
+          "end": 147.88,
+          "word": " diziam",
+          "probability": 0.9950117468833923
+        },
+        {
+          "start": 147.88,
+          "end": 148.04,
+          "word": " que",
+          "probability": 0.9984556436538696
+        },
+        {
+          "start": 148.04,
+          "end": 148.2,
+          "word": " a",
+          "probability": 0.991859495639801
+        },
+        {
+          "start": 148.2,
+          "end": 148.42,
+          "word": " NASA",
+          "probability": 0.6502947211265564
+        },
+        {
+          "start": 148.42,
+          "end": 148.7,
+          "word": " e",
+          "probability": 0.9855993986129761
+        },
+        {
+          "start": 148.7,
+          "end": 149.14,
+          "word": " diversas",
+          "probability": 0.9989175796508789
+        },
+        {
+          "start": 149.14,
+          "end": 149.92,
+          "word": " autoridades",
+          "probability": 0.9995550811290741
+        },
+        {
+          "start": 149.92,
+          "end": 150.26,
+          "word": " teriam",
+          "probability": 0.9705099761486053
+        },
+        {
+          "start": 150.26,
+          "end": 150.88,
+          "word": " participado",
+          "probability": 0.9990653097629547
+        },
+        {
+          "start": 150.88,
+          "end": 151.02,
+          "word": " de",
+          "probability": 0.9973516464233398
+        },
+        {
+          "start": 151.02,
+          "end": 151.18,
+          "word": " um",
+          "probability": 0.993918776512146
+        },
+        {
+          "start": 151.18,
+          "end": 151.88,
+          "word": " acobertamento",
+          "probability": 0.9333983659744263
+        },
+        {
+          "start": 151.88,
+          "end": 152.1,
+          "word": " que",
+          "probability": 0.9917793869972229
+        }
+      ]
+    },
+    {
+      "start": 152.1,
+      "end": 152.96,
+      "text": " durou décadas.",
+      "words": [
+        {
+          "start": 152.1,
+          "end": 152.36,
+          "word": " durou",
+          "probability": 0.9983963072299957
+        },
+        {
+          "start": 152.36,
+          "end": 152.96,
+          "word": " décadas.",
+          "probability": 0.9984771609306335
+        }
+      ]
+    },
+    {
+      "start": 153.28,
+      "end": 156.76,
+      "text": " Só que as evidências de que o pouso aconteceu de verdade são enormes.",
+      "words": [
+        {
+          "start": 153.28,
+          "end": 153.4,
+          "word": " Só",
+          "probability": 0.9654860496520996
+        },
+        {
+          "start": 153.4,
+          "end": 153.52,
+          "word": " que",
+          "probability": 0.9978093504905701
+        },
+        {
+          "start": 153.52,
+          "end": 153.62,
+          "word": " as",
+          "probability": 0.9851065874099731
+        },
+        {
+          "start": 153.62,
+          "end": 154.06,
+          "word": " evidências",
+          "probability": 0.9982486367225647
+        },
+        {
+          "start": 154.06,
+          "end": 154.22,
+          "word": " de",
+          "probability": 0.9942302703857422
+        },
+        {
+          "start": 154.22,
+          "end": 154.28,
+          "word": " que",
+          "probability": 0.9976748824119568
+        },
+        {
+          "start": 154.28,
+          "end": 154.46,
+          "word": " o",
+          "probability": 0.9959052801132202
+        },
+        {
+          "start": 154.46,
+          "end": 154.66,
+          "word": " pouso",
+          "probability": 0.9689063131809235
+        },
+        {
+          "start": 154.66,
+          "end": 155.04,
+          "word": " aconteceu",
+          "probability": 0.9981295466423035
+        },
+        {
+          "start": 155.04,
+          "end": 155.26,
+          "word": " de",
+          "probability": 0.9938546419143677
+        },
+        {
+          "start": 155.26,
+          "end": 155.66,
+          "word": " verdade",
+          "probability": 0.9990772008895874
+        },
+        {
+          "start": 155.66,
+          "end": 155.94,
+          "word": " são",
+          "probability": 0.9611085057258606
+        },
+        {
+          "start": 155.94,
+          "end": 156.76,
+          "word": " enormes.",
+          "probability": 0.9987712502479553
+        }
+      ]
+    },
+    {
+      "start": 156.92,
+      "end": 161.08,
+      "text": " Milhares de engenheiros, cientistas e astronautas trabalharam no programa Apollo,",
+      "words": [
+        {
+          "start": 156.92,
+          "end": 157.36,
+          "word": " Milhares",
+          "probability": 0.9927886327107748
+        },
+        {
+          "start": 157.36,
+          "end": 157.54,
+          "word": " de",
+          "probability": 0.999546229839325
+        },
+        {
+          "start": 157.54,
+          "end": 158.1,
+          "word": " engenheiros,",
+          "probability": 0.9958178699016571
+        },
+        {
+          "start": 158.4,
+          "end": 158.8,
+          "word": " cientistas",
+          "probability": 0.9969590306282043
+        },
+        {
+          "start": 158.8,
+          "end": 159.0,
+          "word": " e",
+          "probability": 0.9937591552734375
+        },
+        {
+          "start": 159.0,
+          "end": 159.64,
+          "word": " astronautas",
+          "probability": 0.9917824864387512
+        },
+        {
+          "start": 159.64,
+          "end": 160.2,
+          "word": " trabalharam",
+          "probability": 0.9622806012630463
+        },
+        {
+          "start": 160.2,
+          "end": 160.34,
+          "word": " no",
+          "probability": 0.9957782030105591
+        },
+        {
+          "start": 160.34,
+          "end": 160.68,
+          "word": " programa",
+          "probability": 0.9123972654342651
+        },
+        {
+          "start": 160.68,
+          "end": 161.08,
+          "word": " Apollo,",
+          "probability": 0.8527786731719971
+        }
+      ]
+    },
+    {
+      "start": 161.44,
+      "end": 165.72,
+      "text": " enquanto estações de rastreamento independentes espalhadas pelo mundo acompanharam as",
+      "words": [
+        {
+          "start": 161.44,
+          "end": 161.68,
+          "word": " enquanto",
+          "probability": 0.9950641989707947
+        },
+        {
+          "start": 161.68,
+          "end": 162.1,
+          "word": " estações",
+          "probability": 0.9921886920928955
+        },
+        {
+          "start": 162.1,
+          "end": 162.22,
+          "word": " de",
+          "probability": 0.9988836646080017
+        },
+        {
+          "start": 162.22,
+          "end": 162.8,
+          "word": " rastreamento",
+          "probability": 0.9248377531766891
+        },
+        {
+          "start": 162.8,
+          "end": 163.54,
+          "word": " independentes",
+          "probability": 0.9029684066772461
+        },
+        {
+          "start": 163.54,
+          "end": 164.04,
+          "word": " espalhadas",
+          "probability": 0.9592384994029999
+        },
+        {
+          "start": 164.04,
+          "end": 164.24,
+          "word": " pelo",
+          "probability": 0.9978436231613159
+        },
+        {
+          "start": 164.24,
+          "end": 164.7,
+          "word": " mundo",
+          "probability": 0.9780828952789307
+        },
+        {
+          "start": 164.7,
+          "end": 165.54,
+          "word": " acompanharam",
+          "probability": 0.9726032416025797
+        },
+        {
+          "start": 165.54,
+          "end": 165.72,
+          "word": " as",
+          "probability": 0.993301272392273
+        }
+      ]
+    },
+    {
+      "start": 165.72,
+      "end": 166.82,
+      "text": " missões em tempo real.",
+      "words": [
+        {
+          "start": 165.72,
+          "end": 166.04,
+          "word": " missões",
+          "probability": 0.9938860237598419
+        },
+        {
+          "start": 166.04,
+          "end": 166.2,
+          "word": " em",
+          "probability": 0.9979085922241211
+        },
+        {
+          "start": 166.2,
+          "end": 166.48,
+          "word": " tempo",
+          "probability": 0.9980237483978271
+        },
+        {
+          "start": 166.48,
+          "end": 166.82,
+          "word": " real.",
+          "probability": 0.9966613054275513
+        }
+      ]
+    },
+    {
+      "start": 166.82,
+      "end": 171.42,
+      "text": " As rochas lunares trazidas pelos astronautas foram estudadas por cientistas de vários",
+      "words": [
+        {
+          "start": 166.82,
+          "end": 167.24,
+          "word": " As",
+          "probability": 0.6122877597808838
+        },
+        {
+          "start": 167.24,
+          "end": 167.62,
+          "word": " rochas",
+          "probability": 0.9818695187568665
+        },
+        {
+          "start": 167.62,
+          "end": 168.1,
+          "word": " lunares",
+          "probability": 0.9378966887791952
+        },
+        {
+          "start": 168.1,
+          "end": 168.5,
+          "word": " trazidas",
+          "probability": 0.965794712305069
+        },
+        {
+          "start": 168.5,
+          "end": 168.74,
+          "word": " pelos",
+          "probability": 0.980309784412384
+        },
+        {
+          "start": 168.74,
+          "end": 169.44,
+          "word": " astronautas",
+          "probability": 0.9921680092811584
+        },
+        {
+          "start": 169.44,
+          "end": 169.64,
+          "word": " foram",
+          "probability": 0.9185417294502258
+        },
+        {
+          "start": 169.64,
+          "end": 170.16,
+          "word": " estudadas",
+          "probability": 0.9940691888332367
+        },
+        {
+          "start": 170.16,
+          "end": 170.36,
+          "word": " por",
+          "probability": 0.9930525422096252
+        },
+        {
+          "start": 170.36,
+          "end": 170.86,
+          "word": " cientistas",
+          "probability": 0.9934114813804626
+        },
+        {
+          "start": 170.86,
+          "end": 171.16,
+          "word": " de",
+          "probability": 0.991489052772522
+        },
+        {
+          "start": 171.16,
+          "end": 171.42,
+          "word": " vários",
+          "probability": 0.9941177368164062
+        }
+      ]
+    },
+    {
+      "start": 171.42,
+      "end": 176.4,
+      "text": " países e missões posteriores, junto com imagens de satélite, continuaram confirmando",
+      "words": [
+        {
+          "start": 171.42,
+          "end": 171.94,
+          "word": " países",
+          "probability": 0.9895944595336914
+        },
+        {
+          "start": 171.94,
+          "end": 172.34,
+          "word": " e",
+          "probability": 0.54392409324646
+        },
+        {
+          "start": 172.34,
+          "end": 172.64,
+          "word": " missões",
+          "probability": 0.9888196289539337
+        },
+        {
+          "start": 172.64,
+          "end": 173.44,
+          "word": " posteriores,",
+          "probability": 0.9876161019007365
+        },
+        {
+          "start": 173.58,
+          "end": 173.72,
+          "word": " junto",
+          "probability": 0.9862505197525024
+        },
+        {
+          "start": 173.72,
+          "end": 173.9,
+          "word": " com",
+          "probability": 0.9908030033111572
+        },
+        {
+          "start": 173.9,
+          "end": 174.28,
+          "word": " imagens",
+          "probability": 0.9933368265628815
+        },
+        {
+          "start": 174.28,
+          "end": 174.56,
+          "word": " de",
+          "probability": 0.9912001490592957
+        },
+        {
+          "start": 174.56,
+          "end": 175.14,
+          "word": " satélite,",
+          "probability": 0.9593270619710287
+        },
+        {
+          "start": 175.6,
+          "end": 175.82,
+          "word": " continuaram",
+          "probability": 0.9662038385868073
+        },
+        {
+          "start": 175.82,
+          "end": 176.4,
+          "word": " confirmando",
+          "probability": 0.9967959523200989
+        }
+      ]
+    },
+    {
+      "start": 176.4,
+      "end": 178.52,
+      "text": " os locais de pouso na superfície da Lua.",
+      "words": [
+        {
+          "start": 176.4,
+          "end": 176.58,
+          "word": " os",
+          "probability": 0.9943707585334778
+        },
+        {
+          "start": 176.58,
+          "end": 176.84,
+          "word": " locais",
+          "probability": 0.9971050322055817
+        },
+        {
+          "start": 176.84,
+          "end": 177.06,
+          "word": " de",
+          "probability": 0.9974219799041748
+        },
+        {
+          "start": 177.06,
+          "end": 177.26,
+          "word": " pouso",
+          "probability": 0.9908921122550964
+        },
+        {
+          "start": 177.26,
+          "end": 177.42,
+          "word": " na",
+          "probability": 0.9843989610671997
+        },
+        {
+          "start": 177.42,
+          "end": 177.94,
+          "word": " superfície",
+          "probability": 0.9945396184921265
+        },
+        {
+          "start": 177.94,
+          "end": 178.16,
+          "word": " da",
+          "probability": 0.9948297142982483
+        },
+        {
+          "start": 178.16,
+          "end": 178.52,
+          "word": " Lua.",
+          "probability": 0.7123616337776184
+        }
+      ]
+    },
+    {
+      "start": 179.34,
+      "end": 184.22,
+      "text": " Há décadas, os Illuminati são uma das teorias da conspiração mais famosas do mundo.",
+      "words": [
+        {
+          "start": 179.34,
+          "end": 179.94,
+          "word": " Há",
+          "probability": 0.529231671243906
+        },
+        {
+          "start": 179.94,
+          "end": 180.48,
+          "word": " décadas,",
+          "probability": 0.9944844245910645
+        },
+        {
+          "start": 180.6,
+          "end": 180.72,
+          "word": " os",
+          "probability": 0.9764350056648254
+        },
+        {
+          "start": 180.72,
+          "end": 181.22,
+          "word": " Illuminati",
+          "probability": 0.8896709283192953
+        },
+        {
+          "start": 181.22,
+          "end": 181.4,
+          "word": " são",
+          "probability": 0.9809716939926147
+        },
+        {
+          "start": 181.4,
+          "end": 181.6,
+          "word": " uma",
+          "probability": 0.9465420842170715
+        },
+        {
+          "start": 181.6,
+          "end": 181.76,
+          "word": " das",
+          "probability": 0.9930029511451721
+        },
+        {
+          "start": 181.76,
+          "end": 182.12,
+          "word": " teorias",
+          "probability": 0.9825090169906616
+        },
+        {
+          "start": 182.12,
+          "end": 182.3,
+          "word": " da",
+          "probability": 0.9705199003219604
+        },
+        {
+          "start": 182.3,
+          "end": 182.92,
+          "word": " conspiração",
+          "probability": 0.9793404340744019
+        },
+        {
+          "start": 182.92,
+          "end": 183.32,
+          "word": " mais",
+          "probability": 0.9975746273994446
+        },
+        {
+          "start": 183.32,
+          "end": 183.74,
+          "word": " famosas",
+          "probability": 0.9843884408473969
+        },
+        {
+          "start": 183.74,
+          "end": 183.94,
+          "word": " do",
+          "probability": 0.9939689636230469
+        },
+        {
+          "start": 183.94,
+          "end": 184.22,
+          "word": " mundo.",
+          "probability": 0.9854216575622559
+        }
+      ]
+    },
+    {
+      "start": 184.46,
+      "end": 189.24,
+      "text": " De acordo com ela, uma organização secreta atua nos bastidores, influenciando os eventos",
+      "words": [
+        {
+          "start": 184.46,
+          "end": 184.6,
+          "word": " De",
+          "probability": 0.9905099272727966
+        },
+        {
+          "start": 184.6,
+          "end": 184.84,
+          "word": " acordo",
+          "probability": 0.9977132081985474
+        },
+        {
+          "start": 184.84,
+          "end": 185.14,
+          "word": " com",
+          "probability": 0.999220609664917
+        },
+        {
+          "start": 185.14,
+          "end": 185.34,
+          "word": " ela,",
+          "probability": 0.9243331551551819
+        },
+        {
+          "start": 185.5,
+          "end": 185.62,
+          "word": " uma",
+          "probability": 0.9951499104499817
+        },
+        {
+          "start": 185.62,
+          "end": 186.22,
+          "word": " organização",
+          "probability": 0.9960781037807465
+        },
+        {
+          "start": 186.22,
+          "end": 186.74,
+          "word": " secreta",
+          "probability": 0.9954443573951721
+        },
+        {
+          "start": 186.74,
+          "end": 187.02,
+          "word": " atua",
+          "probability": 0.9959342777729034
+        },
+        {
+          "start": 187.02,
+          "end": 187.2,
+          "word": " nos",
+          "probability": 0.9936702251434326
+        },
+        {
+          "start": 187.2,
+          "end": 187.82,
+          "word": " bastidores,",
+          "probability": 0.9855742156505585
+        },
+        {
+          "start": 188.22,
+          "end": 188.72,
+          "word": " influenciando",
+          "probability": 0.996160606543223
+        },
+        {
+          "start": 188.72,
+          "end": 188.9,
+          "word": " os",
+          "probability": 0.9890056252479553
+        },
+        {
+          "start": 188.9,
+          "end": 189.24,
+          "word": " eventos",
+          "probability": 0.9983784854412079
+        }
+      ]
+    },
+    {
+      "start": 189.24,
+      "end": 192.36,
+      "text": " mundiais e controlando a sociedade a partir das sombras.",
+      "words": [
+        {
+          "start": 189.24,
+          "end": 189.84,
+          "word": " mundiais",
+          "probability": 0.9937458833058676
+        },
+        {
+          "start": 189.84,
+          "end": 190.2,
+          "word": " e",
+          "probability": 0.9800838232040405
+        },
+        {
+          "start": 190.2,
+          "end": 190.56,
+          "word": " controlando",
+          "probability": 0.8378019332885742
+        },
+        {
+          "start": 190.56,
+          "end": 190.78,
+          "word": " a",
+          "probability": 0.9960787892341614
+        },
+        {
+          "start": 190.78,
+          "end": 191.18,
+          "word": " sociedade",
+          "probability": 0.9964501857757568
+        },
+        {
+          "start": 191.18,
+          "end": 191.4,
+          "word": " a",
+          "probability": 0.9824845194816589
+        },
+        {
+          "start": 191.4,
+          "end": 191.64,
+          "word": " partir",
+          "probability": 0.999690055847168
+        },
+        {
+          "start": 191.64,
+          "end": 191.94,
+          "word": " das",
+          "probability": 0.983069896697998
+        },
+        {
+          "start": 191.94,
+          "end": 192.36,
+          "word": " sombras.",
+          "probability": 0.9904702305793762
+        }
+      ]
+    },
+    {
+      "start": 192.36,
+      "end": 197.28,
+      "text": " O grupo costuma ser associado a símbolos como o olho que tudo vê e as supostas mensagens",
+      "words": [
+        {
+          "start": 192.36,
+          "end": 192.68,
+          "word": " O",
+          "probability": 0.4734991788864136
+        },
+        {
+          "start": 192.68,
+          "end": 192.98,
+          "word": " grupo",
+          "probability": 0.9607997536659241
+        },
+        {
+          "start": 192.98,
+          "end": 193.36,
+          "word": " costuma",
+          "probability": 0.9961245357990265
+        },
+        {
+          "start": 193.36,
+          "end": 193.58,
+          "word": " ser",
+          "probability": 0.9966369867324829
+        },
+        {
+          "start": 193.58,
+          "end": 194.04,
+          "word": " associado",
+          "probability": 0.9979137182235718
+        },
+        {
+          "start": 194.04,
+          "end": 194.22,
+          "word": " a",
+          "probability": 0.9811768531799316
+        },
+        {
+          "start": 194.22,
+          "end": 194.64,
+          "word": " símbolos",
+          "probability": 0.9956110119819641
+        },
+        {
+          "start": 194.64,
+          "end": 194.88,
+          "word": " como",
+          "probability": 0.9492812156677246
+        },
+        {
+          "start": 194.88,
+          "end": 195.08,
+          "word": " o",
+          "probability": 0.7968564033508301
+        },
+        {
+          "start": 195.08,
+          "end": 195.2,
+          "word": " olho",
+          "probability": 0.7804638147354126
+        },
+        {
+          "start": 195.2,
+          "end": 195.4,
+          "word": " que",
+          "probability": 0.9578886032104492
+        },
+        {
+          "start": 195.4,
+          "end": 195.6,
+          "word": " tudo",
+          "probability": 0.9934234619140625
+        },
+        {
+          "start": 195.6,
+          "end": 195.8,
+          "word": " vê",
+          "probability": 0.9584036469459534
+        },
+        {
+          "start": 195.8,
+          "end": 196.14,
+          "word": " e",
+          "probability": 0.8644090890884399
+        },
+        {
+          "start": 196.14,
+          "end": 196.34,
+          "word": " as",
+          "probability": 0.6758050322532654
+        },
+        {
+          "start": 196.34,
+          "end": 196.82,
+          "word": " supostas",
+          "probability": 0.9985739588737488
+        },
+        {
+          "start": 196.82,
+          "end": 197.28,
+          "word": " mensagens",
+          "probability": 0.9979776442050934
+        }
+      ]
+    },
+    {
+      "start": 197.28,
+      "end": 198.66,
+      "text": " ocultas na cultura pop.",
+      "words": [
+        {
+          "start": 197.28,
+          "end": 197.8,
+          "word": " ocultas",
+          "probability": 0.9978562593460083
+        },
+        {
+          "start": 197.8,
+          "end": 197.92,
+          "word": " na",
+          "probability": 0.9886525273323059
+        },
+        {
+          "start": 197.92,
+          "end": 198.3,
+          "word": " cultura",
+          "probability": 0.9977375268936157
+        },
+        {
+          "start": 198.3,
+          "end": 198.66,
+          "word": " pop.",
+          "probability": 0.9785900712013245
+        }
+      ]
+    },
+    {
+      "start": 198.92,
+      "end": 201.48,
+      "text": " Com o tempo, a teoria foi muito além da política.",
+      "words": [
+        {
+          "start": 198.92,
+          "end": 199.1,
+          "word": " Com",
+          "probability": 0.9748715758323669
+        },
+        {
+          "start": 199.1,
+          "end": 199.22,
+          "word": " o",
+          "probability": 0.99909508228302
+        },
+        {
+          "start": 199.22,
+          "end": 199.52,
+          "word": " tempo,",
+          "probability": 0.9995989203453064
+        },
+        {
+          "start": 199.66,
+          "end": 199.8,
+          "word": " a",
+          "probability": 0.996738612651825
+        },
+        {
+          "start": 199.8,
+          "end": 200.02,
+          "word": " teoria",
+          "probability": 0.9874420762062073
+        },
+        {
+          "start": 200.02,
+          "end": 200.24,
+          "word": " foi",
+          "probability": 0.9965685606002808
+        },
+        {
+          "start": 200.24,
+          "end": 200.64,
+          "word": " muito",
+          "probability": 0.9971098303794861
+        },
+        {
+          "start": 200.64,
+          "end": 200.84,
+          "word": " além",
+          "probability": 0.9943300485610962
+        },
+        {
+          "start": 200.84,
+          "end": 201.06,
+          "word": " da",
+          "probability": 0.9953084588050842
+        },
+        {
+          "start": 201.06,
+          "end": 201.48,
+          "word": " política.",
+          "probability": 0.9687129855155945
+        }
+      ]
+    },
+    {
+      "start": 201.8,
+      "end": 206.4,
+      "text": " Figuras poderosas, celebridades e grandes instituições passaram a ser acusadas de",
+      "words": [
+        {
+          "start": 201.8,
+          "end": 202.08,
+          "word": " Figuras",
+          "probability": 0.9918733537197113
+        },
+        {
+          "start": 202.08,
+          "end": 202.78,
+          "word": " poderosas,",
+          "probability": 0.9968568980693817
+        },
+        {
+          "start": 203.06,
+          "end": 203.62,
+          "word": " celebridades",
+          "probability": 0.9913828074932098
+        },
+        {
+          "start": 203.62,
+          "end": 203.94,
+          "word": " e",
+          "probability": 0.9735708832740784
+        },
+        {
+          "start": 203.94,
+          "end": 204.34,
+          "word": " grandes",
+          "probability": 0.9755164980888367
+        },
+        {
+          "start": 204.34,
+          "end": 205.04,
+          "word": " instituições",
+          "probability": 0.9973493417104086
+        },
+        {
+          "start": 205.04,
+          "end": 205.5,
+          "word": " passaram",
+          "probability": 0.9835006594657898
+        },
+        {
+          "start": 205.5,
+          "end": 205.64,
+          "word": " a",
+          "probability": 0.9952630996704102
+        },
+        {
+          "start": 205.64,
+          "end": 205.76,
+          "word": " ser",
+          "probability": 0.990691065788269
+        },
+        {
+          "start": 205.76,
+          "end": 206.24,
+          "word": " acusadas",
+          "probability": 0.99549800157547
+        },
+        {
+          "start": 206.24,
+          "end": 206.4,
+          "word": " de",
+          "probability": 0.9977700710296631
+        }
+      ]
+    },
+    {
+      "start": 206.4,
+      "end": 207.34,
+      "text": " ligação com o grupo.",
+      "words": [
+        {
+          "start": 206.4,
+          "end": 206.78,
+          "word": " ligação",
+          "probability": 0.9942009747028351
+        },
+        {
+          "start": 206.78,
+          "end": 206.96,
+          "word": " com",
+          "probability": 0.9980441331863403
+        },
+        {
+          "start": 206.96,
+          "end": 207.12,
+          "word": " o",
+          "probability": 0.9940176010131836
+        },
+        {
+          "start": 207.12,
+          "end": 207.34,
+          "word": " grupo.",
+          "probability": 0.9988226294517517
+        }
+      ]
+    },
+    {
+      "start": 207.68,
+      "end": 211.96,
+      "text": " Alguns acreditavam que eventos importantes e crises globais eram orquestrados em",
+      "words": [
+        {
+          "start": 207.68,
+          "end": 208.0,
+          "word": " Alguns",
+          "probability": 0.9894420206546783
+        },
+        {
+          "start": 208.0,
+          "end": 208.56,
+          "word": " acreditavam",
+          "probability": 0.9948007464408875
+        },
+        {
+          "start": 208.56,
+          "end": 208.76,
+          "word": " que",
+          "probability": 0.9974111914634705
+        },
+        {
+          "start": 208.76,
+          "end": 209.16,
+          "word": " eventos",
+          "probability": 0.9979600012302399
+        },
+        {
+          "start": 209.16,
+          "end": 209.7,
+          "word": " importantes",
+          "probability": 0.9982074499130249
+        },
+        {
+          "start": 209.7,
+          "end": 209.94,
+          "word": " e",
+          "probability": 0.9957513809204102
+        },
+        {
+          "start": 209.94,
+          "end": 210.24,
+          "word": " crises",
+          "probability": 0.9717636704444885
+        },
+        {
+          "start": 210.24,
+          "end": 210.8,
+          "word": " globais",
+          "probability": 0.9955080449581146
+        },
+        {
+          "start": 210.8,
+          "end": 211.02,
+          "word": " eram",
+          "probability": 0.970569372177124
+        },
+        {
+          "start": 211.02,
+          "end": 211.66,
+          "word": " orquestrados",
+          "probability": 0.9859342773755392
+        },
+        {
+          "start": 211.66,
+          "end": 211.96,
+          "word": " em",
+          "probability": 0.9964281916618347
+        }
+      ]
+    },
+    {
+      "start": 211.96,
+      "end": 214.68,
+      "text": " segredo como parte de um plano de dominação mundial.",
+      "words": [
+        {
+          "start": 211.96,
+          "end": 212.5,
+          "word": " segredo",
+          "probability": 0.9974349141120911
+        },
+        {
+          "start": 212.5,
+          "end": 212.78,
+          "word": " como",
+          "probability": 0.3468613624572754
+        },
+        {
+          "start": 212.78,
+          "end": 213.08,
+          "word": " parte",
+          "probability": 0.9954207539558411
+        },
+        {
+          "start": 213.08,
+          "end": 213.24,
+          "word": " de",
+          "probability": 0.9969884753227234
+        },
+        {
+          "start": 213.24,
+          "end": 213.42,
+          "word": " um",
+          "probability": 0.9981911778450012
+        },
+        {
+          "start": 213.42,
+          "end": 213.58,
+          "word": " plano",
+          "probability": 0.9975069165229797
+        },
+        {
+          "start": 213.58,
+          "end": 213.82,
+          "word": " de",
+          "probability": 0.9972883462905884
+        },
+        {
+          "start": 213.82,
+          "end": 214.22,
+          "word": " dominação",
+          "probability": 0.9888360798358917
+        },
+        {
+          "start": 214.22,
+          "end": 214.68,
+          "word": " mundial.",
+          "probability": 0.9982672929763794
+        }
+      ]
+    },
+    {
+      "start": 214.94,
+      "end": 218.76,
+      "text": " Como quase tudo podia ser conectado à teoria, ela se espalhou rapidamente",
+      "words": [
+        {
+          "start": 214.94,
+          "end": 215.14,
+          "word": " Como",
+          "probability": 0.9957243204116821
+        },
+        {
+          "start": 215.14,
+          "end": 215.54,
+          "word": " quase",
+          "probability": 0.9936925172805786
+        },
+        {
+          "start": 215.54,
+          "end": 215.78,
+          "word": " tudo",
+          "probability": 0.995275616645813
+        },
+        {
+          "start": 215.78,
+          "end": 216.0,
+          "word": " podia",
+          "probability": 0.9695336818695068
+        },
+        {
+          "start": 216.0,
+          "end": 216.3,
+          "word": " ser",
+          "probability": 0.9990509152412415
+        },
+        {
+          "start": 216.3,
+          "end": 216.68,
+          "word": " conectado",
+          "probability": 0.997070848941803
+        },
+        {
+          "start": 216.68,
+          "end": 216.76,
+          "word": " à",
+          "probability": 0.6433882117271423
+        },
+        {
+          "start": 216.76,
+          "end": 217.34,
+          "word": " teoria,",
+          "probability": 0.9977792799472809
+        },
+        {
+          "start": 217.48,
+          "end": 217.58,
+          "word": " ela",
+          "probability": 0.9952953457832336
+        },
+        {
+          "start": 217.58,
+          "end": 217.8,
+          "word": " se",
+          "probability": 0.9982494711875916
+        },
+        {
+          "start": 217.8,
+          "end": 218.1,
+          "word": " espalhou",
+          "probability": 0.995221753915151
+        },
+        {
+          "start": 218.1,
+          "end": 218.76,
+          "word": " rapidamente",
+          "probability": 0.9972663819789886
+        }
+      ]
+    },
+    {
+      "start": 218.76,
+      "end": 221.0,
+      "text": " pela internet e pela mídia ao longo dos anos.",
+      "words": [
+        {
+          "start": 218.76,
+          "end": 218.94,
+          "word": " pela",
+          "probability": 0.9966869950294495
+        },
+        {
+          "start": 218.94,
+          "end": 219.44,
+          "word": " internet",
+          "probability": 0.9564386606216431
+        },
+        {
+          "start": 219.44,
+          "end": 219.72,
+          "word": " e",
+          "probability": 0.9909996390342712
+        },
+        {
+          "start": 219.72,
+          "end": 219.9,
+          "word": " pela",
+          "probability": 0.991394579410553
+        },
+        {
+          "start": 219.9,
+          "end": 220.18,
+          "word": " mídia",
+          "probability": 0.9992078542709351
+        },
+        {
+          "start": 220.18,
+          "end": 220.36,
+          "word": " ao",
+          "probability": 0.986302375793457
+        },
+        {
+          "start": 220.36,
+          "end": 220.5,
+          "word": " longo",
+          "probability": 0.9995057582855225
+        },
+        {
+          "start": 220.5,
+          "end": 220.76,
+          "word": " dos",
+          "probability": 0.9955487251281738
+        },
+        {
+          "start": 220.76,
+          "end": 221.0,
+          "word": " anos.",
+          "probability": 0.9996554851531982
+        }
+      ]
+    },
+    {
+      "start": 221.0,
+      "end": 226.34,
+      "text": " No entanto, a conspiração se baseia, de forma bem vaga, em um grupo que realmente existiu.",
+      "words": [
+        {
+          "start": 221.0,
+          "end": 221.4,
+          "word": " No",
+          "probability": 0.613591730594635
+        },
+        {
+          "start": 221.4,
+          "end": 221.84,
+          "word": " entanto,",
+          "probability": 0.996926873922348
+        },
+        {
+          "start": 221.98,
+          "end": 222.14,
+          "word": " a",
+          "probability": 0.9941225647926331
+        },
+        {
+          "start": 222.14,
+          "end": 222.58,
+          "word": " conspiração",
+          "probability": 0.9912641197443008
+        },
+        {
+          "start": 222.58,
+          "end": 222.8,
+          "word": " se",
+          "probability": 0.9943460822105408
+        },
+        {
+          "start": 222.8,
+          "end": 223.22,
+          "word": " baseia,",
+          "probability": 0.9956056475639343
+        },
+        {
+          "start": 223.26,
+          "end": 223.44,
+          "word": " de",
+          "probability": 0.9969304203987122
+        },
+        {
+          "start": 223.44,
+          "end": 223.7,
+          "word": " forma",
+          "probability": 0.9960336089134216
+        },
+        {
+          "start": 223.7,
+          "end": 224.04,
+          "word": " bem",
+          "probability": 0.9922499656677246
+        },
+        {
+          "start": 224.04,
+          "end": 224.32,
+          "word": " vaga,",
+          "probability": 0.9963432252407074
+        },
+        {
+          "start": 224.58,
+          "end": 224.68,
+          "word": " em",
+          "probability": 0.9942434430122375
+        },
+        {
+          "start": 224.68,
+          "end": 224.84,
+          "word": " um",
+          "probability": 0.9981022477149963
+        },
+        {
+          "start": 224.84,
+          "end": 225.02,
+          "word": " grupo",
+          "probability": 0.9988585710525513
+        },
+        {
+          "start": 225.02,
+          "end": 225.3,
+          "word": " que",
+          "probability": 0.995465099811554
+        },
+        {
+          "start": 225.3,
+          "end": 225.84,
+          "word": " realmente",
+          "probability": 0.9939844012260437
+        },
+        {
+          "start": 225.84,
+          "end": 226.34,
+          "word": " existiu.",
+          "probability": 0.9949182271957397
+        }
+      ]
+    },
+    {
+      "start": 226.5,
+      "end": 233.0,
+      "text": " Em 1776, na Alemanha, o professor Adam Weishaupt fundou a Ordem dos Illuminati da Baviera.",
+      "words": [
+        {
+          "start": 226.5,
+          "end": 226.66,
+          "word": " Em",
+          "probability": 0.9749420285224915
+        },
+        {
+          "start": 226.66,
+          "end": 228.1,
+          "word": " 1776,",
+          "probability": 0.981959730386734
+        },
+        {
+          "start": 228.44,
+          "end": 228.56,
+          "word": " na",
+          "probability": 0.9927518367767334
+        },
+        {
+          "start": 228.56,
+          "end": 229.12,
+          "word": " Alemanha,",
+          "probability": 0.9980903466542562
+        },
+        {
+          "start": 229.28,
+          "end": 229.46,
+          "word": " o",
+          "probability": 0.9723753333091736
+        },
+        {
+          "start": 229.46,
+          "end": 229.78,
+          "word": " professor",
+          "probability": 0.8039460778236389
+        },
+        {
+          "start": 229.78,
+          "end": 230.28,
+          "word": " Adam",
+          "probability": 0.9597780704498291
+        },
+        {
+          "start": 230.28,
+          "end": 230.78,
+          "word": " Weishaupt",
+          "probability": 0.9415879646937052
+        },
+        {
+          "start": 230.78,
+          "end": 231.26,
+          "word": " fundou",
+          "probability": 0.9891844987869263
+        },
+        {
+          "start": 231.26,
+          "end": 231.42,
+          "word": " a",
+          "probability": 0.9870302081108093
+        },
+        {
+          "start": 231.42,
+          "end": 231.68,
+          "word": " Ordem",
+          "probability": 0.7430840283632278
+        },
+        {
+          "start": 231.68,
+          "end": 231.86,
+          "word": " dos",
+          "probability": 0.9850488305091858
+        },
+        {
+          "start": 231.86,
+          "end": 232.38,
+          "word": " Illuminati",
+          "probability": 0.8544082442919413
+        },
+        {
+          "start": 232.38,
+          "end": 232.54,
+          "word": " da",
+          "probability": 0.9379056096076965
+        },
+        {
+          "start": 232.54,
+          "end": 233.0,
+          "word": " Baviera.",
+          "probability": 0.9803483486175537
+        }
+      ]
+    },
+    {
+      "start": 233.38,
+      "end": 236.74,
+      "text": " Diferente da teoria moderna, o grupo original não controlava o mundo.",
+      "words": [
+        {
+          "start": 233.38,
+          "end": 233.66,
+          "word": " Diferente",
+          "probability": 0.9810681343078613
+        },
+        {
+          "start": 233.66,
+          "end": 233.78,
+          "word": " da",
+          "probability": 0.996216356754303
+        },
+        {
+          "start": 233.78,
+          "end": 234.12,
+          "word": " teoria",
+          "probability": 0.9560360014438629
+        },
+        {
+          "start": 234.12,
+          "end": 234.62,
+          "word": " moderna,",
+          "probability": 0.9951781630516052
+        },
+        {
+          "start": 234.76,
+          "end": 234.86,
+          "word": " o",
+          "probability": 0.9966925382614136
+        },
+        {
+          "start": 234.86,
+          "end": 235.04,
+          "word": " grupo",
+          "probability": 0.9960319399833679
+        },
+        {
+          "start": 235.04,
+          "end": 235.44,
+          "word": " original",
+          "probability": 0.995344340801239
+        },
+        {
+          "start": 235.44,
+          "end": 235.94,
+          "word": " não",
+          "probability": 0.9865071773529053
+        },
+        {
+          "start": 235.94,
+          "end": 236.34,
+          "word": " controlava",
+          "probability": 0.9981014728546143
+        },
+        {
+          "start": 236.34,
+          "end": 236.5,
+          "word": " o",
+          "probability": 0.9991286396980286
+        },
+        {
+          "start": 236.5,
+          "end": 236.74,
+          "word": " mundo.",
+          "probability": 0.9912159442901611
+        }
+      ]
+    },
+    {
+      "start": 236.92,
+      "end": 241.24,
+      "text": " Era uma pequena sociedade intelectual que defendia a razão e se opunha à influência",
+      "words": [
+        {
+          "start": 236.92,
+          "end": 237.08,
+          "word": " Era",
+          "probability": 0.9730216860771179
+        },
+        {
+          "start": 237.08,
+          "end": 237.22,
+          "word": " uma",
+          "probability": 0.9982017278671265
+        },
+        {
+          "start": 237.22,
+          "end": 237.66,
+          "word": " pequena",
+          "probability": 0.9983196556568146
+        },
+        {
+          "start": 237.66,
+          "end": 238.18,
+          "word": " sociedade",
+          "probability": 0.9945091605186462
+        },
+        {
+          "start": 238.18,
+          "end": 238.82,
+          "word": " intelectual",
+          "probability": 0.9991539915402731
+        },
+        {
+          "start": 238.82,
+          "end": 239.04,
+          "word": " que",
+          "probability": 0.954513669013977
+        },
+        {
+          "start": 239.04,
+          "end": 239.46,
+          "word": " defendia",
+          "probability": 0.9944470524787903
+        },
+        {
+          "start": 239.46,
+          "end": 239.68,
+          "word": " a",
+          "probability": 0.9808598756790161
+        },
+        {
+          "start": 239.68,
+          "end": 240.0,
+          "word": " razão",
+          "probability": 0.9965870082378387
+        },
+        {
+          "start": 240.0,
+          "end": 240.14,
+          "word": " e",
+          "probability": 0.9701744914054871
+        },
+        {
+          "start": 240.14,
+          "end": 240.38,
+          "word": " se",
+          "probability": 0.9959946870803833
+        },
+        {
+          "start": 240.38,
+          "end": 240.66,
+          "word": " opunha",
+          "probability": 0.9962158799171448
+        },
+        {
+          "start": 240.66,
+          "end": 240.82,
+          "word": " à",
+          "probability": 0.6739456057548523
+        },
+        {
+          "start": 240.82,
+          "end": 241.24,
+          "word": " influência",
+          "probability": 0.9879302382469177
+        }
+      ]
+    },
+    {
+      "start": 241.24,
+      "end": 243.04,
+      "text": " excessiva da política e da religião.",
+      "words": [
+        {
+          "start": 241.24,
+          "end": 241.8,
+          "word": " excessiva",
+          "probability": 0.9974158406257629
+        },
+        {
+          "start": 241.8,
+          "end": 241.98,
+          "word": " da",
+          "probability": 0.9938229322433472
+        },
+        {
+          "start": 241.98,
+          "end": 242.36,
+          "word": " política",
+          "probability": 0.9698821902275085
+        },
+        {
+          "start": 242.36,
+          "end": 242.5,
+          "word": " e",
+          "probability": 0.9900736808776855
+        },
+        {
+          "start": 242.5,
+          "end": 242.68,
+          "word": " da",
+          "probability": 0.995449960231781
+        },
+        {
+          "start": 242.68,
+          "end": 243.04,
+          "word": " religião.",
+          "probability": 0.998256653547287
+        }
+      ]
+    },
+    {
+      "start": 243.28,
+      "end": 247.62,
+      "text": " A organização acabou proibida pelo governo da Baviera e praticamente desapareceu",
+      "words": [
+        {
+          "start": 243.28,
+          "end": 243.46,
+          "word": " A",
+          "probability": 0.994949460029602
+        },
+        {
+          "start": 243.46,
+          "end": 244.0,
+          "word": " organização",
+          "probability": 0.9950866401195526
+        },
+        {
+          "start": 244.0,
+          "end": 244.28,
+          "word": " acabou",
+          "probability": 0.993911862373352
+        },
+        {
+          "start": 244.28,
+          "end": 244.86,
+          "word": " proibida",
+          "probability": 0.9983291824658712
+        },
+        {
+          "start": 244.86,
+          "end": 245.04,
+          "word": " pelo",
+          "probability": 0.9974989295005798
+        },
+        {
+          "start": 245.04,
+          "end": 245.4,
+          "word": " governo",
+          "probability": 0.9664475321769714
+        },
+        {
+          "start": 245.4,
+          "end": 245.6,
+          "word": " da",
+          "probability": 0.9852710962295532
+        },
+        {
+          "start": 245.6,
+          "end": 246.04,
+          "word": " Baviera",
+          "probability": 0.9914360443751017
+        },
+        {
+          "start": 246.04,
+          "end": 246.34,
+          "word": " e",
+          "probability": 0.84241783618927
+        },
+        {
+          "start": 246.34,
+          "end": 246.92,
+          "word": " praticamente",
+          "probability": 0.9808315634727478
+        },
+        {
+          "start": 246.92,
+          "end": 247.62,
+          "word": " desapareceu",
+          "probability": 0.9984399974346161
+        }
+      ]
+    },
+    {
+      "start": 247.62,
+      "end": 248.48,
+      "text": " em poucos anos.",
+      "words": [
+        {
+          "start": 247.62,
+          "end": 247.86,
+          "word": " em",
+          "probability": 0.9957457184791565
+        },
+        {
+          "start": 247.86,
+          "end": 248.14,
+          "word": " poucos",
+          "probability": 0.9973805248737335
+        },
+        {
+          "start": 248.14,
+          "end": 248.48,
+          "word": " anos.",
+          "probability": 0.9996504783630371
+        }
+      ]
+    },
+    {
+      "start": 248.48,
+      "end": 253.16,
+      "text": " Hoje, não existe nenhuma evidência confiável de que uma organização secreta chamada",
+      "words": [
+        {
+          "start": 248.48,
+          "end": 249.1,
+          "word": " Hoje,",
+          "probability": 0.7558552026748657
+        },
+        {
+          "start": 249.38,
+          "end": 249.42,
+          "word": " não",
+          "probability": 0.9885613322257996
+        },
+        {
+          "start": 249.42,
+          "end": 249.72,
+          "word": " existe",
+          "probability": 0.9969876408576965
+        },
+        {
+          "start": 249.72,
+          "end": 250.16,
+          "word": " nenhuma",
+          "probability": 0.9934159517288208
+        },
+        {
+          "start": 250.16,
+          "end": 250.64,
+          "word": " evidência",
+          "probability": 0.9962307016054789
+        },
+        {
+          "start": 250.64,
+          "end": 251.2,
+          "word": " confiável",
+          "probability": 0.996696929136912
+        },
+        {
+          "start": 251.2,
+          "end": 251.34,
+          "word": " de",
+          "probability": 0.9706897735595703
+        },
+        {
+          "start": 251.34,
+          "end": 251.44,
+          "word": " que",
+          "probability": 0.9958196878433228
+        },
+        {
+          "start": 251.44,
+          "end": 251.6,
+          "word": " uma",
+          "probability": 0.9964240193367004
+        },
+        {
+          "start": 251.6,
+          "end": 252.18,
+          "word": " organização",
+          "probability": 0.9940061867237091
+        },
+        {
+          "start": 252.18,
+          "end": 252.68,
+          "word": " secreta",
+          "probability": 0.9931060671806335
+        },
+        {
+          "start": 252.68,
+          "end": 253.16,
+          "word": " chamada",
+          "probability": 0.9510292410850525
+        }
+      ]
+    },
+    {
+      "start": 253.16,
+      "end": 255.84,
+      "text": " Illuminati controle os acontecimentos do mundo.",
+      "words": [
+        {
+          "start": 253.16,
+          "end": 253.98,
+          "word": " Illuminati",
+          "probability": 0.7462178866068522
+        },
+        {
+          "start": 253.98,
+          "end": 254.48,
+          "word": " controle",
+          "probability": 0.8995527029037476
+        },
+        {
+          "start": 254.48,
+          "end": 254.74,
+          "word": " os",
+          "probability": 0.9947415590286255
+        },
+        {
+          "start": 254.74,
+          "end": 255.3,
+          "word": " acontecimentos",
+          "probability": 0.9982407689094543
+        },
+        {
+          "start": 255.3,
+          "end": 255.52,
+          "word": " do",
+          "probability": 0.9930319786071777
+        },
+        {
+          "start": 255.52,
+          "end": 255.84,
+          "word": " mundo.",
+          "probability": 0.9940313696861267
+        }
+      ]
+    },
+    {
+      "start": 256.12,
+      "end": 260.56,
+      "text": " A maior parte das alegações depende de especulação e não de provas verificáveis.",
+      "words": [
+        {
+          "start": 256.12,
+          "end": 256.14,
+          "word": " A",
+          "probability": 0.992236316204071
+        },
+        {
+          "start": 256.14,
+          "end": 256.38,
+          "word": " maior",
+          "probability": 0.8197511434555054
+        },
+        {
+          "start": 256.38,
+          "end": 256.7,
+          "word": " parte",
+          "probability": 0.9987865090370178
+        },
+        {
+          "start": 256.7,
+          "end": 256.9,
+          "word": " das",
+          "probability": 0.9948194622993469
+        },
+        {
+          "start": 256.9,
+          "end": 257.48,
+          "word": " alegações",
+          "probability": 0.9634705980618795
+        },
+        {
+          "start": 257.48,
+          "end": 257.82,
+          "word": " depende",
+          "probability": 0.864712655544281
+        },
+        {
+          "start": 257.82,
+          "end": 258.08,
+          "word": " de",
+          "probability": 0.992077648639679
+        },
+        {
+          "start": 258.08,
+          "end": 258.74,
+          "word": " especulação",
+          "probability": 0.9969984292984009
+        },
+        {
+          "start": 258.74,
+          "end": 259.0,
+          "word": " e",
+          "probability": 0.6831210255622864
+        },
+        {
+          "start": 259.0,
+          "end": 259.28,
+          "word": " não",
+          "probability": 0.9961859583854675
+        },
+        {
+          "start": 259.28,
+          "end": 259.5,
+          "word": " de",
+          "probability": 0.9903696179389954
+        },
+        {
+          "start": 259.5,
+          "end": 259.76,
+          "word": " provas",
+          "probability": 0.9965066909790039
+        },
+        {
+          "start": 259.76,
+          "end": 260.56,
+          "word": " verificáveis.",
+          "probability": 0.9978880683581034
+        }
+      ]
+    },
+    {
+      "start": 262.22,
+      "end": 266.88,
+      "text": " A teoria de que a Finlândia não existe afirma que o país não é real, e sim",
+      "words": [
+        {
+          "start": 262.22,
+          "end": 262.78,
+          "word": " A",
+          "probability": 0.940527617931366
+        },
+        {
+          "start": 262.78,
+          "end": 263.16,
+          "word": " teoria",
+          "probability": 0.5572592616081238
+        },
+        {
+          "start": 263.16,
+          "end": 263.28,
+          "word": " de",
+          "probability": 0.9903836846351624
+        },
+        {
+          "start": 263.28,
+          "end": 263.44,
+          "word": " que",
+          "probability": 0.9965507984161377
+        },
+        {
+          "start": 263.44,
+          "end": 263.6,
+          "word": " a",
+          "probability": 0.990847110748291
+        },
+        {
+          "start": 263.6,
+          "end": 263.92,
+          "word": " Finlândia",
+          "probability": 0.9631037265062332
+        },
+        {
+          "start": 263.92,
+          "end": 264.18,
+          "word": " não",
+          "probability": 0.9924333095550537
+        },
+        {
+          "start": 264.18,
+          "end": 264.6,
+          "word": " existe",
+          "probability": 0.9990887641906738
+        },
+        {
+          "start": 264.6,
+          "end": 265.04,
+          "word": " afirma",
+          "probability": 0.9435642759005228
+        },
+        {
+          "start": 265.04,
+          "end": 265.16,
+          "word": " que",
+          "probability": 0.9980858564376831
+        },
+        {
+          "start": 265.16,
+          "end": 265.24,
+          "word": " o",
+          "probability": 0.9954969882965088
+        },
+        {
+          "start": 265.24,
+          "end": 265.54,
+          "word": " país",
+          "probability": 0.985317051410675
+        },
+        {
+          "start": 265.54,
+          "end": 265.8,
+          "word": " não",
+          "probability": 0.9886837601661682
+        },
+        {
+          "start": 265.8,
+          "end": 266.0,
+          "word": " é",
+          "probability": 0.9976423382759094
+        },
+        {
+          "start": 266.0,
+          "end": 266.28,
+          "word": " real,",
+          "probability": 0.9836107492446899
+        },
+        {
+          "start": 266.52,
+          "end": 266.7,
+          "word": " e",
+          "probability": 0.9900557994842529
+        },
+        {
+          "start": 266.7,
+          "end": 266.88,
+          "word": " sim",
+          "probability": 0.9574322700500488
+        }
+      ]
+    },
+    {
+      "start": 266.88,
+      "end": 270.26,
+      "text": " uma região inventada por motivos políticos e econômicos.",
+      "words": [
+        {
+          "start": 266.88,
+          "end": 267.1,
+          "word": " uma",
+          "probability": 0.8401159048080444
+        },
+        {
+          "start": 267.1,
+          "end": 267.46,
+          "word": " região",
+          "probability": 0.9964312314987183
+        },
+        {
+          "start": 267.46,
+          "end": 268.08,
+          "word": " inventada",
+          "probability": 0.9970913231372833
+        },
+        {
+          "start": 268.08,
+          "end": 268.3,
+          "word": " por",
+          "probability": 0.9973978996276855
+        },
+        {
+          "start": 268.3,
+          "end": 268.78,
+          "word": " motivos",
+          "probability": 0.9972299933433533
+        },
+        {
+          "start": 268.78,
+          "end": 269.34,
+          "word": " políticos",
+          "probability": 0.9870286583900452
+        },
+        {
+          "start": 269.34,
+          "end": 269.62,
+          "word": " e",
+          "probability": 0.9983258843421936
+        },
+        {
+          "start": 269.62,
+          "end": 270.26,
+          "word": " econômicos.",
+          "probability": 0.9954796234766642
+        }
+      ]
+    },
+    {
+      "start": 270.48,
+      "end": 274.86,
+      "text": " Segundo ela, a área que aparece nos mapas como Finlândia seria na verdade parte",
+      "words": [
+        {
+          "start": 270.48,
+          "end": 270.8,
+          "word": " Segundo",
+          "probability": 0.990479439496994
+        },
+        {
+          "start": 270.8,
+          "end": 271.08,
+          "word": " ela,",
+          "probability": 0.9949634075164795
+        },
+        {
+          "start": 271.28,
+          "end": 271.32,
+          "word": " a",
+          "probability": 0.988437831401825
+        },
+        {
+          "start": 271.32,
+          "end": 271.54,
+          "word": " área",
+          "probability": 0.9880581498146057
+        },
+        {
+          "start": 271.54,
+          "end": 271.76,
+          "word": " que",
+          "probability": 0.9976202845573425
+        },
+        {
+          "start": 271.76,
+          "end": 272.0,
+          "word": " aparece",
+          "probability": 0.9962884187698364
+        },
+        {
+          "start": 272.0,
+          "end": 272.24,
+          "word": " nos",
+          "probability": 0.9845330119132996
+        },
+        {
+          "start": 272.24,
+          "end": 272.58,
+          "word": " mapas",
+          "probability": 0.997482031583786
+        },
+        {
+          "start": 272.58,
+          "end": 272.82,
+          "word": " como",
+          "probability": 0.9829434156417847
+        },
+        {
+          "start": 272.82,
+          "end": 273.56,
+          "word": " Finlândia",
+          "probability": 0.9222313612699509
+        },
+        {
+          "start": 273.56,
+          "end": 273.82,
+          "word": " seria",
+          "probability": 0.9378867149353027
+        },
+        {
+          "start": 273.82,
+          "end": 273.98,
+          "word": " na",
+          "probability": 0.8240711092948914
+        },
+        {
+          "start": 273.98,
+          "end": 274.44,
+          "word": " verdade",
+          "probability": 0.9987019300460815
+        },
+        {
+          "start": 274.44,
+          "end": 274.86,
+          "word": " parte",
+          "probability": 0.9841572642326355
+        }
+      ]
+    },
+    {
+      "start": 274.86,
+      "end": 279.38,
+      "text": " do Mar Báltico, e a terra supostamente seria dividida entre os países vizinhos.",
+      "words": [
+        {
+          "start": 274.86,
+          "end": 275.0,
+          "word": " do",
+          "probability": 0.6546953320503235
+        },
+        {
+          "start": 275.0,
+          "end": 275.24,
+          "word": " Mar",
+          "probability": 0.5376023650169373
+        },
+        {
+          "start": 275.24,
+          "end": 275.74,
+          "word": " Báltico,",
+          "probability": 0.9679508358240128
+        },
+        {
+          "start": 276.1,
+          "end": 276.18,
+          "word": " e",
+          "probability": 0.9906829595565796
+        },
+        {
+          "start": 276.18,
+          "end": 276.32,
+          "word": " a",
+          "probability": 0.9958370923995972
+        },
+        {
+          "start": 276.32,
+          "end": 276.58,
+          "word": " terra",
+          "probability": 0.7189489006996155
+        },
+        {
+          "start": 276.58,
+          "end": 277.38,
+          "word": " supostamente",
+          "probability": 0.9673176010449728
+        },
+        {
+          "start": 277.38,
+          "end": 277.66,
+          "word": " seria",
+          "probability": 0.9801316857337952
+        },
+        {
+          "start": 277.66,
+          "end": 278.2,
+          "word": " dividida",
+          "probability": 0.9937267005443573
+        },
+        {
+          "start": 278.2,
+          "end": 278.36,
+          "word": " entre",
+          "probability": 0.9967886209487915
+        },
+        {
+          "start": 278.36,
+          "end": 278.52,
+          "word": " os",
+          "probability": 0.975769579410553
+        },
+        {
+          "start": 278.52,
+          "end": 278.82,
+          "word": " países",
+          "probability": 0.9939135909080505
+        },
+        {
+          "start": 278.82,
+          "end": 279.38,
+          "word": " vizinhos.",
+          "probability": 0.9893254240353903
+        }
+      ]
+    },
+    {
+      "start": 279.64,
+      "end": 284.84,
+      "text": " A ideia surgiu na internet em 2015, quando um usuário do Reddit chamado rarigans contou",
+      "words": [
+        {
+          "start": 279.64,
+          "end": 279.8,
+          "word": " A",
+          "probability": 0.9871112704277039
+        },
+        {
+          "start": 279.8,
+          "end": 280.0,
+          "word": " ideia",
+          "probability": 0.9832949042320251
+        },
+        {
+          "start": 280.0,
+          "end": 280.38,
+          "word": " surgiu",
+          "probability": 0.9981805682182312
+        },
+        {
+          "start": 280.38,
+          "end": 280.52,
+          "word": " na",
+          "probability": 0.9946980476379395
+        },
+        {
+          "start": 280.52,
+          "end": 280.9,
+          "word": " internet",
+          "probability": 0.9279787540435791
+        },
+        {
+          "start": 280.9,
+          "end": 281.1,
+          "word": " em",
+          "probability": 0.9650421738624573
+        },
+        {
+          "start": 281.1,
+          "end": 281.86,
+          "word": " 2015,",
+          "probability": 0.9926536083221436
+        },
+        {
+          "start": 282.02,
+          "end": 282.22,
+          "word": " quando",
+          "probability": 0.9973799586296082
+        },
+        {
+          "start": 282.22,
+          "end": 282.46,
+          "word": " um",
+          "probability": 0.9948081374168396
+        },
+        {
+          "start": 282.46,
+          "end": 282.78,
+          "word": " usuário",
+          "probability": 0.9982137680053711
+        },
+        {
+          "start": 282.78,
+          "end": 282.92,
+          "word": " do",
+          "probability": 0.9672009348869324
+        },
+        {
+          "start": 282.92,
+          "end": 283.22,
+          "word": " Reddit",
+          "probability": 0.8003897666931152
+        },
+        {
+          "start": 283.22,
+          "end": 283.62,
+          "word": " chamado",
+          "probability": 0.8879088163375854
+        },
+        {
+          "start": 283.62,
+          "end": 284.24,
+          "word": " rarigans",
+          "probability": 0.4815951983133952
+        },
+        {
+          "start": 284.24,
+          "end": 284.84,
+          "word": " contou",
+          "probability": 0.9579433798789978
+        }
+      ]
+    },
+    {
+      "start": 284.84,
+      "end": 288.68,
+      "text": " em tom de brincadeira que sua família lhe ensinou que a Finlândia era falsa.",
+      "words": [
+        {
+          "start": 284.84,
+          "end": 285.04,
+          "word": " em",
+          "probability": 0.08105210214853287
+        },
+        {
+          "start": 285.04,
+          "end": 285.2,
+          "word": " tom",
+          "probability": 0.9792993664741516
+        },
+        {
+          "start": 285.2,
+          "end": 285.4,
+          "word": " de",
+          "probability": 0.997817873954773
+        },
+        {
+          "start": 285.4,
+          "end": 285.98,
+          "word": " brincadeira",
+          "probability": 0.9984020193417867
+        },
+        {
+          "start": 285.98,
+          "end": 286.2,
+          "word": " que",
+          "probability": 0.8684312105178833
+        },
+        {
+          "start": 286.2,
+          "end": 286.4,
+          "word": " sua",
+          "probability": 0.9875982403755188
+        },
+        {
+          "start": 286.4,
+          "end": 286.76,
+          "word": " família",
+          "probability": 0.996122419834137
+        },
+        {
+          "start": 286.76,
+          "end": 287.0,
+          "word": " lhe",
+          "probability": 0.9885193705558777
+        },
+        {
+          "start": 287.0,
+          "end": 287.3,
+          "word": " ensinou",
+          "probability": 0.9960987369219462
+        },
+        {
+          "start": 287.3,
+          "end": 287.42,
+          "word": " que",
+          "probability": 0.9971879124641418
+        },
+        {
+          "start": 287.42,
+          "end": 287.56,
+          "word": " a",
+          "probability": 0.9966451525688171
+        },
+        {
+          "start": 287.56,
+          "end": 287.92,
+          "word": " Finlândia",
+          "probability": 0.9737202525138855
+        },
+        {
+          "start": 287.92,
+          "end": 288.16,
+          "word": " era",
+          "probability": 0.9922125935554504
+        },
+        {
+          "start": 288.16,
+          "end": 288.68,
+          "word": " falsa.",
+          "probability": 0.9975661039352417
+        }
+      ]
+    },
+    {
+      "start": 288.8,
+      "end": 292.66,
+      "text": " O que começou como piada se espalhou rapidamente por fóruns e redes sociais.",
+      "words": [
+        {
+          "start": 288.8,
+          "end": 288.9,
+          "word": " O",
+          "probability": 0.9809772372245789
+        },
+        {
+          "start": 288.9,
+          "end": 289.1,
+          "word": " que",
+          "probability": 0.9984051585197449
+        },
+        {
+          "start": 289.1,
+          "end": 289.34,
+          "word": " começou",
+          "probability": 0.995220959186554
+        },
+        {
+          "start": 289.34,
+          "end": 289.66,
+          "word": " como",
+          "probability": 0.9941052198410034
+        },
+        {
+          "start": 289.66,
+          "end": 290.08,
+          "word": " piada",
+          "probability": 0.9952523112297058
+        },
+        {
+          "start": 290.08,
+          "end": 290.3,
+          "word": " se",
+          "probability": 0.8965554237365723
+        },
+        {
+          "start": 290.3,
+          "end": 290.6,
+          "word": " espalhou",
+          "probability": 0.9958202044169108
+        },
+        {
+          "start": 290.6,
+          "end": 291.3,
+          "word": " rapidamente",
+          "probability": 0.998274952173233
+        },
+        {
+          "start": 291.3,
+          "end": 291.54,
+          "word": " por",
+          "probability": 0.9925370812416077
+        },
+        {
+          "start": 291.54,
+          "end": 291.96,
+          "word": " fóruns",
+          "probability": 0.9839398264884949
+        },
+        {
+          "start": 291.96,
+          "end": 291.98,
+          "word": " e",
+          "probability": 0.9980777502059937
+        },
+        {
+          "start": 291.98,
+          "end": 292.22,
+          "word": " redes",
+          "probability": 0.997908353805542
+        },
+        {
+          "start": 292.22,
+          "end": 292.66,
+          "word": " sociais.",
+          "probability": 0.9978716373443604
+        }
+      ]
+    },
+    {
+      "start": 293.04,
+      "end": 297.26,
+      "text": " Uma das partes mais estranhas envolve um suposto acordo secreto entre o Japão",
+      "words": [
+        {
+          "start": 293.04,
+          "end": 293.22,
+          "word": " Uma",
+          "probability": 0.9838511347770691
+        },
+        {
+          "start": 293.22,
+          "end": 293.4,
+          "word": " das",
+          "probability": 0.9936138987541199
+        },
+        {
+          "start": 293.4,
+          "end": 293.72,
+          "word": " partes",
+          "probability": 0.9865840077400208
+        },
+        {
+          "start": 293.72,
+          "end": 294.06,
+          "word": " mais",
+          "probability": 0.9968279004096985
+        },
+        {
+          "start": 294.06,
+          "end": 294.7,
+          "word": " estranhas",
+          "probability": 0.9975652694702148
+        },
+        {
+          "start": 294.7,
+          "end": 295.0,
+          "word": " envolve",
+          "probability": 0.9769001007080078
+        },
+        {
+          "start": 295.0,
+          "end": 295.3,
+          "word": " um",
+          "probability": 0.9905147552490234
+        },
+        {
+          "start": 295.3,
+          "end": 295.68,
+          "word": " suposto",
+          "probability": 0.9967867732048035
+        },
+        {
+          "start": 295.68,
+          "end": 296.0,
+          "word": " acordo",
+          "probability": 0.991034209728241
+        },
+        {
+          "start": 296.0,
+          "end": 296.56,
+          "word": " secreto",
+          "probability": 0.9921627938747406
+        },
+        {
+          "start": 296.56,
+          "end": 296.76,
+          "word": " entre",
+          "probability": 0.9980049729347229
+        },
+        {
+          "start": 296.76,
+          "end": 296.94,
+          "word": " o",
+          "probability": 0.9891581535339355
+        },
+        {
+          "start": 296.94,
+          "end": 297.26,
+          "word": " Japão",
+          "probability": 0.9954741597175598
+        }
+      ]
+    },
+    {
+      "start": 297.26,
+      "end": 297.94,
+      "text": " e a Rússia.",
+      "words": [
+        {
+          "start": 297.26,
+          "end": 297.42,
+          "word": " e",
+          "probability": 0.9982022047042847
+        },
+        {
+          "start": 297.42,
+          "end": 297.58,
+          "word": " a",
+          "probability": 0.9953624606132507
+        },
+        {
+          "start": 297.58,
+          "end": 297.94,
+          "word": " Rússia.",
+          "probability": 0.9954233020544052
+        }
+      ]
+    },
+    {
+      "start": 298.1,
+      "end": 302.8,
+      "text": " Os adeptos afirmavam que o local da Finlândia era na verdade mar aberto, usado para",
+      "words": [
+        {
+          "start": 298.1,
+          "end": 298.32,
+          "word": " Os",
+          "probability": 0.9904009699821472
+        },
+        {
+          "start": 298.32,
+          "end": 298.74,
+          "word": " adeptos",
+          "probability": 0.9957242806752523
+        },
+        {
+          "start": 298.74,
+          "end": 299.28,
+          "word": " afirmavam",
+          "probability": 0.9850382010142008
+        },
+        {
+          "start": 299.28,
+          "end": 299.42,
+          "word": " que",
+          "probability": 0.997685432434082
+        },
+        {
+          "start": 299.42,
+          "end": 299.56,
+          "word": " o",
+          "probability": 0.9966670870780945
+        },
+        {
+          "start": 299.56,
+          "end": 299.76,
+          "word": " local",
+          "probability": 0.9906184077262878
+        },
+        {
+          "start": 299.76,
+          "end": 299.92,
+          "word": " da",
+          "probability": 0.9896710515022278
+        },
+        {
+          "start": 299.92,
+          "end": 300.46,
+          "word": " Finlândia",
+          "probability": 0.9756301492452621
+        },
+        {
+          "start": 300.46,
+          "end": 300.66,
+          "word": " era",
+          "probability": 0.9893296360969543
+        },
+        {
+          "start": 300.66,
+          "end": 300.78,
+          "word": " na",
+          "probability": 0.8638864755630493
+        },
+        {
+          "start": 300.78,
+          "end": 301.24,
+          "word": " verdade",
+          "probability": 0.9983806610107422
+        },
+        {
+          "start": 301.24,
+          "end": 301.56,
+          "word": " mar",
+          "probability": 0.7271962761878967
+        },
+        {
+          "start": 301.56,
+          "end": 302.06,
+          "word": " aberto,",
+          "probability": 0.9887826144695282
+        },
+        {
+          "start": 302.4,
+          "end": 302.6,
+          "word": " usado",
+          "probability": 0.9952018857002258
+        },
+        {
+          "start": 302.6,
+          "end": 302.8,
+          "word": " para",
+          "probability": 0.9948709011077881
+        }
+      ]
+    },
+    {
+      "start": 302.8,
+      "end": 307.76,
+      "text": " operações de pesca escondidas, com os peixes sendo transportados em segredo pela Rússia",
+      "words": [
+        {
+          "start": 302.8,
+          "end": 303.28,
+          "word": " operações",
+          "probability": 0.8211587369441986
+        },
+        {
+          "start": 303.28,
+          "end": 303.54,
+          "word": " de",
+          "probability": 0.9978452920913696
+        },
+        {
+          "start": 303.54,
+          "end": 303.8,
+          "word": " pesca",
+          "probability": 0.9960242807865143
+        },
+        {
+          "start": 303.8,
+          "end": 304.5,
+          "word": " escondidas,",
+          "probability": 0.9937774340311686
+        },
+        {
+          "start": 304.82,
+          "end": 304.92,
+          "word": " com",
+          "probability": 0.9938730001449585
+        },
+        {
+          "start": 304.92,
+          "end": 305.08,
+          "word": " os",
+          "probability": 0.9809131026268005
+        },
+        {
+          "start": 305.08,
+          "end": 305.34,
+          "word": " peixes",
+          "probability": 0.9826388359069824
+        },
+        {
+          "start": 305.34,
+          "end": 305.64,
+          "word": " sendo",
+          "probability": 0.9957879185676575
+        },
+        {
+          "start": 305.64,
+          "end": 306.32,
+          "word": " transportados",
+          "probability": 0.9935699701309204
+        },
+        {
+          "start": 306.32,
+          "end": 306.58,
+          "word": " em",
+          "probability": 0.9898244738578796
+        },
+        {
+          "start": 306.58,
+          "end": 306.94,
+          "word": " segredo",
+          "probability": 0.9947417974472046
+        },
+        {
+          "start": 306.94,
+          "end": 307.16,
+          "word": " pela",
+          "probability": 0.9971019625663757
+        },
+        {
+          "start": 307.16,
+          "end": 307.76,
+          "word": " Rússia",
+          "probability": 0.9872204214334488
+        }
+      ]
+    },
+    {
+      "start": 307.76,
+      "end": 309.7,
+      "text": " através da ferrovia transsiberiana.",
+      "words": [
+        {
+          "start": 307.76,
+          "end": 308.14,
+          "word": " através",
+          "probability": 0.7408711314201355
+        },
+        {
+          "start": 308.14,
+          "end": 308.4,
+          "word": " da",
+          "probability": 0.9944789409637451
+        },
+        {
+          "start": 308.4,
+          "end": 308.86,
+          "word": " ferrovia",
+          "probability": 0.9328505198160807
+        },
+        {
+          "start": 308.86,
+          "end": 309.7,
+          "word": " transsiberiana.",
+          "probability": 0.8653178960084915
+        }
+      ]
+    },
+    {
+      "start": 310.1,
+      "end": 314.4,
+      "text": " Algumas versões chegaram a sugerir que o nome vinha de fin, em referência à barbatana",
+      "words": [
+        {
+          "start": 310.1,
+          "end": 310.4,
+          "word": " Algumas",
+          "probability": 0.9880499442418417
+        },
+        {
+          "start": 310.4,
+          "end": 310.76,
+          "word": " versões",
+          "probability": 0.999183177947998
+        },
+        {
+          "start": 310.76,
+          "end": 311.16,
+          "word": " chegaram",
+          "probability": 0.9955089688301086
+        },
+        {
+          "start": 311.16,
+          "end": 311.3,
+          "word": " a",
+          "probability": 0.991668701171875
+        },
+        {
+          "start": 311.3,
+          "end": 311.68,
+          "word": " sugerir",
+          "probability": 0.9982610742251078
+        },
+        {
+          "start": 311.68,
+          "end": 311.8,
+          "word": " que",
+          "probability": 0.9938163757324219
+        },
+        {
+          "start": 311.8,
+          "end": 311.9,
+          "word": " o",
+          "probability": 0.9962555170059204
+        },
+        {
+          "start": 311.9,
+          "end": 312.08,
+          "word": " nome",
+          "probability": 0.9980179071426392
+        },
+        {
+          "start": 312.08,
+          "end": 312.32,
+          "word": " vinha",
+          "probability": 0.995136171579361
+        },
+        {
+          "start": 312.32,
+          "end": 312.66,
+          "word": " de",
+          "probability": 0.995118260383606
+        },
+        {
+          "start": 312.66,
+          "end": 312.82,
+          "word": " fin,",
+          "probability": 0.17022261023521423
+        },
+        {
+          "start": 313.14,
+          "end": 313.4,
+          "word": " em",
+          "probability": 0.9946959614753723
+        },
+        {
+          "start": 313.4,
+          "end": 313.74,
+          "word": " referência",
+          "probability": 0.9972434937953949
+        },
+        {
+          "start": 313.74,
+          "end": 313.86,
+          "word": " à",
+          "probability": 0.5701373815536499
+        },
+        {
+          "start": 313.86,
+          "end": 314.4,
+          "word": " barbatana",
+          "probability": 0.9667344292004904
+        }
+      ]
+    },
+    {
+      "start": 314.4,
+      "end": 318.28,
+      "text": " de um peixe, como reforço da ideia de que a região era mar e não terra.",
+      "words": [
+        {
+          "start": 314.4,
+          "end": 314.54,
+          "word": " de",
+          "probability": 0.9976388216018677
+        },
+        {
+          "start": 314.54,
+          "end": 314.72,
+          "word": " um",
+          "probability": 0.9968209266662598
+        },
+        {
+          "start": 314.72,
+          "end": 315.18,
+          "word": " peixe,",
+          "probability": 0.9987317621707916
+        },
+        {
+          "start": 315.34,
+          "end": 315.48,
+          "word": " como",
+          "probability": 0.9961672425270081
+        },
+        {
+          "start": 315.48,
+          "end": 316.0,
+          "word": " reforço",
+          "probability": 0.9325356880823771
+        },
+        {
+          "start": 316.0,
+          "end": 316.2,
+          "word": " da",
+          "probability": 0.9964224696159363
+        },
+        {
+          "start": 316.2,
+          "end": 316.4,
+          "word": " ideia",
+          "probability": 0.9632817506790161
+        },
+        {
+          "start": 316.4,
+          "end": 316.56,
+          "word": " de",
+          "probability": 0.9837356209754944
+        },
+        {
+          "start": 316.56,
+          "end": 316.68,
+          "word": " que",
+          "probability": 0.9994286894798279
+        },
+        {
+          "start": 316.68,
+          "end": 316.76,
+          "word": " a",
+          "probability": 0.9945758581161499
+        },
+        {
+          "start": 316.76,
+          "end": 317.0,
+          "word": " região",
+          "probability": 0.9991470575332642
+        },
+        {
+          "start": 317.0,
+          "end": 317.26,
+          "word": " era",
+          "probability": 0.9958595633506775
+        },
+        {
+          "start": 317.26,
+          "end": 317.52,
+          "word": " mar",
+          "probability": 0.9889418482780457
+        },
+        {
+          "start": 317.52,
+          "end": 317.76,
+          "word": " e",
+          "probability": 0.855100691318512
+        },
+        {
+          "start": 317.76,
+          "end": 317.96,
+          "word": " não",
+          "probability": 0.9925703406333923
+        },
+        {
+          "start": 317.96,
+          "end": 318.28,
+          "word": " terra.",
+          "probability": 0.9934976100921631
+        }
+      ]
+    },
+    {
+      "start": 318.64,
+      "end": 322.62,
+      "text": " Conforme a história evoluía, a linha entre sátira e crença genuína ficava",
+      "words": [
+        {
+          "start": 318.64,
+          "end": 318.88,
+          "word": " Conforme",
+          "probability": 0.995895653963089
+        },
+        {
+          "start": 318.88,
+          "end": 319.08,
+          "word": " a",
+          "probability": 0.9958557486534119
+        },
+        {
+          "start": 319.08,
+          "end": 319.26,
+          "word": " história",
+          "probability": 0.9937831163406372
+        },
+        {
+          "start": 319.26,
+          "end": 319.82,
+          "word": " evoluía,",
+          "probability": 0.9561279614766439
+        },
+        {
+          "start": 320.08,
+          "end": 320.18,
+          "word": " a",
+          "probability": 0.9982727766036987
+        },
+        {
+          "start": 320.18,
+          "end": 320.32,
+          "word": " linha",
+          "probability": 0.998799204826355
+        },
+        {
+          "start": 320.32,
+          "end": 320.68,
+          "word": " entre",
+          "probability": 0.9984538555145264
+        },
+        {
+          "start": 320.68,
+          "end": 321.1,
+          "word": " sátira",
+          "probability": 0.9799631834030151
+        },
+        {
+          "start": 321.1,
+          "end": 321.36,
+          "word": " e",
+          "probability": 0.9985961318016052
+        },
+        {
+          "start": 321.36,
+          "end": 321.72,
+          "word": " crença",
+          "probability": 0.9959214727083842
+        },
+        {
+          "start": 321.72,
+          "end": 322.2,
+          "word": " genuína",
+          "probability": 0.9823785026868185
+        },
+        {
+          "start": 322.2,
+          "end": 322.62,
+          "word": " ficava",
+          "probability": 0.9934680759906769
+        }
+      ]
+    },
+    {
+      "start": 322.62,
+      "end": 324.38,
+      "text": " cada vez mais difícil de enxergar.",
+      "words": [
+        {
+          "start": 322.62,
+          "end": 322.94,
+          "word": " cada",
+          "probability": 0.995873749256134
+        },
+        {
+          "start": 322.94,
+          "end": 323.16,
+          "word": " vez",
+          "probability": 0.9995077848434448
+        },
+        {
+          "start": 323.16,
+          "end": 323.4,
+          "word": " mais",
+          "probability": 0.9991123080253601
+        },
+        {
+          "start": 323.4,
+          "end": 323.74,
+          "word": " difícil",
+          "probability": 0.9946000576019287
+        },
+        {
+          "start": 323.74,
+          "end": 323.94,
+          "word": " de",
+          "probability": 0.9990105628967285
+        },
+        {
+          "start": 323.94,
+          "end": 324.38,
+          "word": " enxergar.",
+          "probability": 0.9984721094369888
+        }
+      ]
+    },
+    {
+      "start": 324.6,
+      "end": 329.36,
+      "text": " Na realidade, a Finlândia é sim um país real, com história documentada, governo,",
+      "words": [
+        {
+          "start": 324.6,
+          "end": 324.78,
+          "word": " Na",
+          "probability": 0.9890073537826538
+        },
+        {
+          "start": 324.78,
+          "end": 325.3,
+          "word": " realidade,",
+          "probability": 0.9981112480163574
+        },
+        {
+          "start": 325.52,
+          "end": 325.68,
+          "word": " a",
+          "probability": 0.9885478019714355
+        },
+        {
+          "start": 325.68,
+          "end": 326.08,
+          "word": " Finlândia",
+          "probability": 0.950915738940239
+        },
+        {
+          "start": 326.08,
+          "end": 326.42,
+          "word": " é",
+          "probability": 0.9792857766151428
+        },
+        {
+          "start": 326.42,
+          "end": 326.66,
+          "word": " sim",
+          "probability": 0.5614262223243713
+        },
+        {
+          "start": 326.66,
+          "end": 326.82,
+          "word": " um",
+          "probability": 0.9797675609588623
+        },
+        {
+          "start": 326.82,
+          "end": 327.04,
+          "word": " país",
+          "probability": 0.9951751232147217
+        },
+        {
+          "start": 327.04,
+          "end": 327.4,
+          "word": " real,",
+          "probability": 0.9814742207527161
+        },
+        {
+          "start": 327.52,
+          "end": 327.68,
+          "word": " com",
+          "probability": 0.9986363053321838
+        },
+        {
+          "start": 327.68,
+          "end": 328.0,
+          "word": " história",
+          "probability": 0.9443228840827942
+        },
+        {
+          "start": 328.0,
+          "end": 328.76,
+          "word": " documentada,",
+          "probability": 0.9985892474651337
+        },
+        {
+          "start": 329.0,
+          "end": 329.36,
+          "word": " governo,",
+          "probability": 0.9963622689247131
+        }
+      ]
+    },
+    {
+      "start": 329.36,
+      "end": 332.84,
+      "text": " população e fronteiras reconhecidas internacionalmente.",
+      "words": [
+        {
+          "start": 329.36,
+          "end": 330.2,
+          "word": " população",
+          "probability": 0.9135874807834625
+        },
+        {
+          "start": 330.2,
+          "end": 330.54,
+          "word": " e",
+          "probability": 0.9678052663803101
+        },
+        {
+          "start": 330.54,
+          "end": 331.04,
+          "word": " fronteiras",
+          "probability": 0.9958320657412211
+        },
+        {
+          "start": 331.04,
+          "end": 331.9,
+          "word": " reconhecidas",
+          "probability": 0.9980658739805222
+        },
+        {
+          "start": 331.9,
+          "end": 332.84,
+          "word": " internacionalmente.",
+          "probability": 0.9941847920417786
+        }
+      ]
+    }
+  ]
+}

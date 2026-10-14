@@ -1,0 +1,125 @@
+{
+  "duration": 73.01999999999998,
+  "assertions": [
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s00-card0",
+      "bySec": 2.08
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s00-card1",
+      "bySec": 3.74
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s01-card0",
+      "bySec": 6.96
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s02-card0",
+      "bySec": 11.16
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s02-card1",
+      "bySec": 14.18
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s03-card0",
+      "bySec": 16.12
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s04-card0",
+      "bySec": 19.38
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s05-card0",
+      "bySec": 28.72
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s06-card0",
+      "bySec": 32.88
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s07-card0",
+      "bySec": 36.7
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s08-card0",
+      "bySec": 37.74
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s09-card0",
+      "bySec": 42.12
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s10-card0",
+      "bySec": 45.44
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s10-card1",
+      "bySec": 48.18
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s11-card0",
+      "bySec": 51.74
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s11-card1",
+      "bySec": 52.32
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s12-card0",
+      "bySec": 56.58
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s13-card0",
+      "bySec": 60.4
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s14-card0",
+      "bySec": 64.42
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s14-card1",
+      "bySec": 66.12
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s15-card0",
+      "bySec": 67.5
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s15-card1",
+      "bySec": 68.74
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s16-card0",
+      "bySec": 69.4
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s16-card1",
+      "bySec": 70.34
+    }
+  ]
+}

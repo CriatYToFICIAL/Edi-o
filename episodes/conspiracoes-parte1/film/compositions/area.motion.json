@@ -1,0 +1,155 @@
+{
+  "duration": 97.84,
+  "assertions": [
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s00-card0",
+      "bySec": 1.67
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s01-card0",
+      "bySec": 6.97
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s02-card0",
+      "bySec": 8.01
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s02-card1",
+      "bySec": 8.61
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s03-card0",
+      "bySec": 10.13
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s03-card1",
+      "bySec": 11.53
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s04-card0",
+      "bySec": 14.85
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s05-card0",
+      "bySec": 18.79
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s06-card0",
+      "bySec": 22.53
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s07-card0",
+      "bySec": 27.33
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s08-card0",
+      "bySec": 32.47
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s08-card1",
+      "bySec": 34.05
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s09-card0",
+      "bySec": 35.81
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s10-card0",
+      "bySec": 39.31
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s11-card0",
+      "bySec": 41.41
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s12-card0",
+      "bySec": 45.27
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s13-card0",
+      "bySec": 46.69
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s14-card0",
+      "bySec": 50.69
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s14-card1",
+      "bySec": 52.17
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s15-card0",
+      "bySec": 55.07
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s16-card0",
+      "bySec": 59.65
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s17-card0",
+      "bySec": 68.03
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s18-card0",
+      "bySec": 71.45
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s18-card1",
+      "bySec": 74.49
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s19-card0",
+      "bySec": 76.93
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s19-card1",
+      "bySec": 79.07
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s20-card0",
+      "bySec": 82.69
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s21-card0",
+      "bySec": 87.11
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s22-card0",
+      "bySec": 92.19
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s22-card1",
+      "bySec": 94.65
+    }
+  ]
+}

@@ -1,0 +1,787 @@
+{
+  "passed": true,
+  "checks": 110,
+  "failures": [],
+  "details": [
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s00-card0",
+      "bySec": 1.65,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s01-card0",
+      "bySec": 6.95,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s02-card0",
+      "bySec": 7.73,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s02-card1",
+      "bySec": 8.59,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s03-card0",
+      "bySec": 10.11,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s04-card0",
+      "bySec": 14.83,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s05-card0",
+      "bySec": 18.77,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s06-card0",
+      "bySec": 22.89,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s07-card0",
+      "bySec": 27.31,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s07-card1",
+      "bySec": 31.35,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s08-card0",
+      "bySec": 32.97,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s09-card0",
+      "bySec": 36.25,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s10-card0",
+      "bySec": 41.55,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s11-card0",
+      "bySec": 45.95,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s12-card0",
+      "bySec": 50.35,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s13-card0",
+      "bySec": 55.05,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s14-card0",
+      "bySec": 59.63,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s14-card1",
+      "bySec": 59.63,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s15-card0",
+      "bySec": 65.07,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s15-card1",
+      "bySec": 65.07,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s16-card0",
+      "bySec": 66.47,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s17-card0",
+      "bySec": 71.25,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s18-card0",
+      "bySec": 75.87,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s18-card1",
+      "bySec": 75.87,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s19-card0",
+      "bySec": 79.05,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s19-card1",
+      "bySec": 79.05,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s20-card0",
+      "bySec": 83.55,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s20-card1",
+      "bySec": 83.55,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s21-card0",
+      "bySec": 87.09,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s22-card0",
+      "bySec": 92.17,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s00-card0",
+      "bySec": 99.65,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s01-card0",
+      "bySec": 105.71,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s02-card0",
+      "bySec": 110.95,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s02-card1",
+      "bySec": 113.75,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s03-card0",
+      "bySec": 116.61,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s04-card0",
+      "bySec": 122.45,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s05-card0",
+      "bySec": 128.27,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s06-card0",
+      "bySec": 130.61,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s07-card0",
+      "bySec": 133.17,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s08-card0",
+      "bySec": 135.09,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s09-card0",
+      "bySec": 140.27,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s09-card1",
+      "bySec": 141.51,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s10-card0",
+      "bySec": 149.87,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s11-card0",
+      "bySec": 153.39,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s11-card1",
+      "bySec": 153.39,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s12-card0",
+      "bySec": 158.21,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s13-card0",
+      "bySec": 162.41,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s14-card0",
+      "bySec": 167.25,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s15-card0",
+      "bySec": 172.05,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s16-card0",
+      "bySec": 177.03,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s00-card0",
+      "bySec": 181.35,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s01-card0",
+      "bySec": 184.67,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s02-card0",
+      "bySec": 189.37,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s03-card0",
+      "bySec": 192.79,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s04-card0",
+      "bySec": 197.37,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s05-card0",
+      "bySec": 203.11,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s06-card0",
+      "bySec": 207.75,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s07-card0",
+      "bySec": 212.73,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s07-card1",
+      "bySec": 212.73,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s08-card0",
+      "bySec": 216.87,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s09-card0",
+      "bySec": 221.43,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s10-card0",
+      "bySec": 226.67,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s10-card1",
+      "bySec": 226.67,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s11-card0",
+      "bySec": 233.45,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s12-card0",
+      "bySec": 237.79,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s12-card1",
+      "bySec": 237.79,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s13-card0",
+      "bySec": 241.97,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s14-card0",
+      "bySec": 244.41,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s14-card1",
+      "bySec": 244.41,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s15-card0",
+      "bySec": 249.55,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s16-card0",
+      "bySec": 251.61,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s16-card1",
+      "bySec": 251.61,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s17-card0",
+      "bySec": 256.51,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s00-card0",
+      "bySec": 262.41,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s00-card1",
+      "bySec": 262.41,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s01-card0",
+      "bySec": 267.29,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s02-card0",
+      "bySec": 272.75,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s02-card1",
+      "bySec": 274.45,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s03-card0",
+      "bySec": 278.39,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s04-card0",
+      "bySec": 281.25,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s04-card1",
+      "bySec": 281.25,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s05-card0",
+      "bySec": 286.05,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s06-card0",
+      "bySec": 289.55,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s07-card0",
+      "bySec": 293.21,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s08-card0",
+      "bySec": 297.03,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s09-card0",
+      "bySec": 298.07,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s09-card1",
+      "bySec": 298.07,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s10-card0",
+      "bySec": 303.65,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s11-card0",
+      "bySec": 308.51,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s11-card1",
+      "bySec": 308.51,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s12-card0",
+      "bySec": 312.65,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s12-card1",
+      "bySec": 312.65,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s13-card0",
+      "bySec": 316.91,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s14-card0",
+      "bySec": 321.83,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s14-card1",
+      "bySec": 321.83,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s15-card0",
+      "bySec": 326.45,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s16-card0",
+      "bySec": 329.07,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s16-card1",
+      "bySec": 329.07,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s17-card0",
+      "bySec": 330.67,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s17-card1",
+      "bySec": 330.67,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s17-card1",
+      "bySec": 330.67,
+      "reverseSeek": true,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s11-card1",
+      "bySec": 308.51,
+      "reverseSeek": true,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#finland-s04-card0",
+      "bySec": 281.25,
+      "reverseSeek": true,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s15-card0",
+      "bySec": 249.55,
+      "reverseSeek": true,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#eye-s08-card0",
+      "bySec": 216.87,
+      "reverseSeek": true,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s16-card0",
+      "bySec": 177.03,
+      "reverseSeek": true,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s08-card0",
+      "bySec": 135.09,
+      "reverseSeek": true,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s22-card0",
+      "bySec": 92.17,
+      "reverseSeek": true,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s15-card1",
+      "bySec": 65.07,
+      "reverseSeek": true,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#area-s07-card1",
+      "bySec": 31.35,
+      "reverseSeek": true,
+      "visible": true,
+      "opacity": 1
+    }
+  ]
+}

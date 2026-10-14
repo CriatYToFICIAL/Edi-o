@@ -1,0 +1,36 @@
+{
+  "duration": 333.4,
+  "size_bytes": 53552497,
+  "video": {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "30/1",
+    "nb_frames": "10002"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "audio_correlation": 0.9979812502861023,
+  "audio_offset_seconds": 0.0,
+  "decode_exit_code": 0,
+  "decode_errors": "",
+  "frame_times": [
+    0.1,
+    0.7,
+    10.5,
+    55,
+    98.6,
+    100,
+    128.5,
+    172.5,
+    181.8,
+    227,
+    264,
+    304,
+    332
+  ],
+  "passed": true
+}

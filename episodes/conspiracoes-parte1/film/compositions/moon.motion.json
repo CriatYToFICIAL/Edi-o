@@ -1,0 +1,135 @@
+{
+  "duration": 80.50999999999999,
+  "assertions": [
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s00-card0",
+      "bySec": 1.83
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s00-card1",
+      "bySec": 4.61
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s01-card0",
+      "bySec": 6.73
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s02-card0",
+      "bySec": 11.39
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s03-card0",
+      "bySec": 15.17
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s03-card1",
+      "bySec": 16.39
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s04-card0",
+      "bySec": 18.79
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s05-card0",
+      "bySec": 23.83
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s06-card0",
+      "bySec": 30.45
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s07-card0",
+      "bySec": 32.79
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s08-card0",
+      "bySec": 35.35
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s09-card0",
+      "bySec": 37.27
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s09-card1",
+      "bySec": 39.75
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s10-card0",
+      "bySec": 42.45
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s11-card0",
+      "bySec": 46.35
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s11-card1",
+      "bySec": 47.71
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s12-card0",
+      "bySec": 49.55
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s13-card0",
+      "bySec": 55.57
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s13-card1",
+      "bySec": 56.77
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s14-card0",
+      "bySec": 59.19
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s14-card1",
+      "bySec": 61.31
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s15-card0",
+      "bySec": 63.95
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s15-card1",
+      "bySec": 67.19
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s16-card0",
+      "bySec": 69.63
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s17-card0",
+      "bySec": 74.69
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#moon-s17-card1",
+      "bySec": 78.89
+    }
+  ]
+}

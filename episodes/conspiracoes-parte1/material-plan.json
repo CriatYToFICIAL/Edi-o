@@ -1,0 +1,1353 @@
+[
+  {
+    "start": 1.4,
+    "assets": [
+      "area51-aerial-extra.jpg"
+    ],
+    "captions": [
+      "No deserto de Nevada"
+    ],
+    "rationale": "Vista real de Groom Lake.",
+    "reveals": null,
+    "motion": "left",
+    "layout": "auto",
+    "end": 6.7,
+    "chapter": "ÁREA 51",
+    "voice_text": "escondida no meio do deserto de Nevada, a área 51 está ligada há décadas a rumores sobre"
+  },
+  {
+    "start": 6.7,
+    "assets": [
+      "alien.svg"
+    ],
+    "captions": [
+      "Alienígenas?"
+    ],
+    "rationale": "Ilustração do rumor.",
+    "reveals": null,
+    "motion": "pop",
+    "layout": "auto",
+    "end": 7.74,
+    "chapter": "ÁREA 51",
+    "voice_text": "alienígenas,"
+  },
+  {
+    "start": 7.74,
+    "assets": [
+      "ufo.svg",
+      "lab.svg"
+    ],
+    "captions": [
+      "OVNIs...",
+      "...experimentos secretos?"
+    ],
+    "rationale": "Rumores, não evidência.",
+    "reveals": [
+      7.74,
+      8.34
+    ],
+    "motion": "rise",
+    "layout": "auto",
+    "end": 9.86,
+    "chapter": "ÁREA 51",
+    "voice_text": "ovnis e experimentos secretos."
+  },
+  {
+    "start": 9.86,
+    "assets": [
+      "gate.jpg",
+      "@SEM RECONHECIMENTO / OFICIAL"
+    ],
+    "captions": [
+      "Uma base militar",
+      "Por muito tempo..."
+    ],
+    "rationale": "Entradas acompanham base e reconhecimento.",
+    "reveals": [
+      9.86,
+      11.26
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 14.58,
+    "chapter": "ÁREA 51",
+    "voice_text": "Como a base militar permaneceu sem reconhecimento oficial por muito tempo, muita gente passou"
+  },
+  {
+    "start": 14.58,
+    "assets": [
+      "#door"
+    ],
+    "captions": [
+      "O que havia atrás dessa porta?"
+    ],
+    "rationale": "Reação visual à hipótese de segredo.",
+    "reveals": null,
+    "motion": "pop",
+    "layout": "auto",
+    "end": 18.52,
+    "chapter": "ÁREA 51",
+    "voice_text": "a acreditar que o governo americano escondia algo extraordinário ali."
+  },
+  {
+    "start": 18.52,
+    "assets": [
+      "coldwar.svg"
+    ],
+    "captions": [
+      "Guerra Fria"
+    ],
+    "rationale": "Contexto histórico.",
+    "reveals": null,
+    "motion": "left",
+    "layout": "auto",
+    "end": 22.26,
+    "chapter": "ÁREA 51",
+    "voice_text": "A teoria ganhou força durante a Guerra Fria, depois que testemunhas relataram aeronaves"
+  },
+  {
+    "start": 22.26,
+    "assets": [
+      "#radar"
+    ],
+    "captions": [
+      "Objetos cruzando o céu"
+    ],
+    "rationale": "Trajetória ilustrativa dos relatos; não radar real.",
+    "reveals": null,
+    "motion": "right",
+    "layout": "auto",
+    "end": 27.06,
+    "chapter": "ÁREA 51",
+    "voice_text": "estranhas e objetos inexplicáveis cruzando o céu em velocidades fora do comum."
+  },
+  {
+    "start": 27.06,
+    "assets": [
+      "#technology"
+    ],
+    "captions": [
+      "Tecnologia extraterrestre?"
+    ],
+    "rationale": "Diagrama ilustrativo da crença narrada.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 32.2,
+    "chapter": "ÁREA 51",
+    "voice_text": "Com o tempo, surgiu a crença de que os militares estudavam tecnologia extraterrestre ou"
+  },
+  {
+    "start": 32.2,
+    "assets": [
+      "v2/hangar.svg",
+      "v2/wreck.svg"
+    ],
+    "captions": [
+      "Guardadas na base?",
+      "Naves acidentadas?"
+    ],
+    "rationale": "Ilustração da alegação.",
+    "reveals": [
+      32.2,
+      33.78
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 35.54,
+    "chapter": "ÁREA 51",
+    "voice_text": "guardavam naves alienígenas acidentadas dentro da base."
+  },
+  {
+    "start": 35.54,
+    "assets": [
+      "#decades"
+    ],
+    "captions": [
+      "O mistério ganhou a mídia"
+    ],
+    "rationale": "Datas entram em 1980 e 1990; jornal na palavra mídia.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 39.04,
+    "chapter": "ÁREA 51",
+    "voice_text": "Nas décadas de 1980 e 1990,"
+  },
+  {
+    "start": 39.04,
+    "assets": [
+      "v2/newspaper.svg"
+    ],
+    "captions": [
+      "O assunto chegou às manchetes"
+    ],
+    "rationale": "Ilustração editorial, sem inventar notícia real.",
+    "reveals": null,
+    "motion": "left",
+    "layout": "auto",
+    "end": 41.14,
+    "chapter": "ÁREA 51",
+    "voice_text": "a cobertura da mídia e a popularização da"
+  },
+  {
+    "start": 41.14,
+    "assets": [
+      "#web-area"
+    ],
+    "captions": [
+      "E a internet ampliou o alcance"
+    ],
+    "rationale": "Página ilustrativa de discussão, sem métricas inventadas.",
+    "reveals": null,
+    "motion": "right",
+    "layout": "auto",
+    "end": 45.0,
+    "chapter": "ÁREA 51",
+    "voice_text": "internet transformaram a Área 51 em um dos maiores símbolos de"
+  },
+  {
+    "start": 45.0,
+    "assets": [
+      "secret.svg"
+    ],
+    "captions": [
+      "Sigilo governamental"
+    ],
+    "rationale": "Pasta ilustrativa.",
+    "reveals": null,
+    "motion": "pop",
+    "layout": "auto",
+    "end": 46.42,
+    "chapter": "ÁREA 51",
+    "voice_text": "sigilo governamental."
+  },
+  {
+    "start": 46.42,
+    "assets": [
+      "v2/witness.svg"
+    ],
+    "captions": [
+      "Ex-funcionários e supostas testemunhas"
+    ],
+    "rationale": "Personagem anônimo; não depoimento documental.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 50.42,
+    "chapter": "ÁREA 51",
+    "voice_text": "Ex-funcionários e supostas testemunhas fizeram afirmações dramáticas sobre"
+  },
+  {
+    "start": 50.42,
+    "assets": [
+      "lab.svg",
+      "v2/underground.svg"
+    ],
+    "captions": [
+      "Autópsias?",
+      "Laboratórios subterrâneos?"
+    ],
+    "rationale": "Ilustração das alegações.",
+    "reveals": [
+      50.42,
+      51.9
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 54.8,
+    "chapter": "ÁREA 51",
+    "voice_text": "autópsias de alienígenas e laboratórios subterrâneos. O interesse voltou a crescer"
+  },
+  {
+    "start": 54.8,
+    "assets": [
+      "uap.mp4"
+    ],
+    "captions": [
+      "Arquivos sobre fenômenos não identificados"
+    ],
+    "rationale": "FLIR1 de 2004, identificado como arquivo histórico.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 59.38,
+    "chapter": "ÁREA 51",
+    "voice_text": "quando o Pentágono liberou novos arquivos sobre fenômenos aéreos não identificados."
+  },
+  {
+    "start": 59.38,
+    "assets": [
+      "#pursue"
+    ],
+    "captions": [
+      "Detalhes citados na narração"
+    ],
+    "rationale": "Resumo editorial; fonte específica de 2026 não confirmada.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 67.76,
+    "chapter": "ÁREA 51",
+    "voice_text": "Em maio de 2026, o governo lançou a iniciativa Pursue e tornou públicos mais de 160 arquivos antes confidenciais."
+  },
+  {
+    "start": 67.76,
+    "assets": [
+      "#trajectory"
+    ],
+    "captions": [
+      "Relatos de movimentos incomuns"
+    ],
+    "rationale": "Diagrama ilustrativo; não telemetria real.",
+    "reveals": null,
+    "motion": "right",
+    "layout": "auto",
+    "end": 71.18,
+    "chapter": "ÁREA 51",
+    "voice_text": "Alguns relatos descrevem objetos com movimentos incomuns,"
+  },
+  {
+    "start": 71.18,
+    "assets": [
+      "v2/apollo-crew.jpg",
+      "@OBJETOS / NÃO IDENTIFICADOS"
+    ],
+    "captions": [
+      "Programa Apollo",
+      "Relatos citados na narração"
+    ],
+    "rationale": "Foto contextual da equipe; não suposta prova de objeto lunar.",
+    "reveals": [
+      71.18,
+      74.22
+    ],
+    "motion": "rise",
+    "layout": "auto",
+    "end": 76.66,
+    "chapter": "ÁREA 51",
+    "voice_text": "e documentos das missões Apollo trouxeram imagens inéditas de objetos não identificados perto da lua."
+  },
+  {
+    "start": 76.66,
+    "assets": [
+      "alien.svg",
+      "@NENHUMA EVIDÊNCIA / CONFIRMADA"
+    ],
+    "captions": [
+      "Vida extraterrestre?",
+      "É o que afirmam as autoridades"
+    ],
+    "rationale": "Negação entra na palavra não.",
+    "reveals": [
+      76.66,
+      78.8
+    ],
+    "motion": "pop",
+    "layout": "auto",
+    "end": 82.42,
+    "chapter": "ÁREA 51",
+    "voice_text": "Ainda assim, as autoridades afirmam que não existe nenhuma evidência confirmada de vida extraterrestre. Boa"
+  },
+  {
+    "start": 82.42,
+    "assets": [
+      "area51-map.jpg"
+    ],
+    "captions": [
+      "A base e o sigilo militar"
+    ],
+    "rationale": "Mapa CIA realmente desclassificado.",
+    "reveals": null,
+    "motion": "left",
+    "layout": "auto",
+    "end": 86.84,
+    "chapter": "ÁREA 51",
+    "voice_text": "parte do mistério continua ligada ao sigilo militar, e não a alienígenas."
+  },
+  {
+    "start": 86.84,
+    "assets": [
+      "u2.jpg"
+    ],
+    "captions": [
+      "U-2 • aeronave de reconhecimento"
+    ],
+    "rationale": "Aeronave experimental usada em programas sigilosos.",
+    "reveals": null,
+    "motion": "right",
+    "layout": "auto",
+    "end": 91.92,
+    "chapter": "ÁREA 51",
+    "voice_text": "A base foi usada para testar aeronaves altamente secretas durante a Guerra Fria, o que significa"
+  },
+  {
+    "start": 91.92,
+    "assets": [
+      "sr71.jpg",
+      "@TECNOLOGIA / EXPERIMENTAL"
+    ],
+    "captions": [
+      "Reconhecimento e testes",
+      "O público ainda não conhecia"
+    ],
+    "rationale": "Foto SR-71 como contexto da família de reconhecimento.",
+    "reveals": [
+      91.92,
+      94.38
+    ],
+    "motion": "rise",
+    "layout": "auto",
+    "end": 97.84,
+    "chapter": "ÁREA 51",
+    "voice_text": "que muitos avistamentos provavelmente eram tecnologia experimental que o público simplesmente desconhecia."
+  },
+  {
+    "start": 99.4,
+    "assets": [
+      "moon-flag.jpg",
+      "@1969 / APOLLO 11"
+    ],
+    "captions": [
+      "A missão histórica",
+      "A teoria questiona o pouso"
+    ],
+    "rationale": "Data e missão na fala.",
+    "reveals": [
+      99.4,
+      102.18
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 104.3,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "Segundo essa teoria, a missão Apollo 11, em 1969, foi uma"
+  },
+  {
+    "start": 104.3,
+    "assets": [
+      "v2/film-set.svg"
+    ],
+    "captions": [
+      "Uma encenação? (segundo a teoria)"
+    ],
+    "rationale": "Set original representa a alegação, não gravação real.",
+    "reveals": null,
+    "motion": "right",
+    "layout": "auto",
+    "end": 108.96,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "encenação do Governo dos Estados Unidos. Os defensores dessa ideia afirmam que a NASA"
+  },
+  {
+    "start": 108.96,
+    "assets": [
+      "#film-window"
+    ],
+    "captions": [
+      "Filmado aqui na Terra?"
+    ],
+    "rationale": "Interface editorial de gravação fictícia; sem apresentar como prova.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 112.74,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "filmou o pouso aqui na Terra e o vencer a"
+  },
+  {
+    "start": 112.74,
+    "assets": [
+      "v2/apollo-launch.mp4",
+      "coldwar.svg"
+    ],
+    "captions": [
+      "A corrida espacial",
+      "Estados Unidos × União Soviética"
+    ],
+    "rationale": "Lançamento NASA real; Guerra Fria entra no nome União Soviética.",
+    "reveals": [
+      112.74,
+      113.96
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 116.36,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "corrida espacial contra a União Soviética em plena Guerra Fria."
+  },
+  {
+    "start": 116.36,
+    "assets": [
+      "#seventies"
+    ],
+    "captions": [
+      "A desconfiança ganhou atenção"
+    ],
+    "rationale": "Cronologia da alegação, não manchete real.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 121.4,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "A desconfiança começou a ganhar atenção na década de 1970, conforme as imagens da"
+  },
+  {
+    "start": 121.4,
+    "assets": [
+      "aldrin.jpg"
+    ],
+    "captions": [
+      "Detalhes passaram a ser questionados"
+    ],
+    "rationale": "Imagem real inspecionada; sem adulterar a fotografia.",
+    "reveals": null,
+    "motion": "pop",
+    "layout": "auto",
+    "end": 128.02,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "missão passaram a ser questionadas. Alguns detalhes viraram supostas provas de que tudo havia sido gravado em estúdio. A"
+  },
+  {
+    "start": 128.02,
+    "assets": [
+      "moonflag.mp4"
+    ],
+    "captions": [
+      "A bandeira parecia se mexer..."
+    ],
+    "rationale": "Montagem de fotografias; rótulo explícito.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 130.36,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "bandeira americana que parecia se mexer,"
+  },
+  {
+    "start": 130.36,
+    "assets": [
+      "#stars"
+    ],
+    "captions": [
+      "“Cadê as estrelas?”"
+    ],
+    "rationale": "Diagrama de exposição fotográfica; explicação visual.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 132.92,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "a ausência de estrelas nas fotos do espaço e as"
+  },
+  {
+    "start": 132.92,
+    "assets": [
+      "#shadows"
+    ],
+    "captions": [
+      "E essas sombras?"
+    ],
+    "rationale": "Diagrama de perspectiva; não fotografia adulterada.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 134.84,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "sombras estranhas na superfície lunar."
+  },
+  {
+    "start": 134.84,
+    "assets": [
+      "news.svg",
+      "#web-moon"
+    ],
+    "captions": [
+      "Mídia...",
+      "...e internet"
+    ],
+    "rationale": "Segunda camada só na palavra internet.",
+    "reveals": [
+      134.84,
+      137.32
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 140.02,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "Com a expansão da mídia e, mais tarde, da internet, novas alegações foram surgindo. Alguns"
+  },
+  {
+    "start": 140.02,
+    "assets": [
+      "#computer"
+    ],
+    "captions": [
+      "A tecnologia seria suficiente?"
+    ],
+    "rationale": "Painel ilustrativo de navegação dos anos 1960.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 143.92,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "acreditavam que a tecnologia da época não era avançado bastante para"
+  },
+  {
+    "start": 143.92,
+    "assets": [
+      "v2/lunar-module.jpg",
+      "v2/capsule.svg"
+    ],
+    "captions": [
+      "Levar pessoas à Lua...",
+      "...e trazê-las de volta"
+    ],
+    "rationale": "Imagem do módulo e desenho da cápsula correspondem aos dois verbos.",
+    "reveals": [
+      143.92,
+      145.28
+    ],
+    "motion": "right",
+    "layout": "auto",
+    "end": 147.12,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "levar humanos à Lua e trazê-los de volta com segurança."
+  },
+  {
+    "start": 147.12,
+    "assets": [
+      "#coverup"
+    ],
+    "captions": [
+      "Um acobertamento por décadas?"
+    ],
+    "rationale": "Rede ilustrativa da alegação, sem documento falso.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 153.14,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "Outros diziam que a NASA e diversas autoridades teriam participado de um acobertamento que durou décadas."
+  },
+  {
+    "start": 153.14,
+    "assets": [
+      "v2/aldrin-steps.mp4",
+      "@O POUSO / ACONTECEU"
+    ],
+    "captions": [
+      "Apollo 11 • filmagem NASA",
+      "As evidências são enormes"
+    ],
+    "rationale": "Filmagem real, contextualizada.",
+    "reveals": [
+      153.14,
+      154.34
+    ],
+    "motion": "rise",
+    "layout": "auto",
+    "end": 156.76,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "Só que as evidências de que o pouso aconteceu de verdade são enormes."
+  },
+  {
+    "start": 156.76,
+    "assets": [
+      "v2/mission-control.jpg",
+      "v2/astronaut-team.svg"
+    ],
+    "captions": [
+      "Engenheiros e cientistas",
+      "Astronautas"
+    ],
+    "rationale": "Entradas na enumeração da equipe.",
+    "reveals": [
+      156.76,
+      158.88
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 161.52,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "Milhares de engenheiros, cientistas e astronautas trabalharam no programa Apollo, enquanto"
+  },
+  {
+    "start": 161.52,
+    "assets": [
+      "telescope.jpg",
+      "#tracking"
+    ],
+    "captions": [
+      "Estações independentes",
+      "Acompanhamento em tempo real"
+    ],
+    "rationale": "Jodrell Bank e diagrama de rastreamento.",
+    "reveals": [
+      161.52,
+      164.76
+    ],
+    "motion": "rise",
+    "layout": "auto",
+    "end": 167.2,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "estações de rastreamento independentes espalhadas pelo mundo acompanharam as missões em tempo real. As"
+  },
+  {
+    "start": 167.2,
+    "assets": [
+      "rocks.jpg"
+    ],
+    "captions": [
+      "Rochas lunares estudadas em vários países"
+    ],
+    "rationale": "Amostras NASA autênticas.",
+    "reveals": null,
+    "motion": "pop",
+    "layout": "auto",
+    "end": 172.26,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "rochas lunares trazidas pelos astronautas foram estudadas por cientistas de vários países e"
+  },
+  {
+    "start": 172.26,
+    "assets": [
+      "lro.mp4",
+      "v2/bootprint.jpg"
+    ],
+    "captions": [
+      "Imagens orbitais posteriores",
+      "Locais de pouso confirmados"
+    ],
+    "rationale": "LRO como evidência orbital; pegada NASA identifica exploração.",
+    "reveals": [
+      172.26,
+      176.46
+    ],
+    "motion": "rise",
+    "layout": "auto",
+    "end": 178.35,
+    "chapter": "CHEGADA À LUA",
+    "voice_text": "missões posteriores, junto com imagens de satélite, continuaram confirmando os locais de pouso na superfície da Lua."
+  },
+  {
+    "start": 181.1,
+    "assets": [
+      "eye.jpg"
+    ],
+    "captions": [
+      "Uma das teorias mais famosas"
+    ],
+    "rationale": "Símbolo associado popularmente.",
+    "reveals": null,
+    "motion": "pop",
+    "layout": "auto",
+    "end": 184.42,
+    "chapter": "ILLUMINATI",
+    "voice_text": "são uma das teorias da conspiração mais famosas do mundo."
+  },
+  {
+    "start": 184.42,
+    "assets": [
+      "people.svg",
+      "v2/power-network.svg"
+    ],
+    "captions": [
+      "Uma organização secreta?",
+      "Influência nos bastidores?"
+    ],
+    "rationale": "Ilustração da teoria, sem acusar pessoas reais.",
+    "reveals": [
+      184.42,
+      188.08
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 192.54,
+    "chapter": "ILLUMINATI",
+    "voice_text": "De acordo com ela, uma organização secreta atua nos bastidores, influenciando os eventos mundiais e controlando a sociedade a partir das sombras. O"
+  },
+  {
+    "start": 192.54,
+    "assets": [
+      "eye.jpg"
+    ],
+    "captions": [
+      "O olho que tudo vê"
+    ],
+    "rationale": "Segunda e última exposição editorial deste recorte.",
+    "reveals": null,
+    "motion": "pop",
+    "layout": "auto",
+    "end": 196.18,
+    "chapter": "ILLUMINATI",
+    "voice_text": "grupo costuma ser associado a símbolos como o olho que tudo vê e as"
+  },
+  {
+    "start": 196.18,
+    "assets": [
+      "v2/pop-culture.svg"
+    ],
+    "captions": [
+      "Mensagens ocultas na cultura pop?"
+    ],
+    "rationale": "Elementos genéricos explicam a associação, sem acusação nominal.",
+    "reveals": null,
+    "motion": "right",
+    "layout": "auto",
+    "end": 201.72,
+    "chapter": "ILLUMINATI",
+    "voice_text": "supostas mensagens ocultas na cultura pop. Com o tempo, a teoria foi muito além da política."
+  },
+  {
+    "start": 201.72,
+    "assets": [
+      "#institutions"
+    ],
+    "captions": [
+      "Pessoas famosas e instituições viraram alvo"
+    ],
+    "rationale": "Categorias entram na enumeração; sem atribuir conspiração real.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 207.5,
+    "chapter": "ILLUMINATI",
+    "voice_text": "Figuras poderosas, celebridades e grandes instituições passaram a ser acusadas de ligação com o grupo."
+  },
+  {
+    "start": 207.5,
+    "assets": [
+      "v2/crisis.svg"
+    ],
+    "captions": [
+      "Crises orquestradas? (alegação)"
+    ],
+    "rationale": "Ilustração explícita da hipótese.",
+    "reveals": null,
+    "motion": "left",
+    "layout": "auto",
+    "end": 212.48,
+    "chapter": "ILLUMINATI",
+    "voice_text": "Alguns acreditavam que eventos importantes e crises globais eram orquestrados em segredo"
+  },
+  {
+    "start": 212.48,
+    "assets": [
+      "globe.svg",
+      "@DOMINAÇÃO / MUNDIAL?"
+    ],
+    "captions": [
+      "O mundo inteiro?",
+      "Era a hipótese"
+    ],
+    "rationale": "Ênfase na expressão dominação.",
+    "reveals": [
+      212.48,
+      213.64
+    ],
+    "motion": "pop",
+    "layout": "auto",
+    "end": 214.88,
+    "chapter": "ILLUMINATI",
+    "voice_text": "como parte de um plano de dominação mundial."
+  },
+  {
+    "start": 214.88,
+    "assets": [
+      "#connections"
+    ],
+    "captions": [
+      "Quando tudo parece conectado..."
+    ],
+    "rationale": "Nós e conexões aparecem por etapas.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 218.86,
+    "chapter": "ILLUMINATI",
+    "voice_text": "Como quase tudo podia ser conectado à teoria, ela se espalhou rapidamente pela"
+  },
+  {
+    "start": 218.86,
+    "assets": [
+      "#web-eye"
+    ],
+    "captions": [
+      "A teoria se espalhou"
+    ],
+    "rationale": "Página ilustrativa; não print real.",
+    "reveals": null,
+    "motion": "right",
+    "layout": "auto",
+    "end": 221.18,
+    "chapter": "ILLUMINATI",
+    "voice_text": "internet e pela mídia ao longo dos anos. No"
+  },
+  {
+    "start": 221.18,
+    "assets": [
+      "v2/illuminati-history.jpg"
+    ],
+    "captions": [
+      "Mas existiu um grupo histórico"
+    ],
+    "rationale": "Livro histórico; distinção entre grupo real e teoria.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 226.42,
+    "chapter": "ILLUMINATI",
+    "voice_text": "entanto, a conspiração se baseia, de forma bem vaga, em um grupo que realmente existiu."
+  },
+  {
+    "start": 226.42,
+    "assets": [
+      "#year1776"
+    ],
+    "captions": [
+      "Baviera • 1776"
+    ],
+    "rationale": "Data de fundação; mapa/país atual não substitui contexto histórico.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 229.6,
+    "chapter": "ILLUMINATI",
+    "voice_text": "Em 1776, na Alemanha, o professor"
+  },
+  {
+    "start": 229.6,
+    "assets": [
+      "weishaupt.jpg",
+      "v2/minerval.png"
+    ],
+    "captions": [
+      "Adam Weishaupt",
+      "Ordem dos Illuminati da Baviera"
+    ],
+    "rationale": "Retrato e símbolo histórico.",
+    "reveals": [
+      229.6,
+      231.3
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 233.2,
+    "chapter": "ILLUMINATI",
+    "voice_text": "Adam Weishaupt fundou a Ordem dos Illuminati da Baviera."
+  },
+  {
+    "start": 233.2,
+    "assets": [
+      "@NÃO CONTROLAVA / O MUNDO",
+      "v2/thinkers.svg"
+    ],
+    "captions": [
+      "O grupo original",
+      "Uma sociedade intelectual"
+    ],
+    "rationale": "Negação e membros reunidos, sem repetir globo.",
+    "reveals": [
+      233.2,
+      236.86
+    ],
+    "motion": "rise",
+    "layout": "auto",
+    "end": 239.46,
+    "chapter": "ILLUMINATI",
+    "voice_text": "Diferente da teoria moderna, o grupo original não controlava o mundo. Era uma pequena sociedade intelectual que defendia"
+  },
+  {
+    "start": 239.46,
+    "assets": [
+      "#reason"
+    ],
+    "captions": [
+      "Razão e pensamento crítico"
+    ],
+    "rationale": "Diagrama original de ideias; oposição à influência excessiva.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 243.2,
+    "chapter": "ILLUMINATI",
+    "voice_text": "a razão e se opunha à influência excessiva da política e da religião."
+  },
+  {
+    "start": 243.2,
+    "assets": [
+      "v2/ban.svg"
+    ],
+    "captions": [
+      "Proibida pelo governo da Baviera"
+    ],
+    "rationale": "Proibição histórica, sem falso edital.",
+    "reveals": null,
+    "motion": "pop",
+    "layout": "auto",
+    "end": 245.96,
+    "chapter": "ILLUMINATI",
+    "voice_text": "A organização acabou proibida pelo governo da Baviera"
+  },
+  {
+    "start": 245.96,
+    "assets": [
+      "#dissolve"
+    ],
+    "captions": [
+      "E desapareceu em poucos anos"
+    ],
+    "rationale": "Cronologia visual com encerramento.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 248.74,
+    "chapter": "ILLUMINATI",
+    "voice_text": "e praticamente desapareceu em poucos anos. Hoje,"
+  },
+  {
+    "start": 248.74,
+    "assets": [
+      "#evidence"
+    ],
+    "captions": [
+      "Sem evidência confiável de controle mundial"
+    ],
+    "rationale": "Lupa e checklist distinguem alegação de comprovação.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 255.94,
+    "chapter": "ILLUMINATI",
+    "voice_text": "não existe nenhuma evidência confiável de que uma organização secreta chamada Illuminati controle os acontecimentos do mundo."
+  },
+  {
+    "start": 255.94,
+    "assets": [
+      "@ESPECULAÇÃO",
+      "@PROVAS VERIFICÁVEIS"
+    ],
+    "captions": [
+      "Alegações...",
+      "...precisam de comprovação"
+    ],
+    "rationale": "Contraste final sem repetir o mural.",
+    "reveals": [
+      255.94,
+      259.14
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 260.35,
+    "chapter": "ILLUMINATI",
+    "voice_text": "A maior parte das alegações depende de especulação e não de provas verificáveis."
+  },
+  {
+    "start": 262.16,
+    "assets": [
+      "finland.svg",
+      "@NÃO EXISTE?"
+    ],
+    "captions": [
+      "A Finlândia...",
+      "É a teoria deste caso"
+    ],
+    "rationale": "Bandeira e dúvida.",
+    "reveals": [
+      262.16,
+      263.82
+    ],
+    "motion": "pop",
+    "layout": "auto",
+    "end": 267.04,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "A teoria de que a Finlândia não existe afirma que o país não é real, e sim uma"
+  },
+  {
+    "start": 267.04,
+    "assets": [
+      "finland-map.png"
+    ],
+    "captions": [
+      "Um país inventado? (segundo a teoria)"
+    ],
+    "rationale": "Mapa real localiza o país.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 271.24,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "região inventada por motivos políticos e econômicos. Segundo ela,"
+  },
+  {
+    "start": 271.24,
+    "assets": [
+      "v2/baltic-map.png",
+      "sea.svg"
+    ],
+    "captions": [
+      "A região no mapa...",
+      "...seria mar?"
+    ],
+    "rationale": "Mapa geográfico real versus ilustração da alegação.",
+    "reveals": [
+      271.24,
+      274.26
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 276.2,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "a área que aparece nos mapas como Finlândia seria na verdade parte do Mar Báltico, e a"
+  },
+  {
+    "start": 276.2,
+    "assets": [
+      "v2/historical-scandinavia.jpg"
+    ],
+    "captions": [
+      "A terra seria dos vizinhos?"
+    ],
+    "rationale": "Mapa histórico contextual; nenhuma fronteira falsa.",
+    "reveals": null,
+    "motion": "right",
+    "layout": "auto",
+    "end": 279.46,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "terra supostamente seria dividida entre os países vizinhos."
+  },
+  {
+    "start": 279.46,
+    "assets": [
+      "#reddit"
+    ],
+    "captions": [
+      "Uma história que nasceu na internet"
+    ],
+    "rationale": "Reconstituição editorial; usuário/texto verificados ou explicitamente atribuídos à narração.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 288.8,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "A ideia surgiu na internet em 2015, quando um usuário do Reddit chamado rarigans contou em tom de brincadeira que sua família lhe ensinou que a Finlândia era falsa."
+  },
+  {
+    "start": 288.8,
+    "assets": [
+      "#share"
+    ],
+    "captions": [
+      "A piada se espalhou"
+    ],
+    "rationale": "Comentários e compartilhamento ilustrativos; sem métricas inventadas.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 292.96,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "O que começou como piada se espalhou rapidamente por fóruns e redes sociais."
+  },
+  {
+    "start": 292.96,
+    "assets": [
+      "#agreement"
+    ],
+    "captions": [
+      "Um suposto acordo secreto"
+    ],
+    "rationale": "Diagrama da alegação.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 296.78,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "Uma das partes mais estranhas envolve um suposto acordo secreto entre o"
+  },
+  {
+    "start": 296.78,
+    "assets": [
+      "japan-russia.svg"
+    ],
+    "captions": [
+      "Japão + Rússia"
+    ],
+    "rationale": "Países no instante em que são nomeados.",
+    "reveals": null,
+    "motion": "left",
+    "layout": "auto",
+    "end": 297.82,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "Japão e a Rússia."
+  },
+  {
+    "start": 297.82,
+    "assets": [
+      "sea.svg"
+    ],
+    "captions": [
+      "No lugar do país... mar aberto?"
+    ],
+    "rationale": "Segunda e última exposição do desenho de mar.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 302.2,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "Os adeptos afirmavam que o local da Finlândia era na verdade mar aberto,"
+  },
+  {
+    "start": 302.2,
+    "assets": [
+      "v2/fishing-boat.svg"
+    ],
+    "captions": [
+      "Operações de pesca escondidas?"
+    ],
+    "rationale": "Ilustração da teoria.",
+    "reveals": null,
+    "motion": "right",
+    "layout": "auto",
+    "end": 305.52,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "usado para operações de pesca escondidas, com os peixes sendo"
+  },
+  {
+    "start": 305.52,
+    "assets": [
+      "v2/train-cargo.svg",
+      "train.jpg"
+    ],
+    "captions": [
+      "Peixes transportados em segredo?",
+      "Ferrovia Transiberiana"
+    ],
+    "rationale": "Carga ilustrativa e ferrovia real.",
+    "reveals": [
+      305.52,
+      308.26
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 311.82,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "transportados em segredo pela Rússia através da ferrovia transsiberiana. Algumas versões chegaram a sugerir que o"
+  },
+  {
+    "start": 311.82,
+    "assets": [
+      "v2/fish-fin.svg",
+      "@FIN = BARBATANA"
+    ],
+    "captions": [
+      "Até o nome entrou na história",
+      "Um trocadilho em inglês"
+    ],
+    "rationale": "Barbatana destacada exatamente ao ser dita.",
+    "reveals": [
+      311.82,
+      312.4
+    ],
+    "motion": "pop",
+    "layout": "auto",
+    "end": 316.66,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "nome vinha de fin, em referência à barbatana de um peixe, como reforço da ideia de que"
+  },
+  {
+    "start": 316.66,
+    "assets": [
+      "#sea-land"
+    ],
+    "captions": [
+      "Mar em vez de terra?"
+    ],
+    "rationale": "Comparação ilustrativa da história.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 320.48,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "a região era mar e não terra. Conforme a história evoluía, a linha entre"
+  },
+  {
+    "start": 320.48,
+    "assets": [
+      "#satire"
+    ],
+    "captions": [
+      "Sátira ou crença?"
+    ],
+    "rationale": "Balança e pergunta, sem personagem repetido.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 324.5,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "sátira e crença genuína ficava cada vez mais difícil de enxergar."
+  },
+  {
+    "start": 324.5,
+    "assets": [
+      "helsinki.jpg",
+      "@A FINLÂNDIA / EXISTE"
+    ],
+    "captions": [
+      "Helsinki • Finlândia",
+      "Sim, um país real"
+    ],
+    "rationale": "Virada factual entra em Na realidade.",
+    "reveals": [
+      324.5,
+      326.2
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 327.58,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "Na realidade, a Finlândia é sim um país real, com"
+  },
+  {
+    "start": 327.58,
+    "assets": [
+      "v2/finland-declaration.jpg",
+      "v2/parliament.jpg"
+    ],
+    "captions": [
+      "História documentada",
+      "Governo"
+    ],
+    "rationale": "Documento histórico e parlamento reais.",
+    "reveals": [
+      327.58,
+      328.82
+    ],
+    "motion": "rise",
+    "layout": "auto",
+    "end": 329.48,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "história documentada, governo, população"
+  },
+  {
+    "start": 329.48,
+    "assets": [
+      "v2/helsinki-fishing-market.png",
+      "finland-map.png"
+    ],
+    "captions": [
+      "População",
+      "Fronteiras reconhecidas"
+    ],
+    "rationale": "Vida pública e localização; segunda exposição do mapa.",
+    "reveals": [
+      329.48,
+      330.42
+    ],
+    "motion": "right",
+    "layout": "auto",
+    "end": 333.37,
+    "chapter": "FINLÂNDIA",
+    "voice_text": "e fronteiras reconhecidas internacionalmente."
+  }
+]

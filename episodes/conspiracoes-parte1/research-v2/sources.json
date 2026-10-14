@@ -1,0 +1,63 @@
+[
+  {
+    "key": "cia-area51",
+    "url": "https://www.cia.gov/stories/story/area-51-and-the-accidental-test-flight/",
+    "final": "https://www.cia.gov/stories/story/area-51-and-the-accidental-test-flight/",
+    "status": 200
+  },
+  {
+    "key": "nasa-apollo",
+    "url": "https://www.nasa.gov/the-apollo-program/",
+    "final": "https://www.nasa.gov/the-apollo-program/",
+    "status": 200
+  },
+  {
+    "key": "nasa-apollo11",
+    "url": "https://www.nasa.gov/mission/apollo-11/",
+    "final": "https://www.nasa.gov/mission/apollo-11/",
+    "status": 200
+  },
+  {
+    "key": "nasa-uap",
+    "url": "https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/",
+    "final": "https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/",
+    "status": 200
+  },
+  {
+    "key": "archives-uap",
+    "url": "https://www.archives.gov/research/topics/uaps",
+    "final": "https://www.archives.gov/research/topics/uaps",
+    "status": 200
+  },
+  {
+    "key": "pursue",
+    "url": "https://www.war.gov/Pursue/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "reddit",
+    "url": "https://www.reddit.com/r/finlandConspiracy/",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "key": "finland-facts",
+    "url": "https://finland.fi/facts-stats-and-info/finland-in-facts/",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "key": "illuminati-britannica",
+    "url": "https://www.britannica.com/topic/illuminati-group-designation",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "key": "finland-wiki",
+    "url": "https://en.wikipedia.org/wiki/Finland_does_not_exist",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "key": "moon-hoax-nasa",
+    "url": "https://www.nasa.gov/history/afj/ap11fj/index.html",
+    "final": "https://www.nasa.gov/history/alsj-and-afj/",
+    "status": 200
+  }
+]
