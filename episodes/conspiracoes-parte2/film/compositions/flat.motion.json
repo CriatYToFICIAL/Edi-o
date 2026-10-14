@@ -1,0 +1,115 @@
+{
+  "duration": 83.81464500000001,
+  "assertions": [
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s00-card0",
+      "bySec": 1.4
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s01-card0",
+      "bySec": 5.58
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s02-card0",
+      "bySec": 8.64
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s03-card0",
+      "bySec": 15.66
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s03-card1",
+      "bySec": 17.76
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s04-card0",
+      "bySec": 21.36
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s05-card0",
+      "bySec": 25.32
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s06-card0",
+      "bySec": 31.32
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s06-card1",
+      "bySec": 33.36
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s07-card0",
+      "bySec": 35.64
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s08-card0",
+      "bySec": 39.1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s09-card0",
+      "bySec": 42.1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s10-card0",
+      "bySec": 46.62
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s11-card0",
+      "bySec": 50.58
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s12-card0",
+      "bySec": 51.28
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s13-card0",
+      "bySec": 54.42
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s14-card0",
+      "bySec": 62.86
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s14-card1",
+      "bySec": 64.64
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s15-card0",
+      "bySec": 67.62
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s16-card0",
+      "bySec": 71.18
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s17-card0",
+      "bySec": 73.24
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s18-card0",
+      "bySec": 75.19
+    }
+  ]
+}

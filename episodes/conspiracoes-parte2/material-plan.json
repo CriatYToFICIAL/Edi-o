@@ -1,0 +1,935 @@
+[
+  {
+    "start": 1.54,
+    "assets": [
+      "raven.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Ave real estabelece o contraste.",
+    "reveals": null,
+    "motion": "left",
+    "layout": "auto",
+    "end": 5.38,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "Uma das teorias mais estranhas da internet moderna diz que os pássaros"
+  },
+  {
+    "start": 5.38,
+    "assets": [
+      "#bird-drone"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "O pássaro ganha câmera apenas quando drones é introduzido.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 9.5,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "são, na verdade, drones de vigilância do governo, criados para monitorar"
+  },
+  {
+    "start": 9.5,
+    "assets": [
+      "#monitor"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Vigilância explicada por linhas de visão, não por fotografia falsa.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 12.3,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "a população. Nessa narrativa, as aves"
+  },
+  {
+    "start": 12.3,
+    "assets": [
+      "bird.jpg",
+      "#robot"
+    ],
+    "captions": [
+      "",
+      ""
+    ],
+    "rationale": "Ave real e réplica ilustrada entram em sequência.",
+    "reveals": [
+      12.3,
+      15.52
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 17.44,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "de verdade teriam sido substituídas décadas atrás por réplicas robóticas capazes de gravar"
+  },
+  {
+    "start": 17.44,
+    "assets": [
+      "camera.svg",
+      "microphone.svg"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Movimentos e conversas: ícones flat específicos.",
+    "reveals": [
+      17.44,
+      18.9
+    ],
+    "motion": "pop",
+    "layout": "auto",
+    "end": 20.6,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "os movimentos e as conversas das pessoas. O movimento"
+  },
+  {
+    "start": 20.6,
+    "assets": [
+      "movement-sign.jpg",
+      "movement-logo.png"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Fotografia real e identidade do movimento.",
+    "reveals": [
+      20.6,
+      21.96
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 23.76,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "ganhou atenção no fim da década de 2010, quando Peter"
+  },
+  {
+    "start": 23.76,
+    "assets": [
+      "peter.png"
+    ],
+    "captions": [
+      "Peter McIndoe"
+    ],
+    "rationale": "Identificação do fundador, grafia revisada.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 26.46,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "McIndoe começou a divulgá-lo online. Ele falava"
+  },
+  {
+    "start": 26.46,
+    "assets": [
+      "#serious"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Expressão original séria muda para dúvida, sem meme aleatório.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 32.66,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "sobre a conspiração com total seriedade, o que dificultava saber se ele realmente acreditava naquilo. Algumas"
+  },
+  {
+    "start": 32.66,
+    "assets": [
+      "#curious"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Cartão de preparação para os exemplos, sem legenda menor.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 35.2,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "das alegações mais curiosas diziam que os pássaros"
+  },
+  {
+    "start": 35.2,
+    "assets": [
+      "wire-birds.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Fios de energia são introduzidos antes da piada da recarga.",
+    "reveals": null,
+    "motion": "right",
+    "layout": "auto",
+    "end": 38.44,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "pousados em fios de energia estavam, na verdade, se recarregando"
+  },
+  {
+    "start": 38.44,
+    "assets": [
+      "#charge"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Bateria enche em etapas; a explicação é claramente uma hipótese satírica.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 39.58,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "e que a migração"
+  },
+  {
+    "start": 39.58,
+    "assets": [
+      "#migration"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Rota sazonal ilustrada, não itinerário documentado.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 42.08,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "sazonal fazia parte de uma rotina de manutenção"
+  },
+  {
+    "start": 42.08,
+    "assets": [
+      "tools.svg",
+      "@MANUTENÇÃO?"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Ferramentas e pergunta acompanham a alegação.",
+    "reveals": [
+      42.08,
+      43.02
+    ],
+    "motion": "rise",
+    "layout": "auto",
+    "end": 44.38,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "e troca de equipamentos. Essas"
+  },
+  {
+    "start": 44.38,
+    "assets": [
+      "#web-birds"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Interface de discussão editorial, sem métricas ou usuários inventados.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 47.8,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "ideias ajudaram o movimento a se espalhar pela internet, sempre"
+  },
+  {
+    "start": 47.8,
+    "assets": [
+      "birds-cartoon.mp4"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Breve animação de aves como respiro bem-humorado; domínio público.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 49.42,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "como uma brincadeira. Em uma entrevista"
+  },
+  {
+    "start": 49.42,
+    "assets": [
+      "#interview"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Entrevista e data resumidas, sem fabricar captura do jornal.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 55.16,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "ao New York Times em 2021, McIndoe finalmente admitiu que o movimento inteiro era uma sátira,"
+  },
+  {
+    "start": 55.16,
+    "assets": [
+      "@ERA UMA SÁTIRA"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Uma única afirmação grande, sem legenda extra.",
+    "reveals": null,
+    "motion": "pop",
+    "layout": "auto",
+    "end": 56.94,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "criada para parodiar a"
+  },
+  {
+    "start": 56.94,
+    "assets": [
+      "#rumor"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Propagação de desinformação sintetizada num diagrama.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 58.65,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "desinformação na internet."
+  },
+  {
+    "start": 60.71,
+    "assets": [
+      "reptile.svg"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Ícone do caso mantém identidade com a Parte 1.",
+    "reveals": null,
+    "motion": "pop",
+    "layout": "auto",
+    "end": 63.69,
+    "chapter": "REPTILIANOS",
+    "voice_text": "reptilianos sugere que seres poderosos, parecidos com"
+  },
+  {
+    "start": 63.69,
+    "assets": [
+      "lizard.jpg",
+      "#disguise"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Réptil real e personagem fictício; disfarce apenas na segunda entrada.",
+    "reveals": [
+      63.69,
+      64.59
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 67.15,
+    "chapter": "REPTILIANOS",
+    "voice_text": "répteis, se disfarçam de humanos e controlam as principais"
+  },
+  {
+    "start": 67.15,
+    "assets": [
+      "#institutions"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Instituições anônimas, sem acusar pessoas reais.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 70.83,
+    "chapter": "REPTILIANOS",
+    "voice_text": "instituições do mundo nos bastidores. Alguns acreditam que certos"
+  },
+  {
+    "start": 70.83,
+    "assets": [
+      "#podium"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Políticos e figuras influentes como personagens genéricos.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 74.79,
+    "chapter": "REPTILIANOS",
+    "voice_text": "políticos e figuras influentes são, na verdade, criaturas reptilianas"
+  },
+  {
+    "start": 74.79,
+    "assets": [
+      "chameleon.mp4"
+    ],
+    "captions": [
+      "(camuflagem é outra história)"
+    ],
+    "rationale": "GIF real de camaleão como aparte visual, não prova de humano reptiliano.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 78.65,
+    "chapter": "REPTILIANOS",
+    "voice_text": "vivendo entre as pessoas comuns. A ideia ficou conhecida na década de"
+  },
+  {
+    "start": 78.65,
+    "assets": [
+      "@DÉCADA DE 1990"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Marco temporal isolado.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 81.81,
+    "chapter": "REPTILIANOS",
+    "voice_text": "1990, impulsionada por um escritor chamado"
+  },
+  {
+    "start": 81.81,
+    "assets": [
+      "icke.jpg"
+    ],
+    "captions": [
+      "David Icke"
+    ],
+    "rationale": "Retrato real da pessoa citada.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 85.07,
+    "chapter": "REPTILIANOS",
+    "voice_text": "David Icke. Ele afirmava que esses seres vinham de outra"
+  },
+  {
+    "start": 85.07,
+    "assets": [
+      "#portal"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Outra dimensão e sistema estelar explicados em duas etapas.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 90.21,
+    "chapter": "REPTILIANOS",
+    "voice_text": "dimensão ou de um sistema estelar distante e mantinham o controle sobre a humanidade por meio do"
+  },
+  {
+    "start": 90.21,
+    "assets": [
+      "#fear"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Medo e influência: dois caminhos de uma alegação.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 91.99,
+    "chapter": "REPTILIANOS",
+    "voice_text": "medo e da influência. Nos anos"
+  },
+  {
+    "start": 91.99,
+    "assets": [
+      "#web-reptiles"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Discussão online e vídeos editados em uma interface neutra.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 97.87,
+    "chapter": "REPTILIANOS",
+    "voice_text": "2000, a teoria se espalhou rapidamente pela internet, por meio de vídeos editados e boatos online."
+  },
+  {
+    "start": 97.87,
+    "assets": [
+      "#video-face"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Rosto vetorial original em um player, sem fabricar acusações.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 101.81,
+    "chapter": "REPTILIANOS",
+    "voice_text": "Imagens de figuras públicas agindo de forma estranha ou aparecendo distorcidas"
+  },
+  {
+    "start": 101.81,
+    "assets": [
+      "#distortion"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Comparação entre quadro limpo e distorcido. Ilustração de falha visual.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 105.11,
+    "chapter": "REPTILIANOS",
+    "voice_text": "na câmera passaram a ser tratadas como suposta prova."
+  },
+  {
+    "start": 105.11,
+    "assets": [
+      "#compression"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Diagrama de compressão revela artefatos em etapas.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 109.65,
+    "chapter": "REPTILIANOS",
+    "voice_text": "Falhas visuais comuns e movimentos faciais incomuns eram interpretados como sinais"
+  },
+  {
+    "start": 109.65,
+    "assets": [
+      "#suspicion"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Uma interpretação não transforma um defeito visual em evidência.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 111.77,
+    "chapter": "REPTILIANOS",
+    "voice_text": "de que alguém era reptiliano em segredo."
+  },
+  {
+    "start": 111.77,
+    "assets": [
+      "#connections"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Eventos distintos são conectados progressivamente.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 118.27,
+    "chapter": "REPTILIANOS",
+    "voice_text": "Aos poucos, eventos sem relação e meras coincidências foram sendo costurados em uma narrativa muito maior."
+  },
+  {
+    "start": 118.27,
+    "assets": [
+      "@SEM EVIDÊNCIA / CONFIÁVEL"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Síntese clara sem texto menor embaixo.",
+    "reveals": null,
+    "motion": "pop",
+    "layout": "auto",
+    "end": 122.89000000000001,
+    "chapter": "REPTILIANOS",
+    "voice_text": "Mesmo assim, não há nenhuma evidência confiável de que reptilianos controlem o mundo."
+  },
+  {
+    "start": 122.89,
+    "assets": [
+      "#fiction"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Livro e ficção científica, com personagem original.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 127.27000000000001,
+    "chapter": "REPTILIANOS",
+    "voice_text": "A conspiração é vista como um mito moderno, moldado pela ficção científica e pela"
+  },
+  {
+    "start": 127.27,
+    "assets": [
+      "#misinformation"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Desinformação representada por manchetes genéricas.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 132.31,
+    "chapter": "REPTILIANOS",
+    "voice_text": "desinformação. Algumas partes da teoria também foram influenciadas por antigas histórias de"
+  },
+  {
+    "start": 132.31,
+    "assets": [
+      "snake.svg",
+      "#myth"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Serpente e símbolo mitológico desenhado, sem extrapolar fonte.",
+    "reveals": [
+      132.31,
+      133.35
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 135.65,
+    "chapter": "REPTILIANOS",
+    "voice_text": "criaturas serpentinas presentes na mitologia e na religião."
+  },
+  {
+    "start": 136.78,
+    "assets": [
+      "flat-theory.png"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Diagrama da hipótese, não mapa científico.",
+    "reveals": null,
+    "motion": "left",
+    "layout": "auto",
+    "end": 140.96,
+    "chapter": "TERRA PLANA",
+    "voice_text": "teoria da Terra plana afirma que o planeta não é uma esfera, e sim um"
+  },
+  {
+    "start": 140.96,
+    "assets": [
+      "#disk"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Disco e limite de gelo aparecem quando nomeados.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 144.02,
+    "chapter": "TERRA PLANA",
+    "voice_text": "plano cercado por muros de gelo. Segundo ela,"
+  },
+  {
+    "start": 144.02,
+    "assets": [
+      "#secrecy"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Instituições e informação ocultada como alegação.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 151.04,
+    "chapter": "TERRA PLANA",
+    "voice_text": "governos e agências espaciais esconderiam a verdade sobre o formato da Terra há gerações. Alguns defensores também alegam que as"
+  },
+  {
+    "start": 151.04,
+    "assets": [
+      "blue-marble.jpg",
+      "#photo-claim"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Fotografia NASA e argumento de fabricação separados.",
+    "reveals": [
+      151.04,
+      153.14
+    ],
+    "motion": "rise",
+    "layout": "auto",
+    "end": 156.74,
+    "chapter": "TERRA PLANA",
+    "voice_text": "imagens do planeta tiradas do espaço foram fabricadas como parte de um enorme engano global. Embora a ideia"
+  },
+  {
+    "start": 156.74,
+    "assets": [
+      "ferguson.jpg"
+    ],
+    "captions": [
+      "Orlando Ferguson • 1893"
+    ],
+    "rationale": "Documento histórico específico.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 160.7,
+    "chapter": "TERRA PLANA",
+    "voice_text": "exista há séculos, o movimento moderno voltou a ganhar atenção na década de"
+  },
+  {
+    "start": 160.7,
+    "assets": [
+      "#web-flat"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Retorno moderno: ano, vídeos e fóruns em sequência.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 166.7,
+    "chapter": "TERRA PLANA",
+    "voice_text": "2010 por meio de vídeos e fóruns na internet. Conforme se espalhava, mais pessoas passaram a questionar"
+  },
+  {
+    "start": 166.7,
+    "assets": [
+      "orbit.jpg",
+      "satellite.svg"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Imagem orbital real e ícone de satélite.",
+    "reveals": [
+      166.7,
+      168.74
+    ],
+    "motion": "right",
+    "layout": "auto",
+    "end": 171.02,
+    "chapter": "TERRA PLANA",
+    "voice_text": "fotografias do espaço e imagens de satélite. Alguns defensores diziam que o"
+  },
+  {
+    "start": 171.02,
+    "assets": [
+      "#horizon"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Diagrama de escala mostra aparência local de horizonte.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 174.48,
+    "chapter": "TERRA PLANA",
+    "voice_text": "horizonte sempre parece plano, enquanto outros acreditavam que a"
+  },
+  {
+    "start": 174.48,
+    "assets": [
+      "#gravity"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Gravidade aparece como argumento contestado, sem conclusão falsa.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 177.48,
+    "chapter": "TERRA PLANA",
+    "voice_text": "gravidade era falsa ou mal compreendida. Vídeos com"
+  },
+  {
+    "start": 177.48,
+    "assets": [
+      "#experiment"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Experimento caseiro genérico; não reproduz resultado real inexistente.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 182.0,
+    "chapter": "TERRA PLANA",
+    "voice_text": "experimentos pessoais e observações foram amplamente compartilhados, geralmente retratando"
+  },
+  {
+    "start": 182.0,
+    "assets": [
+      "#share-flat"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Compartilhamento de observações em interface editorial.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 185.96,
+    "chapter": "TERRA PLANA",
+    "voice_text": "a ciência convencional como enganosa. Com o tempo, temas como a"
+  },
+  {
+    "start": 185.96,
+    "assets": [
+      "#agency"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Agência espacial é nomeada; não precisa acumular legendas.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 186.66,
+    "chapter": "TERRA PLANA",
+    "voice_text": "NASA, a"
+  },
+  {
+    "start": 186.66,
+    "assets": [
+      "#antarctica"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Mapa de localização da Antártida como continente.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 189.8,
+    "chapter": "TERRA PLANA",
+    "voice_text": "Antártida e informações supostamente escondidas foram sendo"
+  },
+  {
+    "start": 189.8,
+    "assets": [
+      "#conspiracy"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Hipóteses se conectam, sem aumento gratuito de caos.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 198.24,
+    "chapter": "TERRA PLANA",
+    "voice_text": "incorporados ao movimento, transformando-o em uma narrativa conspiratória muito maior. Apesar da popularidade crescente dessas alegações, a comunidade"
+  },
+  {
+    "start": 198.24,
+    "assets": [
+      "microscope.svg",
+      "@EVIDÊNCIAS"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Ciência e evidências: uma composição em dupla.",
+    "reveals": [
+      198.24,
+      200.02
+    ],
+    "motion": "left",
+    "layout": "auto",
+    "end": 203.0,
+    "chapter": "TERRA PLANA",
+    "voice_text": "científica continua apresentando evidências de que a Terra é esférica. De séculos de"
+  },
+  {
+    "start": 203.0,
+    "assets": [
+      "#observation"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Observação histórica, órbita e física introduzidas nos seus tempos.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 206.56,
+    "chapter": "TERRA PLANA",
+    "voice_text": "observação a imagens de satélite e a física moderna,"
+  },
+  {
+    "start": 206.56,
+    "assets": [
+      "blue-marble.jpg"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Retorno à fotografia da Terra, segunda aparição justificada.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 208.62,
+    "chapter": "TERRA PLANA",
+    "voice_text": "tudo aponta para o mesmo resultado."
+  },
+  {
+    "start": 208.62,
+    "assets": [
+      "earth-spin.mp4"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "GIF de globo em rotação como síntese, não registro orbital.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 210.57,
+    "chapter": "TERRA PLANA",
+    "voice_text": "Vivemos em um planeta redondo."
+  },
+  {
+    "start": 210.57,
+    "assets": [
+      "#comment"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Encerramento do áudio: pergunta ao espectador, sem inventar novo assunto.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 219.46464500000002,
+    "chapter": "TERRA PLANA",
+    "voice_text": "Se você curtiu esse tipo de investigação, me conta aqui nos comentários se tem alguma outra imagem de reação que você sempre quis saber de onde veio. Quem sabe não vir o próximo vídeo?"
+  }
+]

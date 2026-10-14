@@ -1,0 +1,68 @@
+"""Editorial cues in seconds of the edited narration. Every secondary cue is explicit."""
+import json
+from pathlib import Path
+TOTAL=json.loads(Path('audio-edit-map.json').read_text())['edited_duration']
+def shot(t,assets,captions='',note='',reveals=None,motion='rise'):
+    return dict(start=t,assets=assets.split('|'),captions=captions.split('|'),rationale=note,
+                reveals=reveals,motion=motion,layout='auto')
+CHAPTERS=[
+dict(id='birds',title='AVES NÃO SÃO REAIS',start=0,end=58.65,target=4,zoom=(.10,1.48),shots=[
+shot(1.54,'raven.jpg','','Ave real estabelece o contraste.',motion='left'),
+shot(5.38,'#bird-drone','','O pássaro ganha câmera apenas quando drones é introduzido.'),
+shot(9.50,'#monitor','','Vigilância explicada por linhas de visão, não por fotografia falsa.'),
+shot(12.30,'bird.jpg|#robot','|','Ave real e réplica ilustrada entram em sequência.',[12.30,15.52],'left'),
+shot(17.44,'camera.svg|microphone.svg','','Movimentos e conversas: ícones flat específicos.',[17.44,18.90],'pop'),
+shot(20.60,'movement-sign.jpg|movement-logo.png','','Fotografia real e identidade do movimento.',[20.60,21.96],'left'),
+shot(23.76,'peter.png','Peter McIndoe','Identificação do fundador, grafia revisada.'),
+shot(26.46,'#serious','','Expressão original séria muda para dúvida, sem meme aleatório.'),
+shot(32.66,'#curious','','Cartão de preparação para os exemplos, sem legenda menor.'),
+shot(35.20,'wire-birds.jpg','','Fios de energia são introduzidos antes da piada da recarga.',motion='right'),
+shot(38.44,'#charge','','Bateria enche em etapas; a explicação é claramente uma hipótese satírica.'),
+shot(39.58,'#migration','','Rota sazonal ilustrada, não itinerário documentado.'),
+shot(42.08,'tools.svg|@MANUTENÇÃO?','','Ferramentas e pergunta acompanham a alegação.',[42.08,43.02]),
+shot(44.38,'#web-birds','','Interface de discussão editorial, sem métricas ou usuários inventados.'),
+shot(47.80,'birds-cartoon.mp4','','Breve animação de aves como respiro bem-humorado; domínio público.'),
+shot(49.42,'#interview','','Entrevista e data resumidas, sem fabricar captura do jornal.'),
+shot(55.16,'@ERA UMA SÁTIRA','','Uma única afirmação grande, sem legenda extra.',motion='pop'),
+shot(56.94,'#rumor','','Propagação de desinformação sintetizada num diagrama.')]),
+dict(id='reptiles',title='REPTILIANOS',start=58.65,end=135.65,target=5,zoom=(59.25,60.65),shots=[
+shot(60.71,'reptile.svg','','Ícone do caso mantém identidade com a Parte 1.',motion='pop'),
+shot(63.69,'lizard.jpg|#disguise','','Réptil real e personagem fictício; disfarce apenas na segunda entrada.',[63.69,64.59],'left'),
+shot(67.15,'#institutions','','Instituições anônimas, sem acusar pessoas reais.'),
+shot(70.83,'#podium','','Políticos e figuras influentes como personagens genéricos.'),
+shot(74.79,'chameleon.mp4','(camuflagem é outra história)','GIF real de camaleão como aparte visual, não prova de humano reptiliano.'),
+shot(78.65,'@DÉCADA DE 1990','','Marco temporal isolado.'),
+shot(81.81,'icke.jpg','David Icke','Retrato real da pessoa citada.'),
+shot(85.07,'#portal','','Outra dimensão e sistema estelar explicados em duas etapas.'),
+shot(90.21,'#fear','','Medo e influência: dois caminhos de uma alegação.'),
+shot(91.99,'#web-reptiles','','Discussão online e vídeos editados em uma interface neutra.'),
+shot(97.87,'#video-face','','Rosto vetorial original em um player, sem fabricar acusações.'),
+shot(101.81,'#distortion','','Comparação entre quadro limpo e distorcido. Ilustração de falha visual.'),
+shot(105.11,'#compression','','Diagrama de compressão revela artefatos em etapas.'),
+shot(109.65,'#suspicion','','Uma interpretação não transforma um defeito visual em evidência.'),
+shot(111.77,'#connections','','Eventos distintos são conectados progressivamente.'),
+shot(118.27,'@SEM EVIDÊNCIA / CONFIÁVEL','','Síntese clara sem texto menor embaixo.',motion='pop'),
+shot(122.89,'#fiction','','Livro e ficção científica, com personagem original.'),
+shot(127.27,'#misinformation','','Desinformação representada por manchetes genéricas.'),
+shot(132.31,'snake.svg|#myth','','Serpente e símbolo mitológico desenhado, sem extrapolar fonte.',[132.31,133.35],'left')]),
+dict(id='flat',title='TERRA PLANA',start=135.65,end=TOTAL,target=6,zoom=(135.75,136.72),shots=[
+shot(136.78,'flat-theory.png','','Diagrama da hipótese, não mapa científico.',motion='left'),
+shot(140.96,'#disk','','Disco e limite de gelo aparecem quando nomeados.'),
+shot(144.02,'#secrecy','','Instituições e informação ocultada como alegação.'),
+shot(151.04,'blue-marble.jpg|#photo-claim','','Fotografia NASA e argumento de fabricação separados.',[151.04,153.14]),
+shot(156.74,'ferguson.jpg','Orlando Ferguson • 1893','Documento histórico específico.'),
+shot(160.70,'#web-flat','','Retorno moderno: ano, vídeos e fóruns em sequência.'),
+shot(166.70,'orbit.jpg|satellite.svg','','Imagem orbital real e ícone de satélite.',[166.70,168.74],'right'),
+shot(171.02,'#horizon','','Diagrama de escala mostra aparência local de horizonte.'),
+shot(174.48,'#gravity','','Gravidade aparece como argumento contestado, sem conclusão falsa.'),
+shot(177.48,'#experiment','','Experimento caseiro genérico; não reproduz resultado real inexistente.'),
+shot(182.00,'#share-flat','','Compartilhamento de observações em interface editorial.'),
+shot(185.96,'#agency','','Agência espacial é nomeada; não precisa acumular legendas.'),
+shot(186.66,'#antarctica','','Mapa de localização da Antártida como continente.'),
+shot(189.80,'#conspiracy','','Hipóteses se conectam, sem aumento gratuito de caos.'),
+shot(198.24,'microscope.svg|@EVIDÊNCIAS','','Ciência e evidências: uma composição em dupla.',[198.24,200.02],'left'),
+shot(203.00,'#observation','','Observação histórica, órbita e física introduzidas nos seus tempos.'),
+shot(206.56,'blue-marble.jpg','','Retorno à fotografia da Terra, segunda aparição justificada.'),
+shot(208.62,'earth-spin.mp4','','GIF de globo em rotação como síntese, não registro orbital.'),
+shot(210.57,'#comment','','Encerramento do áudio: pergunta ao espectador, sem inventar novo assunto.')])]
+REVEALS={(c['id'],s['start']):s['reveals'] for c in CHAPTERS for s in c['shots'] if s['reveals']}

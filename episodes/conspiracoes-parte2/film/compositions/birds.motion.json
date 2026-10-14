@@ -1,0 +1,115 @@
+{
+  "duration": 58.65,
+  "assertions": [
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s00-card0",
+      "bySec": 1.81
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s01-card0",
+      "bySec": 5.65
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s02-card0",
+      "bySec": 9.77
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s03-card0",
+      "bySec": 12.57
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s03-card1",
+      "bySec": 15.79
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s04-card0",
+      "bySec": 17.71
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s04-card1",
+      "bySec": 19.17
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s05-card0",
+      "bySec": 20.87
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s05-card1",
+      "bySec": 22.23
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s06-card0",
+      "bySec": 24.03
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s07-card0",
+      "bySec": 26.73
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s08-card0",
+      "bySec": 32.93
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s09-card0",
+      "bySec": 35.47
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s10-card0",
+      "bySec": 38.71
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s11-card0",
+      "bySec": 39.85
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s12-card0",
+      "bySec": 42.35
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s12-card1",
+      "bySec": 43.29
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s13-card0",
+      "bySec": 44.65
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s14-card0",
+      "bySec": 48.07
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s15-card0",
+      "bySec": 49.69
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s16-card0",
+      "bySec": 55.43
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s17-card0",
+      "bySec": 57.21
+    }
+  ]
+}

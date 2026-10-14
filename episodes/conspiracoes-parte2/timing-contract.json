@@ -1,0 +1,330 @@
+{
+  "duration": 219.46464500000002,
+  "assertions": [
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s00-card0",
+      "bySec": 1.81
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s01-card0",
+      "bySec": 5.65
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s02-card0",
+      "bySec": 9.77
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s03-card0",
+      "bySec": 12.57
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s03-card1",
+      "bySec": 15.79
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s04-card0",
+      "bySec": 17.71
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s04-card1",
+      "bySec": 19.17
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s05-card0",
+      "bySec": 20.87
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s05-card1",
+      "bySec": 22.23
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s06-card0",
+      "bySec": 24.03
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s07-card0",
+      "bySec": 26.73
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s08-card0",
+      "bySec": 32.93
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s09-card0",
+      "bySec": 35.47
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s10-card0",
+      "bySec": 38.71
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s11-card0",
+      "bySec": 39.85
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s12-card0",
+      "bySec": 42.35
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s12-card1",
+      "bySec": 43.29
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s13-card0",
+      "bySec": 44.65
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s14-card0",
+      "bySec": 48.07
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s15-card0",
+      "bySec": 49.69
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s16-card0",
+      "bySec": 55.43
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s17-card0",
+      "bySec": 57.21
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s00-card0",
+      "bySec": 60.98
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s01-card0",
+      "bySec": 63.96
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s01-card1",
+      "bySec": 64.86
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s02-card0",
+      "bySec": 67.42
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s03-card0",
+      "bySec": 71.1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s04-card0",
+      "bySec": 75.06
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s05-card0",
+      "bySec": 78.92
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s06-card0",
+      "bySec": 82.08
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s07-card0",
+      "bySec": 85.34
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s08-card0",
+      "bySec": 90.48
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s09-card0",
+      "bySec": 92.26
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s10-card0",
+      "bySec": 98.14
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s11-card0",
+      "bySec": 102.08
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s12-card0",
+      "bySec": 105.38
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s13-card0",
+      "bySec": 109.92
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s14-card0",
+      "bySec": 112.04
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s15-card0",
+      "bySec": 118.54
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s16-card0",
+      "bySec": 123.16
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s17-card0",
+      "bySec": 127.54
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s18-card0",
+      "bySec": 132.58
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s18-card1",
+      "bySec": 133.62
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s00-card0",
+      "bySec": 137.05
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s01-card0",
+      "bySec": 141.23
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s02-card0",
+      "bySec": 144.29
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s03-card0",
+      "bySec": 151.31
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s03-card1",
+      "bySec": 153.41
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s04-card0",
+      "bySec": 157.01
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s05-card0",
+      "bySec": 160.97
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s06-card0",
+      "bySec": 166.97
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s06-card1",
+      "bySec": 169.01
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s07-card0",
+      "bySec": 171.29
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s08-card0",
+      "bySec": 174.75
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s09-card0",
+      "bySec": 177.75
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s10-card0",
+      "bySec": 182.27
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s11-card0",
+      "bySec": 186.23
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s12-card0",
+      "bySec": 186.93
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s13-card0",
+      "bySec": 190.07
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s14-card0",
+      "bySec": 198.51
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s14-card1",
+      "bySec": 200.29
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s15-card0",
+      "bySec": 203.27
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s16-card0",
+      "bySec": 206.83
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s17-card0",
+      "bySec": 208.89
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s18-card0",
+      "bySec": 210.84
+    }
+  ]
+}

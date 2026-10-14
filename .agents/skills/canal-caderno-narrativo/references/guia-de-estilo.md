@@ -74,6 +74,8 @@ A cor exata do papel, o arquivo da fonte, a intensidade da sombra e o tempo das 
 
 ## Revisão de variedade e movimento (V2)
 
+Correção para a continuação: legenda sob o card é opcional. Quando já há uma afirmação grande ou texto explicativo suficiente dentro da imagem, não acrescentar uma segunda explicação embaixo. Usar frases complementares apenas para identificação, contexto indispensável ou humor pertinente. Não colocar no vídeo textos sobre a própria narração, transcrição, processo de produção ou limitações de pesquisa. Apresentar hipóteses como hipóteses e interfaces originais como reconstituições com linguagem natural ao público. Detalhes de verificação e créditos completos pertencem aos documentos de produção e à descrição da publicação.
+
 - Limitar cada imagem, ícone ou desenho ilustrativo a duas aparições por episódio. Contar também imagens embutidas em interfaces. A grade de casos e o avatar persistente são identificadores e ficam fora dessa contagem. Exceções para evidência indispensável precisam de justificativa no plano.
 - Variar conteúdo e composição, não apenas trocar a legenda do mesmo desenho. Preferir evidência específica, interfaces, documentos, fotos, clipes e diagramas originais.
 - Sincronizar elementos secundários com a palavra que introduz seu significado; o início da cena não implica revelar todos os elementos.

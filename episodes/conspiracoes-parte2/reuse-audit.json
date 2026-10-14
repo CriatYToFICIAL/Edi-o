@@ -1,0 +1,29 @@
+{
+  "limit": 2,
+  "counts": {
+    "raven.jpg": 1,
+    "bird.jpg": 1,
+    "camera.svg": 1,
+    "microphone.svg": 1,
+    "movement-sign.jpg": 1,
+    "movement-logo.png": 1,
+    "peter.png": 1,
+    "wire-birds.jpg": 1,
+    "tools.svg": 1,
+    "birds-cartoon.mp4": 1,
+    "reptile.svg": 1,
+    "lizard.jpg": 1,
+    "chameleon.mp4": 1,
+    "icke.jpg": 1,
+    "snake.svg": 1,
+    "flat-theory.png": 1,
+    "blue-marble.jpg": 2,
+    "ferguson.jpg": 1,
+    "orbit.jpg": 1,
+    "satellite.svg": 1,
+    "microscope.svg": 1,
+    "earth-spin.mp4": 1
+  },
+  "exceptions": "Overview, avatares e fotografia central da Terra",
+  "violations": {}
+}
