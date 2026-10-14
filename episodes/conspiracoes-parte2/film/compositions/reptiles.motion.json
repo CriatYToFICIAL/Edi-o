@@ -9,11 +9,6 @@
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s01-card0",
-      "bySec": 5.31
-    },
-    {
-      "kind": "appearsBy",
-      "selector": "#reptiles-s01-card1",
       "bySec": 6.21
     },
     {
@@ -49,61 +44,86 @@
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s08-card0",
-      "bySec": 31.83
+      "bySec": 28.11
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s09-card0",
-      "bySec": 33.61
+      "bySec": 31.83
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s09-card1",
+      "bySec": 32.47
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s10-card0",
-      "bySec": 39.49
+      "bySec": 33.61
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s11-card0",
-      "bySec": 43.43
+      "bySec": 36.74
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s12-card0",
-      "bySec": 46.73
+      "bySec": 39.49
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s12-card1",
+      "bySec": 42.71
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s13-card0",
-      "bySec": 51.27
+      "bySec": 46.73
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s14-card0",
-      "bySec": 53.39
+      "bySec": 51.27
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s15-card0",
-      "bySec": 59.89
+      "bySec": 53.39
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s15-card1",
+      "bySec": 55.92
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s16-card0",
-      "bySec": 64.51
+      "bySec": 57.91
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s17-card0",
-      "bySec": 68.89
+      "bySec": 59.89
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s18-card0",
-      "bySec": 73.93
+      "bySec": 64.51
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s18-card1",
+      "selector": "#reptiles-s19-card0",
+      "bySec": 68.89
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s20-card0",
+      "bySec": 70.15
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s21-card0",
       "bySec": 74.97
     }
   ]

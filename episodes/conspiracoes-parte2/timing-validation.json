@@ -1,6 +1,6 @@
 {
   "passed": true,
-  "checks": 72,
+  "checks": 81,
   "failures": [],
   "details": [
     {
@@ -14,6 +14,13 @@
       "kind": "appearsBy",
       "selector": "#birds-s01-card0",
       "bySec": 5.65,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s01-card1",
+      "bySec": 7.33,
       "visible": true,
       "opacity": 1
     },
@@ -33,70 +40,70 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s03-card1",
+      "selector": "#birds-s04-card0",
       "bySec": 15.79,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s04-card0",
+      "selector": "#birds-s05-card0",
       "bySec": 17.71,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s04-card1",
+      "selector": "#birds-s05-card1",
       "bySec": 19.17,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s05-card0",
+      "selector": "#birds-s06-card0",
       "bySec": 20.87,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s05-card1",
+      "selector": "#birds-s06-card1",
       "bySec": 22.23,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s06-card0",
+      "selector": "#birds-s07-card0",
       "bySec": 24.03,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s07-card0",
-      "bySec": 26.73,
-      "visible": true,
-      "opacity": 1
-    },
-    {
-      "kind": "appearsBy",
       "selector": "#birds-s08-card0",
-      "bySec": 32.93,
+      "bySec": 29.83,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#birds-s09-card0",
-      "bySec": 35.47,
+      "bySec": 32.93,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#birds-s10-card0",
+      "bySec": 35.47,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s10-card1",
       "bySec": 38.71,
       "visible": true,
       "opacity": 1
@@ -132,14 +139,21 @@
     {
       "kind": "appearsBy",
       "selector": "#birds-s14-card0",
-      "bySec": 48.07,
+      "bySec": 50.21,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s14-card1",
+      "bySec": 51.15,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#birds-s15-card0",
-      "bySec": 49.69,
+      "bySec": 52.39,
       "visible": true,
       "opacity": 1
     },
@@ -147,13 +161,6 @@
       "kind": "appearsBy",
       "selector": "#birds-s16-card0",
       "bySec": 55.43,
-      "visible": true,
-      "opacity": 1
-    },
-    {
-      "kind": "appearsBy",
-      "selector": "#birds-s17-card0",
-      "bySec": 57.21,
       "visible": true,
       "opacity": 1
     },
@@ -167,13 +174,6 @@
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s01-card0",
-      "bySec": 63.96,
-      "visible": true,
-      "opacity": 1
-    },
-    {
-      "kind": "appearsBy",
-      "selector": "#reptiles-s01-card1",
       "bySec": 64.86,
       "visible": true,
       "opacity": 1
@@ -223,83 +223,118 @@
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s08-card0",
-      "bySec": 90.48,
+      "bySec": 86.76,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s09-card0",
-      "bySec": 92.26,
+      "bySec": 90.48,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s09-card1",
+      "bySec": 91.12,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s10-card0",
-      "bySec": 98.14,
+      "bySec": 92.26,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s11-card0",
-      "bySec": 102.08,
+      "bySec": 95.39,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s12-card0",
-      "bySec": 105.38,
+      "bySec": 98.14,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s12-card1",
+      "bySec": 101.36,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s13-card0",
-      "bySec": 109.92,
+      "bySec": 105.38,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s14-card0",
-      "bySec": 112.04,
+      "bySec": 109.92,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s15-card0",
-      "bySec": 118.54,
+      "bySec": 112.04,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s15-card1",
+      "bySec": 114.57,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s16-card0",
-      "bySec": 123.16,
+      "bySec": 116.56,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s17-card0",
-      "bySec": 127.54,
+      "bySec": 118.54,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s18-card0",
-      "bySec": 132.58,
+      "bySec": 123.16,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s18-card1",
+      "selector": "#reptiles-s19-card0",
+      "bySec": 127.54,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s20-card0",
+      "bySec": 128.8,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s21-card0",
       "bySec": 133.62,
       "visible": true,
       "opacity": 1
@@ -314,7 +349,7 @@
     {
       "kind": "appearsBy",
       "selector": "#flat-s01-card0",
-      "bySec": 141.23,
+      "bySec": 142.29,
       "visible": true,
       "opacity": 1
     },
@@ -391,76 +426,97 @@
     {
       "kind": "appearsBy",
       "selector": "#flat-s10-card0",
-      "bySec": 182.27,
+      "bySec": 180.65,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s11-card0",
-      "bySec": 186.23,
+      "bySec": 182.27,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s12-card0",
-      "bySec": 186.93,
+      "bySec": 186.23,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s13-card0",
-      "bySec": 190.07,
+      "bySec": 186.93,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s14-card0",
-      "bySec": 198.51,
-      "visible": true,
-      "opacity": 1
-    },
-    {
-      "kind": "appearsBy",
-      "selector": "#flat-s14-card1",
-      "bySec": 200.29,
+      "bySec": 190.07,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s15-card0",
-      "bySec": 203.27,
+      "bySec": 198.51,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s15-card1",
+      "bySec": 200.29,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s16-card0",
-      "bySec": 206.83,
+      "bySec": 203.27,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s17-card0",
+      "bySec": 204.81,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s18-card0",
+      "bySec": 205.65,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s19-card0",
+      "bySec": 206.83,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s20-card0",
       "bySec": 208.89,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s18-card0",
+      "selector": "#flat-s21-card0",
       "bySec": 210.84,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s18-card0",
+      "selector": "#flat-s21-card0",
       "bySec": 210.84,
       "reverseSeek": true,
       "visible": true,
@@ -468,48 +524,56 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s09-card0",
-      "bySec": 177.75,
+      "selector": "#flat-s12-card0",
+      "bySec": 186.23,
       "reverseSeek": true,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s01-card0",
-      "bySec": 141.23,
+      "selector": "#flat-s03-card1",
+      "bySec": 153.41,
       "reverseSeek": true,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s11-card0",
-      "bySec": 102.08,
+      "selector": "#reptiles-s16-card0",
+      "bySec": 116.56,
       "reverseSeek": true,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s01-card1",
-      "bySec": 64.86,
+      "selector": "#reptiles-s09-card0",
+      "bySec": 90.48,
       "reverseSeek": true,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s11-card0",
-      "bySec": 39.85,
+      "selector": "#birds-s16-card0",
+      "bySec": 55.43,
       "reverseSeek": true,
       "visible": true,
       "opacity": 1
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s03-card1",
-      "bySec": 15.79,
+      "selector": "#birds-s09-card0",
+      "bySec": 32.93,
+      "reverseSeek": true,
+      "visible": true,
+      "opacity": 1
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s01-card1",
+      "bySec": 7.33,
       "reverseSeek": true,
       "visible": true,
       "opacity": 1

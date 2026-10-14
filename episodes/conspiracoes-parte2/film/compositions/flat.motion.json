@@ -9,7 +9,7 @@
     {
       "kind": "appearsBy",
       "selector": "#flat-s01-card0",
-      "bySec": 5.58
+      "bySec": 6.64
     },
     {
       "kind": "appearsBy",
@@ -64,51 +64,66 @@
     {
       "kind": "appearsBy",
       "selector": "#flat-s10-card0",
-      "bySec": 46.62
+      "bySec": 45.0
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s11-card0",
-      "bySec": 50.58
+      "bySec": 46.62
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s12-card0",
-      "bySec": 51.28
+      "bySec": 50.58
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s13-card0",
-      "bySec": 54.42
+      "bySec": 51.28
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s14-card0",
-      "bySec": 62.86
-    },
-    {
-      "kind": "appearsBy",
-      "selector": "#flat-s14-card1",
-      "bySec": 64.64
+      "bySec": 54.42
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s15-card0",
-      "bySec": 67.62
+      "bySec": 62.86
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s15-card1",
+      "bySec": 64.64
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s16-card0",
-      "bySec": 71.18
+      "bySec": 67.62
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s17-card0",
-      "bySec": 73.24
+      "bySec": 69.16
     },
     {
       "kind": "appearsBy",
       "selector": "#flat-s18-card0",
+      "bySec": 70.0
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s19-card0",
+      "bySec": 71.18
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s20-card0",
+      "bySec": 73.24
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s21-card0",
       "bySec": 75.19
     }
   ]

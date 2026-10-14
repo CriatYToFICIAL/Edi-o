@@ -7,7 +7,7 @@
     "captions": [
       ""
     ],
-    "rationale": "Ave real estabelece o contraste.",
+    "rationale": "Ave real estabelece o contexto.",
     "reveals": null,
     "motion": "left",
     "layout": "auto",
@@ -18,14 +18,19 @@
   {
     "start": 5.38,
     "assets": [
-      "#bird-drone"
+      "bird.jpg",
+      "revision/drone.jpg"
     ],
     "captions": [
-      ""
+      "Ave",
+      "Drone"
     ],
-    "rationale": "O pássaro ganha câmera apenas quando drones é introduzido.",
-    "reveals": null,
-    "motion": "rise",
+    "rationale": "Comparação clara substitui o pássaro vetorial.",
+    "reveals": [
+      5.38,
+      7.06
+    ],
+    "motion": "left",
     "layout": "auto",
     "end": 9.5,
     "chapter": "AVES NÃO SÃO REAIS",
@@ -34,12 +39,12 @@
   {
     "start": 9.5,
     "assets": [
-      "#monitor"
+      "revision/cctv.jpg"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Vigilância explicada por linhas de visão, não por fotografia falsa.",
+    "rationale": "Vigilância mostrada por um equipamento reconhecível.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -50,23 +55,34 @@
   {
     "start": 12.3,
     "assets": [
-      "bird.jpg",
-      "#robot"
+      "raven.jpg"
     ],
     "captions": [
-      "",
       ""
     ],
-    "rationale": "Ave real e réplica ilustrada entram em sequência.",
-    "reveals": [
-      12.3,
-      15.52
+    "rationale": "As aves reais reaparecem quando são mencionadas, segundo uso.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 15.52,
+    "chapter": "AVES NÃO SÃO REAIS",
+    "voice_text": "de verdade teriam sido substituídas décadas atrás por réplicas"
+  },
+  {
+    "start": 15.52,
+    "assets": [
+      "revision/smartbird.jpg"
     ],
-    "motion": "left",
+    "captions": [
+      "SmartBird • exemplo de robótica"
+    ],
+    "rationale": "Exemplo real de ave robótica; só aparece na frase das réplicas.",
+    "reveals": null,
+    "motion": "rise",
     "layout": "auto",
     "end": 17.44,
     "chapter": "AVES NÃO SÃO REAIS",
-    "voice_text": "de verdade teriam sido substituídas décadas atrás por réplicas robóticas capazes de gravar"
+    "voice_text": "robóticas capazes de gravar"
   },
   {
     "start": 17.44,
@@ -77,7 +93,7 @@
     "captions": [
       ""
     ],
-    "rationale": "Movimentos e conversas: ícones flat específicos.",
+    "rationale": "Ícones licenciados específicos entram quando nomeados.",
     "reveals": [
       17.44,
       18.9
@@ -97,7 +113,7 @@
     "captions": [
       ""
     ],
-    "rationale": "Fotografia real e identidade do movimento.",
+    "rationale": "Fotografia e identidade reais do movimento.",
     "reveals": [
       20.6,
       21.96
@@ -116,39 +132,39 @@
     "captions": [
       "Peter McIndoe"
     ],
-    "rationale": "Identificação do fundador, grafia revisada.",
+    "rationale": "Retrato da pessoa citada; permanece durante a mesma ideia.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
-    "end": 26.46,
+    "end": 29.56,
     "chapter": "AVES NÃO SÃO REAIS",
-    "voice_text": "McIndoe começou a divulgá-lo online. Ele falava"
+    "voice_text": "McIndoe começou a divulgá-lo online. Ele falava sobre a conspiração com total seriedade, o que dificultava"
   },
   {
-    "start": 26.46,
+    "start": 29.56,
     "assets": [
-      "#serious"
+      "#deadpan"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Expressão original séria muda para dúvida, sem meme aleatório.",
+    "rationale": "Reação com ícone flat profissional, sem desenho humano malfeito.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
     "end": 32.66,
     "chapter": "AVES NÃO SÃO REAIS",
-    "voice_text": "sobre a conspiração com total seriedade, o que dificultava saber se ele realmente acreditava naquilo. Algumas"
+    "voice_text": "saber se ele realmente acreditava naquilo. Algumas"
   },
   {
     "start": 32.66,
     "assets": [
-      "#curious"
+      "@AS ALEGAÇÕES / MAIS CURIOSAS"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Cartão de preparação para os exemplos, sem legenda menor.",
+    "rationale": "Preparação curta para os exemplos.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -159,44 +175,33 @@
   {
     "start": 35.2,
     "assets": [
-      "wire-birds.jpg"
+      "wire-birds.jpg",
+      "battery.svg"
     ],
     "captions": [
-      ""
+      "",
+      "Recarga?"
     ],
-    "rationale": "Fios de energia são introduzidos antes da piada da recarga.",
-    "reveals": null,
-    "motion": "right",
-    "layout": "auto",
-    "end": 38.44,
-    "chapter": "AVES NÃO SÃO REAIS",
-    "voice_text": "pousados em fios de energia estavam, na verdade, se recarregando"
-  },
-  {
-    "start": 38.44,
-    "assets": [
-      "#charge"
+    "rationale": "Fios e bateria permanecem em relação direta.",
+    "reveals": [
+      35.2,
+      38.44
     ],
-    "captions": [
-      ""
-    ],
-    "rationale": "Bateria enche em etapas; a explicação é claramente uma hipótese satírica.",
-    "reveals": null,
     "motion": "rise",
     "layout": "auto",
     "end": 39.58,
     "chapter": "AVES NÃO SÃO REAIS",
-    "voice_text": "e que a migração"
+    "voice_text": "pousados em fios de energia estavam, na verdade, se recarregando e que a migração"
   },
   {
     "start": 39.58,
     "assets": [
-      "#migration"
+      "revision/geese-flight.jpg"
     ],
     "captions": [
-      ""
+      "Migração"
     ],
-    "rationale": "Rota sazonal ilustrada, não itinerário documentado.",
+    "rationale": "Fotografia de aves voando em vez de rota abstrata.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -208,12 +213,12 @@
     "start": 42.08,
     "assets": [
       "tools.svg",
-      "@MANUTENÇÃO?"
+      "@MANUTENÇÃO"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Ferramentas e pergunta acompanham a alegação.",
+    "rationale": "Ferramentas reconhecíveis; pergunta removida.",
     "reveals": [
       42.08,
       43.02
@@ -227,128 +232,113 @@
   {
     "start": 44.38,
     "assets": [
-      "#web-birds"
+      "#social-birds"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Interface de discussão editorial, sem métricas ou usuários inventados.",
+    "rationale": "O contexto online é mostrado por uma interface visual com o cartaz.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
-    "end": 47.8,
+    "end": 49.94,
     "chapter": "AVES NÃO SÃO REAIS",
-    "voice_text": "ideias ajudaram o movimento a se espalhar pela internet, sempre"
+    "voice_text": "ideias ajudaram o movimento a se espalhar pela internet, sempre como uma brincadeira. Em uma entrevista ao New"
   },
   {
-    "start": 47.8,
+    "start": 49.94,
     "assets": [
-      "birds-cartoon.mp4"
+      "revision/nyt.jpg",
+      "@2021"
     ],
     "captions": [
+      "The New York Times",
       ""
     ],
-    "rationale": "Breve animação de aves como respiro bem-humorado; domínio público.",
-    "reveals": null,
+    "rationale": "Fachada e data identificam a entrevista sem fabricar captura.",
+    "reveals": [
+      49.94,
+      50.88
+    ],
     "motion": "rise",
     "layout": "auto",
-    "end": 49.42,
+    "end": 52.12,
     "chapter": "AVES NÃO SÃO REAIS",
-    "voice_text": "como uma brincadeira. Em uma entrevista"
+    "voice_text": "York Times em 2021, McIndoe"
   },
   {
-    "start": 49.42,
+    "start": 52.12,
     "assets": [
-      "#interview"
+      "peter.png"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Entrevista e data resumidas, sem fabricar captura do jornal.",
+    "rationale": "Retorno à pessoa no momento da admissão, segunda aparição.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
     "end": 55.16,
     "chapter": "AVES NÃO SÃO REAIS",
-    "voice_text": "ao New York Times em 2021, McIndoe finalmente admitiu que o movimento inteiro era uma sátira,"
+    "voice_text": "finalmente admitiu que o movimento inteiro era uma sátira,"
   },
   {
     "start": 55.16,
     "assets": [
-      "@ERA UMA SÁTIRA"
+      "birds-cartoon.mp4"
     ],
     "captions": [
-      ""
+      "Sátira da desinformação"
     ],
-    "rationale": "Uma única afirmação grande, sem legenda extra.",
-    "reveals": null,
-    "motion": "pop",
-    "layout": "auto",
-    "end": 56.94,
-    "chapter": "AVES NÃO SÃO REAIS",
-    "voice_text": "criada para parodiar a"
-  },
-  {
-    "start": 56.94,
-    "assets": [
-      "#rumor"
-    ],
-    "captions": [
-      ""
-    ],
-    "rationale": "Propagação de desinformação sintetizada num diagrama.",
+    "rationale": "GIF substitui tanto a afirmação quanto o fluxograma final.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
     "end": 58.65,
     "chapter": "AVES NÃO SÃO REAIS",
-    "voice_text": "desinformação na internet."
+    "voice_text": "criada para parodiar a desinformação na internet."
   },
   {
     "start": 60.71,
     "assets": [
-      "reptile.svg"
+      "revision/reptilian.png"
     ],
     "captions": [
-      ""
+      "Representação artística"
     ],
-    "rationale": "Ícone do caso mantém identidade com a Parte 1.",
+    "rationale": "Ilustração licenciada do tema, não fotografia de criatura real.",
     "reveals": null,
     "motion": "pop",
     "layout": "auto",
-    "end": 63.69,
+    "end": 64.59,
     "chapter": "REPTILIANOS",
-    "voice_text": "reptilianos sugere que seres poderosos, parecidos com"
+    "voice_text": "reptilianos sugere que seres poderosos, parecidos com répteis, se"
   },
   {
-    "start": 63.69,
+    "start": 64.59,
     "assets": [
-      "lizard.jpg",
-      "#disguise"
+      "revision/obama-still.jpg"
     ],
     "captions": [
-      ""
+      "A hipótese do disfarce humano"
     ],
-    "rationale": "Réptil real e personagem fictício; disfarce apenas na segunda entrada.",
-    "reveals": [
-      63.69,
-      64.59
-    ],
-    "motion": "left",
+    "rationale": "Obama é um alvo documentado dessas teorias; não é identificado como reptiliano.",
+    "reveals": null,
+    "motion": "rise",
     "layout": "auto",
     "end": 67.15,
     "chapter": "REPTILIANOS",
-    "voice_text": "répteis, se disfarçam de humanos e controlam as principais"
+    "voice_text": "disfarçam de humanos e controlam as principais"
   },
   {
     "start": 67.15,
     "assets": [
-      "#institutions"
+      "revision/capitol.jpg"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Instituições anônimas, sem acusar pessoas reais.",
+    "rationale": "Instituições por meio de fotografia concreta.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -359,12 +349,12 @@
   {
     "start": 70.83,
     "assets": [
-      "#podium"
+      "revision/politician.jpg"
     ],
     "captions": [
-      ""
+      "Figuras públicas viram alvos das teorias"
     ],
-    "rationale": "Políticos e figuras influentes como personagens genéricos.",
+    "rationale": "Fotografia política real contextualizada como alvo de rumores.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -375,12 +365,12 @@
   {
     "start": 74.79,
     "assets": [
-      "chameleon.mp4"
+      "revision/viral-dubai.png"
     ],
     "captions": [
-      "(camuflagem é outra história)"
+      "Figurino em espetáculo"
     ],
-    "rationale": "GIF real de camaleão como aparte visual, não prova de humano reptiliano.",
+    "rationale": "Costume real, identificado; não atribuir circulação viral não verificada.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -396,7 +386,7 @@
     "captions": [
       ""
     ],
-    "rationale": "Marco temporal isolado.",
+    "rationale": "Marco temporal preservado.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -407,12 +397,12 @@
   {
     "start": 81.81,
     "assets": [
-      "icke.jpg"
+      "revision/icke-portrait.jpg"
     ],
     "captions": [
       "David Icke"
     ],
-    "rationale": "Retrato real da pessoa citada.",
+    "rationale": "Retrato aproximado melhora a identificação da pessoa.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -423,29 +413,49 @@
   {
     "start": 85.07,
     "assets": [
-      "#portal"
+      "#dimension"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Outra dimensão e sistema estelar explicados em duas etapas.",
+    "rationale": "Símbolo de ficção, redesenhado com rotulagem simples.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 86.49,
+    "chapter": "REPTILIANOS",
+    "voice_text": "dimensão ou de um sistema"
+  },
+  {
+    "start": 86.49,
+    "assets": [
+      "revision/galaxy.jpg"
+    ],
+    "captions": [
+      "Sistema estelar distante"
+    ],
+    "rationale": "Imagem de espaço acompanha a nova entidade.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
     "end": 90.21,
     "chapter": "REPTILIANOS",
-    "voice_text": "dimensão ou de um sistema estelar distante e mantinham o controle sobre a humanidade por meio do"
+    "voice_text": "estelar distante e mantinham o controle sobre a humanidade por meio do"
   },
   {
     "start": 90.21,
     "assets": [
-      "#fear"
+      "@MEDO",
+      "@INFLUÊNCIA"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Medo e influência: dois caminhos de uma alegação.",
-    "reveals": null,
+    "rationale": "Ênfases por palavra, sem painel de pergunta.",
+    "reveals": [
+      90.21,
+      90.85
+    ],
     "motion": "rise",
     "layout": "auto",
     "end": 91.99,
@@ -455,60 +465,65 @@
   {
     "start": 91.99,
     "assets": [
-      "#web-reptiles"
+      "#case2013"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Discussão online e vídeos editados em uma interface neutra.",
+    "rationale": "Resumo de caso real documentado, sem fingir captura do Wired.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 95.12,
+    "chapter": "REPTILIANOS",
+    "voice_text": "2000, a teoria se espalhou rapidamente pela internet, por"
+  },
+  {
+    "start": 95.12,
+    "assets": [
+      "#editing"
+    ],
+    "captions": [
+      ""
+    ],
+    "rationale": "Interface de edição usa um quadro real; detalhes são reconstituição.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
     "end": 97.87,
     "chapter": "REPTILIANOS",
-    "voice_text": "2000, a teoria se espalhou rapidamente pela internet, por meio de vídeos editados e boatos online."
+    "voice_text": "meio de vídeos editados e boatos online."
   },
   {
     "start": 97.87,
     "assets": [
-      "#video-face"
+      "revision/obama.mp4",
+      "revision/obama-low.mp4"
     ],
     "captions": [
-      ""
+      "Vídeo original • 2009",
+      "Exemplo de baixa resolução"
     ],
-    "rationale": "Rosto vetorial original em um player, sem fabricar acusações.",
-    "reveals": null,
-    "motion": "rise",
-    "layout": "auto",
-    "end": 101.81,
-    "chapter": "REPTILIANOS",
-    "voice_text": "Imagens de figuras públicas agindo de forma estranha ou aparecendo distorcidas"
-  },
-  {
-    "start": 101.81,
-    "assets": [
-      "#distortion"
+    "rationale": "Demonstração identificada da degradação de um vídeo real.",
+    "reveals": [
+      97.87,
+      101.09
     ],
-    "captions": [
-      ""
-    ],
-    "rationale": "Comparação entre quadro limpo e distorcido. Ilustração de falha visual.",
-    "reveals": null,
-    "motion": "rise",
+    "motion": "left",
     "layout": "auto",
     "end": 105.11,
     "chapter": "REPTILIANOS",
-    "voice_text": "na câmera passaram a ser tratadas como suposta prova."
+    "voice_text": "Imagens de figuras públicas agindo de forma estranha ou aparecendo distorcidas na câmera passaram a ser tratadas como suposta prova."
   },
   {
     "start": 105.11,
     "assets": [
-      "#compression"
+      "revision/obama-detail.jpg"
     ],
     "captions": [
-      ""
+      "Detalhe ampliado"
     ],
-    "rationale": "Diagrama de compressão revela artefatos em etapas.",
+    "rationale": "Ampliação do mesmo registro real, sem inventar olhos reptilianos.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -519,12 +534,12 @@
   {
     "start": 109.65,
     "assets": [
-      "#suspicion"
+      "revision/reptilian.png"
     ],
     "captions": [
-      ""
+      "Interpretação não é prova"
     ],
-    "rationale": "Uma interpretação não transforma um defeito visual em evidência.",
+    "rationale": "Segundo uso da ilustração quando a interpretação é mencionada.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -535,18 +550,39 @@
   {
     "start": 111.77,
     "assets": [
-      "#connections"
+      "revision/capitol.jpg",
+      "revision/viral-dubai.png"
+    ],
+    "captions": [
+      "Instituição pública",
+      "Espetáculo"
+    ],
+    "rationale": "Dois contextos realmente distintos, sem triângulo ou conexão falsa.",
+    "reveals": [
+      111.77,
+      114.3
+    ],
+    "motion": "rise",
+    "layout": "auto",
+    "end": 116.29,
+    "chapter": "REPTILIANOS",
+    "voice_text": "Aos poucos, eventos sem relação e meras coincidências foram sendo costurados"
+  },
+  {
+    "start": 116.29,
+    "assets": [
+      "@COINCIDÊNCIA / NÃO É PROVA"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Eventos distintos são conectados progressivamente.",
+    "rationale": "Conclusão breve do exemplo anterior.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
     "end": 118.27,
     "chapter": "REPTILIANOS",
-    "voice_text": "Aos poucos, eventos sem relação e meras coincidências foram sendo costurados em uma narrativa muito maior."
+    "voice_text": "em uma narrativa muito maior."
   },
   {
     "start": 118.27,
@@ -556,9 +592,9 @@
     "captions": [
       ""
     ],
-    "rationale": "Síntese clara sem texto menor embaixo.",
+    "rationale": "Síntese factual preservada.",
     "reveals": null,
-    "motion": "pop",
+    "motion": "rise",
     "layout": "auto",
     "end": 122.89000000000001,
     "chapter": "REPTILIANOS",
@@ -567,12 +603,12 @@
   {
     "start": 122.89,
     "assets": [
-      "#fiction"
+      "revision/scifi.jpg"
     ],
     "captions": [
-      ""
+      "Ficção científica"
     ],
-    "rationale": "Livro e ficção científica, com personagem original.",
+    "rationale": "Capa histórica real substitui o livro vetorial.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -583,38 +619,50 @@
   {
     "start": 127.27,
     "assets": [
-      "#misinformation"
+      "revision/conspiracy-sign.jpg"
     ],
     "captions": [
-      ""
+      "Boatos e desinformação"
     ],
-    "rationale": "Desinformação representada por manchetes genéricas.",
+    "rationale": "Registro real de discurso conspiratório; fluxograma removido.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
-    "end": 132.31,
+    "end": 128.53,
     "chapter": "REPTILIANOS",
-    "voice_text": "desinformação. Algumas partes da teoria também foram influenciadas por antigas histórias de"
+    "voice_text": "desinformação."
   },
   {
-    "start": 132.31,
+    "start": 128.53,
     "assets": [
-      "snake.svg",
-      "#myth"
+      "revision/naga-ancient.jpg"
     ],
     "captions": [
-      ""
+      "Nāga • representação histórica"
     ],
-    "rationale": "Serpente e símbolo mitológico desenhado, sem extrapolar fonte.",
-    "reveals": [
-      132.31,
-      133.35
+    "rationale": "Escultura histórica torna o exemplo mitológico concreto.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 133.35,
+    "chapter": "REPTILIANOS",
+    "voice_text": "Algumas partes da teoria também foram influenciadas por antigas histórias de criaturas serpentinas"
+  },
+  {
+    "start": 133.35,
+    "assets": [
+      "revision/naga.jpg"
     ],
-    "motion": "left",
+    "captions": [
+      "Mitologia e religião"
+    ],
+    "rationale": "Segundo exemplo visual no momento da relação cultural.",
+    "reveals": null,
+    "motion": "rise",
     "layout": "auto",
     "end": 135.65,
     "chapter": "REPTILIANOS",
-    "voice_text": "criaturas serpentinas presentes na mitologia e na religião."
+    "voice_text": "presentes na mitologia e na religião."
   },
   {
     "start": 136.78,
@@ -624,29 +672,29 @@
     "captions": [
       ""
     ],
-    "rationale": "Diagrama da hipótese, não mapa científico.",
+    "rationale": "Modelo ilustrado da hipótese mantido.",
     "reveals": null,
     "motion": "left",
     "layout": "auto",
-    "end": 140.96,
+    "end": 142.02,
     "chapter": "TERRA PLANA",
-    "voice_text": "teoria da Terra plana afirma que o planeta não é uma esfera, e sim um"
+    "voice_text": "teoria da Terra plana afirma que o planeta não é uma esfera, e sim um plano cercado por"
   },
   {
-    "start": 140.96,
+    "start": 142.02,
     "assets": [
-      "#disk"
+      "revision/iceberg.jpg"
     ],
     "captions": [
-      ""
+      "O gelo, na interpretação da teoria"
     ],
-    "rationale": "Disco e limite de gelo aparecem quando nomeados.",
+    "rationale": "Parede de gelo real substitui o disco vetorial malfeito.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
     "end": 144.02,
     "chapter": "TERRA PLANA",
-    "voice_text": "plano cercado por muros de gelo. Segundo ela,"
+    "voice_text": "muros de gelo. Segundo ela,"
   },
   {
     "start": 144.02,
@@ -656,7 +704,7 @@
     "captions": [
       ""
     ],
-    "rationale": "Instituições e informação ocultada como alegação.",
+    "rationale": "Documento ilustrativo bem dimensionado e alegação claramente rotulada.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -673,7 +721,7 @@
     "captions": [
       ""
     ],
-    "rationale": "Fotografia NASA e argumento de fabricação separados.",
+    "rationale": "Imagem NASA e alegação são separadas.",
     "reveals": [
       151.04,
       153.14
@@ -692,7 +740,7 @@
     "captions": [
       "Orlando Ferguson • 1893"
     ],
-    "rationale": "Documento histórico específico.",
+    "rationale": "Documento histórico preservado.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -708,7 +756,7 @@
     "captions": [
       ""
     ],
-    "rationale": "Retorno moderno: ano, vídeos e fóruns em sequência.",
+    "rationale": "Uma interface no momento de vídeos e fóruns, sem excesso de perguntas.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -725,7 +773,7 @@
     "captions": [
       ""
     ],
-    "rationale": "Imagem orbital real e ícone de satélite.",
+    "rationale": "Foto orbital e ícone de satélite preservados.",
     "reveals": [
       166.7,
       168.74
@@ -739,12 +787,12 @@
   {
     "start": 171.02,
     "assets": [
-      "#horizon"
+      "revision/sea-horizon.jpg"
     ],
     "captions": [
-      ""
+      "O horizonte visto do solo"
     ],
-    "rationale": "Diagrama de escala mostra aparência local de horizonte.",
+    "rationale": "Horizonte marítimo reconhecível substitui o desenho abstrato.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -755,12 +803,12 @@
   {
     "start": 174.48,
     "assets": [
-      "#gravity"
+      "revision/pendulum.mp4"
     ],
     "captions": [
-      ""
+      "Gravidade"
     ],
-    "rationale": "Gravidade aparece como argumento contestado, sem conclusão falsa.",
+    "rationale": "GIF de física substitui o círculo com linhas.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -771,28 +819,44 @@
   {
     "start": 177.48,
     "assets": [
-      "#experiment"
+      "revision/laser.jpg"
     ],
     "captions": [
-      ""
+      "Experimentos com laser"
     ],
-    "rationale": "Experimento caseiro genérico; não reproduz resultado real inexistente.",
+    "rationale": "Instrumento concreto, sem sugerir que esta foto é um teste específico da Terra.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 180.38,
+    "chapter": "TERRA PLANA",
+    "voice_text": "experimentos pessoais e observações foram amplamente"
+  },
+  {
+    "start": 180.38,
+    "assets": [
+      "revision/sea-horizon.jpg"
+    ],
+    "captions": [
+      "Observação do horizonte"
+    ],
+    "rationale": "A imagem muda junto com a nova ideia, segundo uso.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
     "end": 182.0,
     "chapter": "TERRA PLANA",
-    "voice_text": "experimentos pessoais e observações foram amplamente compartilhados, geralmente retratando"
+    "voice_text": "compartilhados, geralmente retratando"
   },
   {
     "start": 182.0,
     "assets": [
-      "#share-flat"
+      "revision/flat-society.png"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Compartilhamento de observações em interface editorial.",
+    "rationale": "Identidade real da organização substitui cards genéricos de compartilhamento.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -803,12 +867,12 @@
   {
     "start": 185.96,
     "assets": [
-      "#agency"
+      "revision/nasa.png"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Agência espacial é nomeada; não precisa acumular legendas.",
+    "rationale": "Logotipo oficial, no instante do nome.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -819,12 +883,12 @@
   {
     "start": 186.66,
     "assets": [
-      "#antarctica"
+      "revision/iceberg.jpg"
     ],
     "captions": [
-      ""
+      "Antártida"
     ],
-    "rationale": "Mapa de localização da Antártida como continente.",
+    "rationale": "Foto real identificada, segunda aparição.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -835,12 +899,12 @@
   {
     "start": 189.8,
     "assets": [
-      "#conspiracy"
+      "#accumulation"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Hipóteses se conectam, sem aumento gratuito de caos.",
+    "rationale": "Mosaico de imagem da teoria e símbolos reconhecíveis, sem triângulo.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -851,13 +915,13 @@
   {
     "start": 198.24,
     "assets": [
-      "microscope.svg",
+      "revision/astronauts.jpg",
       "@EVIDÊNCIAS"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Ciência e evidências: uma composição em dupla.",
+    "rationale": "Ciência por fotografia real em vez de mais uma metáfora.",
     "reveals": [
       198.24,
       200.02
@@ -871,18 +935,50 @@
   {
     "start": 203.0,
     "assets": [
-      "#observation"
+      "revision/galileo.jpg"
+    ],
+    "captions": [
+      "Observação histórica"
+    ],
+    "rationale": "Contexto histórico concreto.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 204.54,
+    "chapter": "TERRA PLANA",
+    "voice_text": "observação a imagens de"
+  },
+  {
+    "start": 204.54,
+    "assets": [
+      "orbit.jpg"
     ],
     "captions": [
       ""
     ],
-    "rationale": "Observação histórica, órbita e física introduzidas nos seus tempos.",
+    "rationale": "Imagem orbital, segunda aparição.",
+    "reveals": null,
+    "motion": "rise",
+    "layout": "auto",
+    "end": 205.38,
+    "chapter": "TERRA PLANA",
+    "voice_text": "satélite e a"
+  },
+  {
+    "start": 205.38,
+    "assets": [
+      "revision/pendulum.mp4"
+    ],
+    "captions": [
+      "Física moderna"
+    ],
+    "rationale": "GIF demonstra movimento físico, segundo uso.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
     "end": 206.56,
     "chapter": "TERRA PLANA",
-    "voice_text": "observação a imagens de satélite e a física moderna,"
+    "voice_text": "física moderna,"
   },
   {
     "start": 206.56,
@@ -892,7 +988,7 @@
     "captions": [
       ""
     ],
-    "rationale": "Retorno à fotografia da Terra, segunda aparição justificada.",
+    "rationale": "Fotografia do planeta, segundo uso.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -908,7 +1004,7 @@
     "captions": [
       ""
     ],
-    "rationale": "GIF de globo em rotação como síntese, não registro orbital.",
+    "rationale": "Animação final de globo mantida.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",
@@ -924,7 +1020,7 @@
     "captions": [
       ""
     ],
-    "rationale": "Encerramento do áudio: pergunta ao espectador, sem inventar novo assunto.",
+    "rationale": "Encerramento preservado.",
     "reveals": null,
     "motion": "rise",
     "layout": "auto",

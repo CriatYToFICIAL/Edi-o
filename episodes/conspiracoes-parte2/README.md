@@ -6,7 +6,7 @@ O projeto preserva a grade, fonte Comic Neue, cabeçalho, sete casos no índice 
 
 ## Editar e reconstruir
 
-Edite `scripts/scene_data_v2.py` para imagens, textos e tempos; `scripts/v2_panels.py` para as explicações vetoriais/interfaces; `scripts/build_film.py` para os tokens de layout e a montagem. Os arquivos HTML em `film/compositions/` também são editáveis diretamente; reconstruir sobrescreve esses HTML.
+Na revisão V2, edite `scripts/scene_data_revision.py` para imagens, textos e tempos; `scripts/revision_panels.py` para as interfaces; `scripts/build_film.py` para os tokens de layout e a montagem. Os arquivos HTML em `film/compositions/` também são editáveis diretamente; reconstruir sobrescreve esses HTML. Os antigos `scene_data_v2.py` e `v2_panels.py` foram preservados como referência da primeira montagem.
 
 Na pasta deste episódio:
 
@@ -16,7 +16,7 @@ python scripts/build_film.py
 cd film
 npm ci
 npm run check
-npm run render -- --output renders/conspiracoes-parte2.mp4 --workers 4
+npm run render -- --output renders/conspiracoes-parte2-v2.mp4 --workers 4
 ```
 
 Requisitos: Python 3, Node.js, FFmpeg e Chromium. Em Linux, se necessário, defina `HYPERFRAMES_BROWSER_PATH=/usr/bin/chromium`. HyperFrames está fixado em 0.8.156.

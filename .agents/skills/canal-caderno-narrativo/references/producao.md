@@ -26,6 +26,8 @@ Para um projeto HyperFrames, escreva os tempos e tracks explicitamente. Consulte
 
 ## Revisão final
 
+A revisão de cada cena deve incluir texto já completamente revelado, no meio e próximo ao fim. Verificar caixas de linhas e recortes impostos por todos os ancestrais; não confiar somente nas nove amostras globais do motor. A soma de título, espaçamentos, texto e mídia deve caber no painel. Se um diagrama precisar de uma explicação longa para se tornar compreensível, preferir uma foto, demonstração, objeto reconhecível ou comparação concreta. Não repetir um esquema abstrato apenas mudando os rótulos.
+
 - Conferir cinco pontos de cada cena: primeiro quadro, entrada completa, meio, saída e o quadro seguinte.
 - Ouvir o vídeo do início ao fim. Conferir inteligibilidade, cortes de palavras, silêncio, música, picos e sincronização.
 - Verificar título/avatar em mudanças de caso, legibilidade dos cards, posição das legendas e consistência das sombras.

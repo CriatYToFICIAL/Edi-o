@@ -5,8 +5,8 @@ import re
 import shutil
 from pathlib import Path
 from PIL import Image
-from scene_data_v2 import CHAPTERS, REVEALS, TOTAL
-from v2_panels import panel, CSS as PANEL_CSS
+from scene_data_revision import CHAPTERS, REVEALS, TOTAL
+from revision_panels import panel, CSS as PANEL_CSS
 
 FILM = Path('film')
 PUBLIC = FILM/'public'
@@ -65,8 +65,9 @@ def dimensions(asset, pair):
         if asset!='reptile.svg':return (460,430) if pair else (620,590)
         return (780,585) if pair else (1000,650)
     if asset.endswith('.mp4'):
-        with Image.open(PUBLIC/'media'/asset.replace('.mp4','.gif')) as im:
-            ratio=im.width/im.height
+        import subprocess
+        info=json.loads(subprocess.check_output(['ffprobe','-v','error','-select_streams','v:0','-show_entries','stream=width,height','-of','json',str(PUBLIC/'media'/asset)]))['streams'][0]
+        ratio=info['width']/info['height']
         if asset=='earth-spin.mp4':maxw,maxh=700,650
     elif asset.endswith('.svg'):
         ratio=18/11
@@ -146,7 +147,7 @@ for chapter in CHAPTERS:
                 js.append(f'tl.to("#{v} .migrator",{{x:50,y:-12,duration:{max(.1,end-reveal-.5):.3f},ease:"sine.inOut"}},{reveal+.22:.3f});')
         body.append('</div></section>')
     css=FONT+f'#{cid}-root{{position:absolute;inset:0;width:100%;height:100%;font-family:Comic,sans-serif;color:#070707}}'+CSS+PANEL_CSS+' .piece{opacity:0}.compact .panel{padding:18px;gap:16px}.compact h2{font-size:43px}.compact p{font-size:30px}.compact .tile{font-size:30px}.custom-panel svg{max-width:100%;max-height:340px}.custom-panel .content{min-height:0}.custom-panel .panel{overflow:hidden}'
-    css += ' .custom-panel svg{max-height:490px}.panel .row>.piece{min-width:0}.panel .row>.piece:has(svg){flex:1}.panel .row svg{width:100%;height:auto;max-height:380px}'
+    css += ' .custom-panel .panel{overflow:visible!important}.panel .row>.piece{min-width:0}.custom-panel h2{max-width:100%}'
     content=f'<!doctype html><html lang="pt-BR"><body><template><style>{css}</style><div id="{cid}-root" data-composition-id="{cid}" data-width="1920" data-height="1080" data-duration="{duration:.3f}">'+''.join(body)+f'</div><script>(function(){{const tl=gsap.timeline({{paused:true}});'+''.join(js)+f'window.__timelines["{cid}"]=tl;}})();</script></template></body></html>'
     (COMP/f'{cid}.html').write_text(content)
     (COMP/f'{cid}.motion.json').write_text(json.dumps(dict(duration=duration,assertions=assertions),indent=2))

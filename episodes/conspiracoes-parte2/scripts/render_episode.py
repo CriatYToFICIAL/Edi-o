@@ -13,5 +13,5 @@ if args.pilot:
     Path('film/pilot.html').write_text(source)
     command=[cli,'render','film','-c','pilot.html','-o',str(Path('/tmp/parte2-pilot.mp4')),'--workers','4','--quality','looks']
 else:
-    command=[cli,'render','film','-o',str(Path('film/renders/conspiracoes-parte2.mp4').resolve()),'--workers','4','--quality','looks']
+    command=[cli,'render','film','-o',str(Path('film/renders/conspiracoes-parte2-v2.mp4').resolve()),'--workers','4','--quality','looks']
 subprocess.run(command,check=True)

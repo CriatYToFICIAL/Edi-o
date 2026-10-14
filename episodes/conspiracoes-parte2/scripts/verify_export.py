@@ -2,7 +2,7 @@
 import json,subprocess
 from pathlib import Path
 import numpy as np
-video=Path('film/renders/conspiracoes-parte2.mp4')
+video=Path('film/renders/conspiracoes-parte2-v2.mp4')
 expected=json.loads(Path('audio-edit-map.json').read_text())['edited_duration']
 probe=json.loads(subprocess.check_output(['ffprobe','-v','error','-show_format','-show_streams','-of','json',str(video)]))
 v=next(x for x in probe['streams'] if x['codec_type']=='video');a=next(x for x in probe['streams'] if x['codec_type']=='audio')
@@ -16,7 +16,7 @@ for lag in range(-40,41):
  corr=float(np.dot(xx,yy)/(np.sqrt(np.dot(xx,xx)*np.dot(yy,yy))+1e-10))
  if corr>best[0]:best=(corr,lag/2000)
 decode=subprocess.run(['ffmpeg','-v','error','-i',str(video),'-f','null','-'],capture_output=True,text=True)
-times=[.1,.7,7.8,16.5,24.5,38.9,48.5,55.5,59.9,82.4,103.8,120,136.2,153.8,169,205.8,209.7,218.6]
+times=[.1,.7,7.8,16.5,24.5,38.9,55.5,64.9,74.99,92.5,103.8,112.5,133.8,142.8,153.8,171.5,177.9,191.4,205.8,218.6]
 frames=[round(t*30) for t in times]
 expr='+'.join(f'eq(n,{n})' for n in frames)
 subprocess.run(['ffmpeg','-v','error','-y','-i',str(video),'-vf',f'select={expr.replace(",", chr(92)+",")}', '-fps_mode','vfr','-q:v','3','qc-export-v2/frame-%02d.jpg'],check=True)

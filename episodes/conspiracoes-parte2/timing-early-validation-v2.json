@@ -1,6 +1,6 @@
 {
   "passed": true,
-  "checks": 65,
+  "checks": 73,
   "failures": [],
   "details": [
     {
@@ -16,6 +16,14 @@
       "selector": "#birds-s01-card0",
       "bySec": 5.65,
       "beforeReveal": 5.3500000000000005,
+      "opacity": 0,
+      "visible": true
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s01-card1",
+      "bySec": 7.33,
+      "beforeReveal": 7.03,
       "opacity": 0,
       "visible": true
     },
@@ -37,7 +45,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s03-card1",
+      "selector": "#birds-s04-card0",
       "bySec": 15.79,
       "beforeReveal": 15.489999999999998,
       "opacity": 0,
@@ -45,7 +53,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s04-card0",
+      "selector": "#birds-s05-card0",
       "bySec": 17.71,
       "beforeReveal": 17.41,
       "opacity": 0,
@@ -53,7 +61,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s04-card1",
+      "selector": "#birds-s05-card1",
       "bySec": 19.17,
       "beforeReveal": 18.87,
       "opacity": 0,
@@ -61,7 +69,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s05-card0",
+      "selector": "#birds-s06-card0",
       "bySec": 20.87,
       "beforeReveal": 20.57,
       "opacity": 0,
@@ -69,7 +77,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s05-card1",
+      "selector": "#birds-s06-card1",
       "bySec": 22.23,
       "beforeReveal": 21.93,
       "opacity": 0,
@@ -77,7 +85,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s06-card0",
+      "selector": "#birds-s07-card0",
       "bySec": 24.03,
       "beforeReveal": 23.73,
       "opacity": 0,
@@ -85,15 +93,15 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s07-card0",
-      "bySec": 26.73,
-      "beforeReveal": 26.43,
+      "selector": "#birds-s08-card0",
+      "bySec": 29.83,
+      "beforeReveal": 29.529999999999998,
       "opacity": 0,
       "visible": true
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s08-card0",
+      "selector": "#birds-s09-card0",
       "bySec": 32.93,
       "beforeReveal": 32.63,
       "opacity": 0,
@@ -101,7 +109,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s09-card0",
+      "selector": "#birds-s10-card0",
       "bySec": 35.47,
       "beforeReveal": 35.17,
       "opacity": 0,
@@ -109,7 +117,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#birds-s10-card0",
+      "selector": "#birds-s10-card1",
       "bySec": 38.71,
       "beforeReveal": 38.410000000000004,
       "opacity": 0,
@@ -150,16 +158,24 @@
     {
       "kind": "appearsBy",
       "selector": "#birds-s14-card0",
-      "bySec": 48.07,
-      "beforeReveal": 47.77,
+      "bySec": 50.21,
+      "beforeReveal": 49.910000000000004,
+      "opacity": 0,
+      "visible": true
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#birds-s14-card1",
+      "bySec": 51.15,
+      "beforeReveal": 50.85,
       "opacity": 0,
       "visible": true
     },
     {
       "kind": "appearsBy",
       "selector": "#birds-s15-card0",
-      "bySec": 49.69,
-      "beforeReveal": 49.39,
+      "bySec": 52.39,
+      "beforeReveal": 52.09,
       "opacity": 0,
       "visible": true
     },
@@ -168,14 +184,6 @@
       "selector": "#birds-s16-card0",
       "bySec": 55.43,
       "beforeReveal": 55.13,
-      "opacity": 0,
-      "visible": true
-    },
-    {
-      "kind": "appearsBy",
-      "selector": "#birds-s17-card0",
-      "bySec": 57.21,
-      "beforeReveal": 56.910000000000004,
       "opacity": 0,
       "visible": true
     },
@@ -190,14 +198,6 @@
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s01-card0",
-      "bySec": 63.96,
-      "beforeReveal": 63.660000000000004,
-      "opacity": 0,
-      "visible": true
-    },
-    {
-      "kind": "appearsBy",
-      "selector": "#reptiles-s01-card1",
       "bySec": 64.86,
       "beforeReveal": 64.56,
       "opacity": 0,
@@ -254,6 +254,14 @@
     {
       "kind": "appearsBy",
       "selector": "#reptiles-s08-card0",
+      "bySec": 86.76,
+      "beforeReveal": 86.46000000000001,
+      "opacity": 0,
+      "visible": true
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s09-card0",
       "bySec": 90.48,
       "beforeReveal": 90.18,
       "opacity": 0,
@@ -261,7 +269,15 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s09-card0",
+      "selector": "#reptiles-s09-card1",
+      "bySec": 91.12,
+      "beforeReveal": 90.82000000000001,
+      "opacity": 0,
+      "visible": true
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s10-card0",
       "bySec": 92.26,
       "beforeReveal": 91.96000000000001,
       "opacity": 0,
@@ -269,7 +285,15 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s10-card0",
+      "selector": "#reptiles-s11-card0",
+      "bySec": 95.39,
+      "beforeReveal": 95.09,
+      "opacity": 0,
+      "visible": true
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s12-card0",
       "bySec": 98.14,
       "beforeReveal": 97.84,
       "opacity": 0,
@@ -277,15 +301,15 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s11-card0",
-      "bySec": 102.08,
-      "beforeReveal": 101.78,
+      "selector": "#reptiles-s12-card1",
+      "bySec": 101.36,
+      "beforeReveal": 101.06,
       "opacity": 0,
       "visible": true
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s12-card0",
+      "selector": "#reptiles-s13-card0",
       "bySec": 105.38,
       "beforeReveal": 105.08,
       "opacity": 0,
@@ -293,7 +317,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s13-card0",
+      "selector": "#reptiles-s14-card0",
       "bySec": 109.92,
       "beforeReveal": 109.62,
       "opacity": 0,
@@ -301,7 +325,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s14-card0",
+      "selector": "#reptiles-s15-card0",
       "bySec": 112.04,
       "beforeReveal": 111.74000000000001,
       "opacity": 0,
@@ -309,7 +333,23 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s15-card0",
+      "selector": "#reptiles-s15-card1",
+      "bySec": 114.57,
+      "beforeReveal": 114.27,
+      "opacity": 0,
+      "visible": true
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s16-card0",
+      "bySec": 116.56,
+      "beforeReveal": 116.26,
+      "opacity": 0,
+      "visible": true
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#reptiles-s17-card0",
       "bySec": 118.54,
       "beforeReveal": 118.24000000000001,
       "opacity": 0,
@@ -317,7 +357,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s16-card0",
+      "selector": "#reptiles-s18-card0",
       "bySec": 123.16,
       "beforeReveal": 122.86,
       "opacity": 0,
@@ -325,7 +365,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s17-card0",
+      "selector": "#reptiles-s19-card0",
       "bySec": 127.54,
       "beforeReveal": 127.24000000000001,
       "opacity": 0,
@@ -333,15 +373,15 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s18-card0",
-      "bySec": 132.58,
-      "beforeReveal": 132.28,
+      "selector": "#reptiles-s20-card0",
+      "bySec": 128.8,
+      "beforeReveal": 128.5,
       "opacity": 0,
       "visible": true
     },
     {
       "kind": "appearsBy",
-      "selector": "#reptiles-s18-card1",
+      "selector": "#reptiles-s21-card0",
       "bySec": 133.62,
       "beforeReveal": 133.32,
       "opacity": 0,
@@ -358,8 +398,8 @@
     {
       "kind": "appearsBy",
       "selector": "#flat-s01-card0",
-      "bySec": 141.23,
-      "beforeReveal": 140.92999999999998,
+      "bySec": 142.29,
+      "beforeReveal": 141.98999999999998,
       "opacity": 0,
       "visible": true
     },
@@ -446,6 +486,14 @@
     {
       "kind": "appearsBy",
       "selector": "#flat-s10-card0",
+      "bySec": 180.65,
+      "beforeReveal": 180.35,
+      "opacity": 0,
+      "visible": true
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s11-card0",
       "bySec": 182.27,
       "beforeReveal": 181.97,
       "opacity": 0,
@@ -453,7 +501,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s11-card0",
+      "selector": "#flat-s12-card0",
       "bySec": 186.23,
       "beforeReveal": 185.92999999999998,
       "opacity": 0,
@@ -461,7 +509,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s12-card0",
+      "selector": "#flat-s13-card0",
       "bySec": 186.93,
       "beforeReveal": 186.63,
       "opacity": 0,
@@ -469,7 +517,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s13-card0",
+      "selector": "#flat-s14-card0",
       "bySec": 190.07,
       "beforeReveal": 189.76999999999998,
       "opacity": 0,
@@ -477,7 +525,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s14-card0",
+      "selector": "#flat-s15-card0",
       "bySec": 198.51,
       "beforeReveal": 198.20999999999998,
       "opacity": 0,
@@ -485,7 +533,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s14-card1",
+      "selector": "#flat-s15-card1",
       "bySec": 200.29,
       "beforeReveal": 199.98999999999998,
       "opacity": 0,
@@ -493,7 +541,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s15-card0",
+      "selector": "#flat-s16-card0",
       "bySec": 203.27,
       "beforeReveal": 202.97,
       "opacity": 0,
@@ -501,7 +549,23 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s16-card0",
+      "selector": "#flat-s17-card0",
+      "bySec": 204.81,
+      "beforeReveal": 204.51,
+      "opacity": 0,
+      "visible": true
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s18-card0",
+      "bySec": 205.65,
+      "beforeReveal": 205.35,
+      "opacity": 0,
+      "visible": true
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#flat-s19-card0",
       "bySec": 206.83,
       "beforeReveal": 206.53,
       "opacity": 0,
@@ -509,7 +573,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s17-card0",
+      "selector": "#flat-s20-card0",
       "bySec": 208.89,
       "beforeReveal": 208.58999999999997,
       "opacity": 0,
@@ -517,7 +581,7 @@
     },
     {
       "kind": "appearsBy",
-      "selector": "#flat-s18-card0",
+      "selector": "#flat-s21-card0",
       "bySec": 210.84,
       "beforeReveal": 210.54,
       "opacity": 0,
