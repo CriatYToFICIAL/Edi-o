@@ -1,175 +1,265 @@
-# O próximo cliente
+# Surto Zumbi: 30 Dias no Supermercado da Rodovia
 
-## Capítulo 1 — O turno que sobra
+## Capítulo 1 — A última entrega
 
-Às 2h14 da manhã, um caixa de autoatendimento registra uma compra no supermercado vazio.
+Às 5h48 da manhã, o caminhão de pão atravessa a cancela do recebimento.
 
-O bip vem do caixa três. Você está no corredor de limpeza, com uma prancheta numa mão e uma caixa de detergente na outra. O salão inteiro está fechado. As portas de entrada estão travadas. As luzes da fachada foram apagadas há quase quatro horas.
+Você está conferindo a câmara de bebidas quando ouve a buzina. Uma vez. Depois outra. O motorista está parado diante da doca, com a mão presa no volante e a testa encostada no vidro.
 
-No monitor da segurança, a imagem do caixa três está limpa. Nenhum cliente. Nenhum funcionário. Mesmo assim, a impressora cospe um recibo.
+O padeiro do turno da madrugada corre até o caminhão. Ele bate no vidro. O motorista levanta a cabeça. A boca está coberta de sangue.
 
-**Uma garrafa de água. Às 2h24.**
+O padeiro não volta.
 
-Você pega o papel. O caixa está sem conexão desde o começo do turno. Marta, a gerente, pediu que você fizesse a contagem à mão e foi embora às onze, levando a chave da sala de servidores. O repositor faltou; o segurança foi chamado para casa. Você está sozinho até a equipe da manhã chegar, às seis.
+Você vê o caminhão tocar o portão e mais três pessoas atravessarem o estacionamento para tentar abrir a porta. Nenhuma delas corre.
 
-Às 2h24, as portas automáticas destravam.
+No rádio do empilhador, uma voz diz para as lojas fecharem imediatamente. Depois vem um chiado. Depois, nada.
 
-Um homem entra, pega uma garrafa de água na entrada, passa no caixa três e sai. Não olha para os outros caixas. Não olha para você. A compra leva menos de um minuto.
+Você aperta o botão da porta de enrolar. A chapa desce entre você e a doca. Quando encosta no chão, alguém bate nela do lado de fora.
 
-Você anota o horário na prancheta. Talvez o sistema esteja repetindo uma transação antiga. Talvez o recibo tenha sido impresso antes e caído atrás da máquina. Talvez exista uma explicação simples, e você só precise esperar mais dez minutos para encontrá-la.
+Uma vez.
 
-É um pensamento confortável.
+Duas.
 
-Às 2h31, a impressora trabalha de novo.
+Não é um pedido de ajuda. É só o corpo do padeiro esbarrando no metal.
 
-**Um pacote de pilhas. Às 2h41.**
+No salão, há doze clientes e quatro funcionários. A gerente leva todos para os fundos. Um homem exige que você abra a porta da frente. A filha dele está no carro.
 
-## Capítulo 2 — Dez minutos antes
+Ele abre mesmo assim.
 
-Você espera diante do caixa. A tela apagada mostra: **aguardando próximo cliente**.
+Você nunca descobre se a filha estava no carro. Só vê o homem atravessar o estacionamento e desaparecer entre as pessoas que vinham pela avenida.
 
-Às 2h41, as portas abrem. Uma mulher de casaco amarelo entra, atravessa o salão sem hesitar e vai direto à prateleira de pilhas. Pega um pacote, paga no caixa três e sai.
+Às 6h17, as portas automáticas são travadas. Às 6h30, a gerente sai pela escada de incêndio com dois funcionários para procurar a delegacia.
 
-O recibo bate até na quantidade: um pacote.
+Ela deixa você com a chave do depósito, um rádio sem sinal e uma regra escrita no verso de uma etiqueta de preço:
 
-Na sala de segurança, a gravação confirma: a mulher só aparece às 2h41. Antes disso, o salão está vazio. No escritório, você encontra um lembrete apagado: “Caixa três imprime dez minutos antes.” Você não sabe se é piada ou aviso. O terminal está sem rede, mas o relógio está certo. Os outros caixas não respondem. Só o três permanece ligado.
+**Não abra para ninguém.**
 
-Às 2h52, ele imprime outro recibo.
+Às 7h, você está sozinho.
 
-**Uma caixa de fósforos. Às 3h02.**
+Tem comida suficiente para meses. Água suficiente para alguns dias. E quarenta e sete pessoas paradas diante da fachada de vidro.
 
-Você encontra a caixa na prateleira de camping. Por curiosidade, guarda-a dentro do armário de inventário e tranca a porta. A chave fica no seu bolso.
+Elas não atacam a porta.
 
-Às 3h02, o caixa emite um bip.
+Elas esperam a loja abrir.
 
-No monitor, o armário continua fechado. A caixa de fósforos está lá dentro. Mas, no salão, a gaveta do caixa três se abre sozinha. Um pacote de fósforos aparece sobre a esteira.
+## Capítulo 2 — O corredor de retirada
 
-O leitor pisca. A compra é registrada.
+O supermercado foi construído para facilitar entradas e saídas. Para sobreviver ali, você aprende que cada atalho é uma possível invasão.
 
-Quando você corre até o armário, a porta continua trancada. A caixa desapareceu. No pacote sobre a esteira, a etiqueta está vazia.
+A frente tem vidro. A doca tem uma porta de enrolar. O corredor de retirada possui vinte e quatro armários ligados ao estacionamento. A farmácia tem saída lateral.
 
-O recibo seguinte não diz o que alguém vai comprar.
+No primeiro dia, você não faz uma barricada. Você faz um mapa.
 
-Diz o que o sistema vai retirar do estoque.
+Desenha as portas no verso de cartazes de promoção. Em vermelho, as que precisam de chave. Em azul, as que dependem de energia.
 
-## Capítulo 3 — O carrinho vazio
+O primeiro problema é a retirada de pedidos.
 
-Às 3h12, a impressora funciona com o terminal apagado. O papel sai quente: **um carrinho de compras. Às 3h22.** Na entrada, vinte e três carrinhos estão presos por uma corrente.
+Cada armário tem uma porta para fora e outra para dentro. O funcionário deixa a compra ali; o cliente abre com um código.
 
-Às 3h22, uma das rodas gira.
+Sem internet, eles deveriam estar mortos.
 
-A corrente continua presa. O carrinho não se move. As portas permanecem fechadas. Você se aproxima e tenta empurrá-lo de volta. A roda da frente vira para o salão.
+Às 18h03, todos os vinte e quatro acendem.
 
-Então a corrente se solta.
+O painel anuncia: **PEDIDO PRONTO.**
 
-O carrinho avança sozinho, devagar, passando pela entrada, pelo corredor dos enlatados e pelo caixa três. Para diante do leitor. A máquina apita.
+Do lado de fora, os mortos erguem a cabeça.
 
-A gaveta abre. Não há dinheiro. Não há produto. O visor mostra **compra aprovada**.
+Eles não vêm para o vidro. Eles vêm para os armários.
 
-As portas destravam. O carrinho atravessa o sensor e sai para o estacionamento. A corrente cai no chão atrás dele.
+As portas externas começam a abrir e fechar conforme os sensores detectam movimento.
 
-As câmeras não mostram ninguém empurrando o carrinho. Você entende: o caixa não prevê clientes. Anuncia qual item será baixado do estoque. Às vezes alguém entra e o leva. Outras vezes, a própria loja realiza a baixa. Dez minutos antes, o sistema avisa. Se você esconde o item, ele reaparece no caixa.
+Você corre para o quadro elétrico. Os armários estão ligados a uma bateria própria, instalada para manter os pedidos refrigerados durante quedas curtas de energia. Ela ainda tem carga.
 
-Você deveria ligar para a polícia. Em vez disso, faz a única coisa que parece útil: desliga o caixa três no disjuntor do escritório.
+Você não consegue desligá-la sem abrir o painel no estacionamento.
 
-O salão fica escuro por um segundo.
+Então empurra sacos de arroz contra as portas internas. Vinte e quatro portas. Vinte e quatro obstáculos.
 
-Quando a luz volta, o caixa está ligado.
+Às 18h19, o armário 7 abre do lado de dentro.
 
-Na tela, uma nova mensagem: **aguardando próximo cliente**.
+O saco de arroz segura a porta. Por enquanto.
 
-## Capítulo 4 — A loja confere o estoque
+Naquela noite, você escreve a primeira regra em um cartaz de oferta.
 
-Às 3h34, o sistema lista três itens para as 3h44: um pote de mel, uma lanterna e o molho de chaves do depósito, marcado com uma fita azul. Você leva o mel e a lanterna à sala de segurança, mas deixa as chaves no gancho. Talvez assim a loja não precise procurá-las.
+**Ninguém usa o corredor de retirada.**
 
-Às 3h44, todas as portas do depósito destrancam ao mesmo tempo.
+## Capítulo 3 — A bateria que chama clientes
 
-Você vê pelos monitores. O portão de recebimento não abre, mas a maçaneta gira. As chaves continuam no gancho. O pote de mel continua na sala. A lanterna está sobre a mesa.
+No segundo dia, a bateria dos armários ainda está funcionando.
 
-No caixa três, os três itens aparecem na esteira.
+Ela não deveria. O técnico dizia que durava oito horas. Você encontra a resposta: painéis solares no teto mantêm o sistema de retirada ativo.
 
-A porta do depósito bate uma vez.
+Eles não alimentam o supermercado. Alimentam apenas os armários, as câmeras do estacionamento e o letreiro eletrônico que anuncia pedidos prontos.
 
-Depois outra.
+Ao meio-dia, o letreiro acende sozinho.
 
-O leitor escaneia o mel, a lanterna e as chaves em sequência. Um bip para cada item. O visor mostra o total: zero reais.
+**RETIRE AQUI.**
 
-As portas de entrada continuam fechadas. Nenhum carrinho cruza o sensor.
+E os mortos voltam.
 
-Mas no monitor do escritório, o contador de estoque diminui: um pote, uma lanterna, um molho de chaves. Os produtos foram vendidos. O sistema atualiza o inventário. A porta do depósito volta a trancar.
+Eles chegam de ruas laterais, atraídos pelo brilho verde. Formam uma fila torta diante dos armários.
 
-Na sala, os três itens continuam onde você os deixou, mas as etiquetas foram apagadas. A loja não precisa que saiam de verdade; basta que o sistema os dê como vendidos. Atrás da prancheta há uma instrução da rede: **Em caso de divergência entre estoque físico e sistema, siga o sistema até o fechamento do turno.** Você quase ri. É a frase mais assustadora que já leu num papel timbrado.
+O movimento atrai alguns. A luz atrai outros. Mas certos lugares atraem todos: mercados, farmácias, pontos de ônibus.
 
-O novo recibo chega às 4h.
+Você poderia quebrar os painéis solares. Mas as câmeras do estacionamento morreriam junto.
 
-**Um crachá de funcionário. Às 4h10.**
+Você escolhe continuar vendo.
 
-Você olha para o seu peito.
+O custo vem no terceiro dia.
 
-## Capítulo 5 — O item sem preço
+Às 18h03, o letreiro toca uma melodia curta. Três notas. A mesma que a loja usava para avisar pedidos prontos.
 
-Seu crachá traz seu nome e um código de barras. Você trabalha ali há seis meses; nunca o viu numa lista de estoque. A impressora acrescenta: **valor, zero reais**. Você guarda o crachá no cofre de documentos, gira a combinação e anota a hora. Se a loja quer vendê-lo, vai ter de passar por uma porta trancada.
+Da doca, você escuta metal raspando no metal.
 
-No instante seguinte, as luzes do salão se apagam.
+O caminhão de pão ainda está encostado no portão. Ao redor dele, agora há dezenas de mortos. Um deles encontrou a alavanca de liberação do portão e está puxando sem entender o que faz.
 
-Não todas. Só as fileiras acima dos caixas. O corredor de entrada permanece iluminado. As portas automáticas destravam e ficam abertas, embora o estacionamento esteja vazio.
+A porta de enrolar sobe dez centímetros.
 
-Pelo monitor, você vê o caixa três funcionando no escuro. Uma faixa de luz vermelha atravessa o leitor, como se alguém passasse um produto. A tela mostra: **cliente aguardando assistência**.
+Não o bastante para uma pessoa passar. O bastante para mãos passarem.
 
-O telefone toca. É Marta.
+Você monta uma segunda parede atrás da porta: caixas de leite, carrinhos e barras de ferro.
 
-— Você ainda está aí?
+Quando termina, já é noite. A alavanca para de se mover. O portão desce de novo.
 
-Você conta o que aconteceu. Ela fica em silêncio por alguns segundos e pergunta se o seu crachá ainda está com você.
+Na manhã seguinte, o rádio recebe uma transmissão.
 
-— Está no cofre — você diz.
+“Equipes de evacuação seguem a rota da rodovia no trigésimo dia. Quem estiver vivo deve sinalizar do telhado. Não se aproximem da rua.”
 
-— Não abre esse cofre. Quando o caixa imprime um item, não tenta cancelar a venda. Só deixa a compra terminar.
+Trinta dias.
 
-— Você já viu isso antes?
+Você olha para o calendário de promoções na parede. Ainda faltam vinte e seis.
 
-Marta respira fundo.
+## Capítulo 4 — O pedido errado
 
-— O caixa três foi fechado por causa de um funcionário que sumiu no turno da noite. Faz anos. Disseram que ele tinha ido embora sem bater o ponto. A loja continuou pagando o salário por três meses.
+No quinto dia, você vê uma menina na câmera do estacionamento.
 
-A ligação cai.
+Ela está dentro de um carro branco, estacionado perto das vagas de retirada. O vidro está embaçado. Há uma pessoa no banco da frente, imóvel demais para estar dormindo.
 
-O monitor do escritório pisca. A gaveta do caixa três abre e fecha. Uma vez. Duas. Na terceira, o sistema anuncia pelo alto-falante:
+Ela não sai. Só levanta uma placa contra o vidro.
 
-— Cliente, dirija-se ao caixa três.
+**ÁGUA.**
 
-Você corre até o cofre. A combinação continua na posição correta. A porta está fechada.
+O armário 3 fica perto do carro. Se você colocar água ali, ela consegue abrir pelo lado de fora. E o armário abre para você.
 
-Quando você a abre, o crachá não está lá.
+A regra diz que ninguém usa aquele corredor.
 
-No caixa, a impressora começa a trabalhar.
+Mas regras escritas no primeiro dia não sabem tudo sobre o quinto.
 
-**Um crachá de funcionário. Caixa três. Às 4h10.**
+Você coloca duas garrafas, biscoitos e uma lanterna no armário 3. Tira o saco de arroz e espera atrás de uma estante.
 
-Faltam seis minutos.
+Às 18h03, o letreiro acende.
 
-## Capítulo 6 — Próximo cliente
+Os mortos se movem primeiro.
 
-Você segue para a entrada. Entende que o recibo não diz que você será vendido. Diz que o crachá vai sair da loja. A venda termina quando o item cruza a porta. O crachá está no balcão de atendimento, código de barras limpo. O sistema quer uma saída registrada.
+A menina também.
 
-Às 4h08, você posiciona o crachá na esteira do caixa três.
+Ela abre a porta, pega a sacola e volta para o carro. Um morto enfia o braço na abertura antes que a porta feche.
 
-A máquina reconhece o código. A tela pergunta se deseja finalizar a compra. Você aperta “sim”.
+Você empurra a porta interna com todo o peso do corpo. O braço some. A porta trava. Do outro lado, unhas riscam o metal por quase um minuto.
 
-O total é zero reais.
+No carro, a menina ergue outra placa.
 
-Às 4h10, as portas abrem.
+**MEU PAI FOI MORDIDO.**
 
-Você pega o crachá e atravessa a entrada. O sensor emite um bip comprido. Por um instante, você espera que a porta feche atrás de você. Ela não fecha.
+Você não consegue salvá-la pela porta. Mas o sistema tem um interfone. Você conecta a bateria auxiliar.
 
-O estacionamento está frio e vazio. Você continua andando até o outro lado da rua. Quando olha para trás, as portas já estão travadas. O letreiro de fechado permanece aceso.
+— Você está sozinha?
 
-No bolso, o recibo tem uma última linha, impressa depois da venda:
+Demora alguns segundos.
 
-**Transação concluída. Funcionário liberado.**
+— Desde ontem — ela responde.
 
-Às seis, Marta liga. Você diz que não vai voltar. Ela pergunta se deixou o crachá. Você olha para a mão. Está segurando-o.
+A voz é baixa. Mas está viva.
 
-Na semana seguinte, o caixa três continua desligado. Às 2h14 de terça, a impressora do caixa quatro começa a funcionar.
+Ela se chama Lia. Pergunta se existe saída pelos fundos. Você diz a verdade: existe, mas está fechada por uma porta e por uma cidade inteira.
 
-O primeiro recibo diz: **uma fita adesiva. Às 2h24.**
+Naquela noite, você risca a regra no cartaz.
+
+Embaixo, escreve outra.
+
+**A porta fica fechada. A ajuda não.**
+
+## Capítulo 5 — O dia da chuva
+
+No décimo segundo dia, começa a chover.
+
+Uma chuva grossa enche as calhas e escorre pela claraboia do depósito. Você sobe ao telhado para limpar o ralo.
+
+Lá de cima, vê uma coisa que as câmeras não mostram.
+
+Atrás do supermercado há uma galeria de drenagem: um canal coberto por grades que corre sob o estacionamento e sai perto da rodovia.
+
+O carro de Lia está estacionado sobre a tampa de inspeção.
+
+Você conta os mortos diante dos armários. À tarde, são quase cento e cinquenta.
+
+No décimo sexto dia, a bateria falha. Primeiro, o número 8 apaga. Depois o 17.
+
+Você entende o problema antes de ouvi-lo.
+
+Se o painel morrer, você perde as câmeras e Lia fica num carro cercado.
+
+Você pode manter as câmeras ou abrir todos os armários de uma vez e criar passagem para o carro.
+
+No décimo oitavo dia, Lia fala pelo interfone:
+
+— Eles estão batendo no vidro.
+
+Você olha para o painel. Restam dois níveis de bateria.
+
+Você lança fitas refletivas da cobertura até as placas do estacionamento.
+
+Não é um sinal para resgate.
+
+É uma isca.
+
+Às 18h03, você liga o letreiro pela última vez.
+
+**RETIRE AQUI.**
+
+Os armários abrem todos juntos.
+
+As portas batem. A melodia toca. Os mortos deixam o carro e voltam para a fila que conhecem.
+
+Você usa a energia restante para abrir a porta interna do armário 3 por três segundos. Lia entra no corredor. Você a puxa e fecha a porta antes que uma mão alcance a fresta.
+
+A bateria morre.
+
+O supermercado fica cego para o estacionamento.
+
+Mas Lia está dentro.
+
+## Capítulo 6 — Trinta dias
+
+Nos dias seguintes, vocês aprendem a dividir a loja.
+
+Lia organiza as garrafas por data. Você conta baterias, remédios e latas. Ela dorme na sala de funcionários; você dorme perto da porta de enrolar, porque é onde o metal reclama quando alguém encosta nele.
+
+No vigésimo primeiro dia, os mortos finalmente derrubam o caminhão de pão da doca. O impacto faz a porta subir outra vez. A segunda parede segura, mas uma barra se dobra.
+
+Você e Lia empurram pallets de água contra ela até os braços doerem. Do lado de fora, o som para perto do amanhecer. Não porque eles desistiram. Porque o letreiro não existe mais, e a fila deles começou a se desfazer.
+
+No vigésimo oitavo dia, o rádio volta.
+
+“Evacuação amanhã ao amanhecer. Sinalizem do telhado. Não usem fogo. Não desçam à rodovia.”
+
+Você sobe e prende as últimas fitas refletivas à antena de manutenção. Lia leva uma lanterna. A cidade está escura, mas no horizonte há faróis se movendo pela rodovia.
+
+Na madrugada do trigésimo dia, os mortos voltam a se juntar diante dos armários apagados.
+
+Não há música. Não há tela verde. Só portas fechadas e números sem luz.
+
+Mesmo assim, eles esperam.
+
+Ao amanhecer, um helicóptero passa sobre a rodovia e baixa a luz sobre o telhado. A equipe de evacuação vê as fitas. Um veículo blindado entra pelo estacionamento e empurra a multidão para longe da fachada.
+
+Quando a escada encosta na cobertura, Lia vai primeiro.
+
+Você olha uma última vez para o cartaz de regras preso na parede do depósito.
+
+**A porta fica fechada. A ajuda não.**
+
+No fim, é a única coisa que você precisa levar.
+
+Trinta dias. Duas pessoas. Nenhum pedido pronto.
+
+E, pela primeira vez desde que o caminhão de pão chegou, as portas do supermercado se abrem para deixar alguém sair.
