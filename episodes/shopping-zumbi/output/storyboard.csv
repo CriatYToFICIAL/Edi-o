@@ -1,0 +1,70 @@
+inicio,fim,ambiente,dia,acao
+0,4.8,exterior,,
+4.8,9,workshop,,
+9,13,security,,
+13,17,atrium,,
+17,21,escalator,,
+21,25,escalator,,
+25,30,service,,
+30,34,map,,
+34,39,workshop,DIA 01,
+39,43,service,,
+43,48,projection,,
+48,52,service,,
+52,57,food,,
+57,62,atrium,DIA 02,
+62,68,card,,
+68,73,cinema,,
+73,79,map,,
+79,84,map,,
+84,89,service,,
+89,95,service,DIA 04,door
+95,102,service,,door
+102,108,service,,wedge
+108,113,card,,
+113,119,pharmacy,,
+119,125,toy,,Lia
+125,131,toy,,Lia
+131,136,service,,
+136,142,cinema,DIA 08,
+142,148,furniture,,
+148,155,furniture,,
+155,159,furniture,,
+159,166,pump,DIA 10,water
+166,171,map,,
+171,176,projection,,
+176,181,roof,,
+181,186,map,,
+186,193,atrium,DIA 13,metal
+193,199,atrium,,metal
+199,205,service,,door
+205,211,furniture,,
+211,217,furniture,,
+217,223,atrium,DIA 16,
+223,229,card,,
+229,235,pharmacy,,
+235,241,map,,
+241,248,toy,,
+248,255,pharmacy,,water
+255,260,map,,
+260,267,atrium,DIA 20,metal
+267,273,atrium,,metal
+273,278,service,,door
+278,285,map,,
+285,292,map,,
+292,299,laundry,DIA 22,
+299,305,laundry,,Marta
+305,311,pump,,water
+311,316,map,,
+316,322,service,DIA 26,door
+322,328,roof,,
+328,334,street,,
+334,340,street,,
+340,346,roof,,
+346,352,card,,
+352,357,loading,,
+357,363,map,,
+363,369,map,,
+369,375,roof,,
+375,379,loading,,
+379,381.727313,exterior,,
